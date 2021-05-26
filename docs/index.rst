@@ -10,7 +10,7 @@ Welcome to 3D-Printed-Sensors-Manual-Demo's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   Product-Manual-Elements-Ultimaker-3D-Printer
+   Product_Manual_Elements_Ultimaker_3D_Printer.md
 
 Indices and tables
 ==================
