@@ -1,5 +1,3 @@
-[*Ultimaker 3* -- Ultimaker Support](https://support.ultimaker.com/hc/en-us/sections/360003548399-Ultimaker-3)
-
 # Product Manual Elements: [Ultimaker](https://ultimaker.com/) 3D Printer
 
 [*Ultimaker 3* PDF manual](https://support.ultimaker.com/hc/en-us/article_attachments/360010836740/Ultimaker_3_manual__En_.pdf)
@@ -71,3 +69,5 @@
  -  Plenty of whitespace
  -  Subtle aesthetics
  -  Back cover page
+
+[*Ultimaker 3* -- Ultimaker Support](https://support.ultimaker.com/hc/en-us/sections/360003548399-Ultimaker-3)
