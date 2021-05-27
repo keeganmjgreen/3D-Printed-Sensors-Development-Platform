@@ -2,6 +2,6 @@
 ==============================
 
 .. toctree::
-   :caption: Contents:
+   :caption: Contents
 
    Product-Manual-Elements-Ultimaker-3D-Printer.md
