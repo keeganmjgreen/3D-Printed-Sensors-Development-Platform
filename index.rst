@@ -1,6 +1,8 @@
 3D Printed Sensors Manual Demo
 ==============================
 
+`GitHub repository <https://github.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo>`_
+
 .. toctree::
    :caption: Contents
 
