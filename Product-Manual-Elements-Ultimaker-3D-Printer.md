@@ -70,4 +70,10 @@
  -  Subtle aesthetics
  -  Back cover page
 
-[*Ultimaker 3* -- Ultimaker Support](https://support.ultimaker.com/hc/en-us/sections/360003548399-Ultimaker-3)
+| [*Ultimaker 3* -- Ultimaker Support](https://support.ultimaker.com/hc/en-us/sections/360003548399-Ultimaker-3) |
+|:--|
+| ![](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Ultimaker%203%20%E2%80%93%20Ultimaker%20Support%20(Webpage).png) |
+
+| [Loading Materials on the *Ultimaker 3* -- Ultimaker Support](https://support.ultimaker.com/hc/en-us/articles/360011424760-Loading-materials-on-the-Ultimaker-3) |
+|:--|
+| ![](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Loading%20Materials%20on%20the%20Ultimaker%203%20%E2%80%93%20Ultimaker%20Support%20(Webpage).png) |
