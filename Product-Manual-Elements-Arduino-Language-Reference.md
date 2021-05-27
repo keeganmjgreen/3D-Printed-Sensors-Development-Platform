@@ -1,20 +1,34 @@
 # Product Manual Elements: [Arduino Language Reference](https://www.arduino.cc/reference/en/)
 
-**Note:** Title case italics indicate the names of chapters, sections, and headings (all unnumbered).
+**Note:** Title case italics indicate the names of chapters, sections, *sub*sections, and headings (all unnumbered).
 
- -  Table of contents with built-in header descriptions, e.g.,
+ -  Left-hand column
     
-    [*Language Reference*](https://www.arduino.cc/reference/en/) \
-    Arduino programming language can be divided in three main parts: functions, values (variables and constants), and structure.
+     -  Small chapter-level table of contents (TOC)
+        
+     -  Links to other documentation
+        
+     -  Licensing
+        
+     -  Contributions, e.g.,
+        
+         >  Find anything that can be improved? [Suggest corrections and new documentation via GitHub.](https://github.com/arduino/reference-en)
+         >  
+         >  Doubts on how to use Github? Learn everything you need to know in [this tutorial](https://create.arduino.cc/projecthub/Arduino_Genuino/contribute-to-the-arduino-reference-af7c37). 
     
-    [*Functions*](https://www.arduino.cc/reference/en/#functions) \
-    For controlling the Arduino board and performing computations.
+ -  TOC with built-in header descriptions, e.g.,
     
-    [*Variables*](https://www.arduino.cc/reference/en/#variables) \
-    Arduino data types and constants.
+     >  [*Language Reference*](https://www.arduino.cc/reference/en/) \
+     >  Arduino programming language can be divided in three main parts: functions, values (variables and constants), and structure.
     
-    [*Structure*](https://www.arduino.cc/reference/en/#structure) \
-    The elements of Arduino (C++) code.
+     >  [*Functions*](https://www.arduino.cc/reference/en/#functions) \
+     >  For controlling the Arduino board and performing computations.
+    
+     >  [*Variables*](https://www.arduino.cc/reference/en/#variables) \
+     >  Arduino data types and constants.
+    
+     >  [*Structure*](https://www.arduino.cc/reference/en/#structure) \
+     >  The elements of Arduino (C++) code.
     
     Etc.
     
@@ -23,7 +37,9 @@
     *Analog I/O*, e.g., *analogRead()*
 
      -  *Description*
+        
          -  Inline with text: **table** with footnotes
+        
      -  *Syntax*
         
      -  *Parameters*
