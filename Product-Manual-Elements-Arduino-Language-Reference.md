@@ -75,3 +75,11 @@
     *Communication*, e.g., *Serial* -- of particular relevance to us
     
  -  Footers, incl. copyright notice
+
+| [Arduino Language Reference](https://www.arduino.cc/reference/en/) |
+|:--|
+| ![](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Arduino%20Language%20Reference%20(Webpage).png) |
+
+| [analogRead() -- Arduino Language Reference](https://www.arduino.cc/reference/en/language/functions/analog-io/analogread/) |
+|:--|
+| ![](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/analogRead()%20%E2%80%93%20Arduino%20Language%20Reference%20(Webpage).png) |
