@@ -2,9 +2,7 @@
 
 [Ultimaker 3 Extended PDF manual](https://support.ultimaker.com/hc/en-us/article_attachments/360010836740/Ultimaker_3_manual__En_.pdf)
 
-| Note |
-|:-----|
-| Title case italics indicate the names of chapters (`X.`), sections (`X.Y`), and headings (unnumbered). Ellipses just indicate that one or more of these have been omitted in-place for brevity and/or keeping relevance to product manuals in general and that which we expect to be our own. Strikethroughs just indicate that text is irrelevant to product manuals in general, and so on and so forth. |
+**Note:** Title case italics indicate the names of chapters (`X.`), sections (`X.Y`), and headings (unnumbered). Ellipses just indicate that one or more of these have been omitted in-place for brevity and/or keeping relevance to product manuals in general and that which we expect to be our own. Strikethroughs just indicate that text is irrelevant to product manuals in general, and so on and so forth.
 
  -  Title page
      -  "Ultimaker 3: Installation and User Manual"
