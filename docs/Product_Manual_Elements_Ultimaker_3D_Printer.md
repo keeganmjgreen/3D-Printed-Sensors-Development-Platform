@@ -60,7 +60,7 @@
      -  ...
      -  *Calibration*
  -  *6. Maintenance*
-     -  *Updating the ~~Firmware~~ Software**
+     -  *Updating the ~~Firmware~~ Software*
      -  ...
  -  *7. Troubleshooting*
      -  *Error messages*?
