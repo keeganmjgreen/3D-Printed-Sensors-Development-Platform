@@ -62,7 +62,7 @@
      -  ...
  -  *7. Troubleshooting*
      -  *Error messages*?
-         -  Links to online documentation
+         -  Links to [online reference](https://support.ultimaker.com/hc/en-us/sections/360003523739-Error-Messages)
      -  ...
  -  Inline with text: numerous **photo graphics**
  -  Inline with text: GUI **screenshots**
