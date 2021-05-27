@@ -1,6 +1,6 @@
 # Product Manual Elements: [Arduino Language Reference](https://www.arduino.cc/reference/en/)
 
-**Note:** Title case italics indicate the names of chapters, sections, *sub*sections, and headings (all unnumbered).
+**Note:** Title case italics indicate the names of chapters, sections, pages, and headings (all unnumbered).
 
  -  Left-hand column
     
@@ -16,7 +16,7 @@
          >  
          >  Doubts on how to use Github? Learn everything you need to know in [this tutorial](https://create.arduino.cc/projecthub/Arduino_Genuino/contribute-to-the-arduino-reference-af7c37). 
     
- -  TOC with built-in header descriptions, e.g.,
+ -  TOC page with inline header descriptions, e.g.,
     
      >  [*Language Reference*](https://www.arduino.cc/reference/en/) \
      >  Arduino programming language can be divided in three main parts: functions, values (variables and constants), and structure.
@@ -34,7 +34,7 @@
     
  -  *Functions*, e.g.,
     
-    *Analog I/O*, e.g., *analogRead()*
+    *Analog I/O*, e.g., *analogRead()* -- of particular relevance to us
 
      -  *Description*
         
@@ -69,8 +69,8 @@
         
      -  *See Also*, e.g.,
         
-        Language: *analogReadResolution()*
+        Language: [*analogReadResolution()*](https://www.arduino.cc/reference/en/language/functions/zero-due-mkr-family/analogreadresolution/)
 
-        Example: *Description of the analog input pins*
+        Example: [*Description of the analog input pins*](https://www.arduino.cc/en/Tutorial/Foundations/AnalogInputPins)
     
-    *Communication*, e.g., *Serial*
+    *Communication*, e.g., *Serial* -- of particular relevance to us
