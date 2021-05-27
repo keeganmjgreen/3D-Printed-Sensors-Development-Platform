@@ -18,7 +18,7 @@
  -  TOC page with inline header descriptions, e.g.,
     
      >  [*Language Reference*](https://www.arduino.cc/reference/en/) \
-     >  Arduino programming language can be divided in three main parts: functions, values (variables and constants), and structure.
+     >  Arduino programming language can be divided in three main parts: functions, values (variables and constants), and structure...
     
      >  [*Functions*](https://www.arduino.cc/reference/en/#functions) \
      >  For controlling the Arduino board and performing computations.
