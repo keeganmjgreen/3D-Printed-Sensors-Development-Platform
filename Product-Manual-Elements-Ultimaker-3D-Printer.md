@@ -64,8 +64,8 @@
      -  *Error messages*?
          -  Links to [online reference](https://support.ultimaker.com/hc/en-us/sections/360003523739-Error-Messages)
      -  ...
- -  Inline with text: numerous **photo graphics**
  -  Inline with text: GUI **screenshots**
+ -  Inline with text: numerous **photo graphics**
  -  Plenty of whitespace
  -  Subtle aesthetics
  -  Back cover page
