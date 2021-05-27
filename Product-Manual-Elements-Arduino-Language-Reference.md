@@ -2,14 +2,13 @@
 
 **Note:** Title case italics indicate the names of chapters, sections, pages, and headings (all unnumbered).
 
+ -  Website navigation
+ -  Language selection
  -  Left-hand column
     
      -  Small chapter-level table of contents (TOC)
-        
      -  Links to other documentation
-        
-     -  Licensing
-        
+     -  [Licensing](https://creativecommons.org/licenses/)
      -  Contributions, e.g.,
         
          >  Find anything that can be improved? [Suggest corrections and new documentation via GitHub.](https://github.com/arduino/reference-en)
@@ -41,11 +40,8 @@
          -  Inline with text: **table** with footnotes
         
      -  *Syntax*
-        
      -  *Parameters*
-        
      -  *Returns*
-        
      -  *Example Code*
         
          -  Inline with text: **code block**, e.g.,
@@ -66,11 +62,14 @@
             ```
             
      -  *Notes and Warnings*
-        
      -  *See Also*, e.g.,
         
         Language: [*analogReadResolution()*](https://www.arduino.cc/reference/en/language/functions/zero-due-mkr-family/analogreadresolution/)
 
         Example: [*Description of the analog input pins*](https://www.arduino.cc/en/Tutorial/Foundations/AnalogInputPins)
+        
+     -  Last page revision
+     -  Last page build
+     -  Link to "[edit this page](https://github.com/arduino/reference-en/edit/master/Language/Functions/Analog%20IO/analogRead.adoc)"
     
     *Communication*, e.g., *Serial* -- of particular relevance to us
