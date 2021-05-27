@@ -46,19 +46,19 @@
          -  ...
          -  *Connecting the Power Supply*
  -  *4. Set Up for First Use*
-     -  *~~Print Core~~ Installation*
+     -  *Print Core Installation* $\to$ Installation
      -  ...
  -  *5. Operation*
-     -  *Control ~~and Display~~*
+     -  *Control and Display* $\to$ Control
          -  *Control*
          -  ...
      -  *Materials*
          -  Inline with text: material compatibility **tables** with legends
-     -  *~~Preparing a Print with Ultimaker Cura~~ Preparation*?
+     -  *Preparing a Print with Ultimaker Cura* $\to$ Preparation?
      -  ...
      -  *Calibration*
  -  *6. Maintenance*
-     -  *Updating the ~~Firmware~~ Software*
+     -  *Updating the Firmware* $\to$ Updating the Software
      -  ...
  -  *7. Troubleshooting*
      -  *Error messages*?
