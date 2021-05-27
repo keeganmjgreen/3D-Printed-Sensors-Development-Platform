@@ -73,3 +73,5 @@
      -  Link to "[edit this page](https://github.com/arduino/reference-en/edit/master/Language/Functions/Analog%20IO/analogRead.adoc)"
     
     *Communication*, e.g., *Serial* -- of particular relevance to us
+    
+ -  Footers, incl. copyright notice
