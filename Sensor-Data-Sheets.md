@@ -69,4 +69,4 @@ Common Headings and information contained in sensor User Manuals that are releva
 - Circuit Diagram (Schematic Diagram)
   - Always only one system level circuit diagram including all wiring.
 - Legal Notice
-  - All of the important legal information/waivers, essentially to explain to not take a bath with your accelerometer.
+  - All relevant legal information/waivers, essentially to explain to not take a bath with your accelerometer.
