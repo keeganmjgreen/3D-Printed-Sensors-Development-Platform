@@ -41,3 +41,17 @@ The document will conclude with an analysis of common content, structure and con
 ### Data Logging Devices ###
 [RHTEMP101A - User Manual](https://www.madgetech.com/wp-content/uploads/2020/05/rhtemp101a-pug.pdf)
 
+
+## Notes & Conclusions ##
+
+There is a large degree of variation between sensor Data Sheets/User Manuals. Different manufacturers and suppliers have markedly different scope and organization of data included. Evaluation boards tend to have much more information, specifically with regard in how to calibrate and use the sensor compared to individual sensor modules. This difference is even reflected within the document name - Evaluation Boards are more likely to have User Manuals and modules are more likely to have Data Sheets. Pithon is more akin to an evaluation board than a module. 
+
+Common Headings and information contained in sensor User Manuals that are relevant to Pithon are:
+
+- Product Description
+  - 1/3 to 1/2 page description of the product
+  - Summary of key features/selling points
+  - Link to manufacturer's website for additional info and demosntrations
+- System Diagram
+  - Non-technical (usually) system level diagram, sometimes with a scale reference. Either physical system or computer model.
+-
