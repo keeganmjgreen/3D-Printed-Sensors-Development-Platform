@@ -54,4 +54,19 @@ Common Headings and information contained in sensor User Manuals that are releva
   - Link to manufacturer's website for additional info and demosntrations
 - System Diagram
   - Non-technical (usually) system level diagram, sometimes with a scale reference. Either physical system or computer model.
--
+- Quick Start Guide
+  - Essentially just a description on how to use the product as fast as safely possible.
+- Installation/Hardware Setup
+  - How to properly setup the device into normal operating conditions. Always follows the Quick Start Guide
+- Calibration
+  - Sometimes called 'Experiments'
+  - Detailed description on how to calibrate the device.
+  - Seperated into multiple subheadings for testing each individual part of the calibration process 
+- Source Code (In some manuals)
+  - Snippets of source code that can be used to utilize the sensor to its fullest extent.
+- Specifications
+  - All the technical information for the sensor such as bandwidth, sensitivity, max input voltage/current, etc. 
+- Circuit Diagram (Schematic Diagram)
+  - Always only one system level circuit diagram including all wiring.
+- Legal Notice
+  - All of the important legal information/waivers, essentially to explain to not take a bath with your accelerometer.
