@@ -21,7 +21,7 @@ We have compiled summary outlines of the elements of product user/technical manu
    - `strain gauges         <https://3d-printed-sensors-manual-demo.readthedocs.io/en/latest/Sensor-Data-Sheets.html#strain-gauges>`_
    - `accelerometers        <https://3d-printed-sensors-manual-demo.readthedocs.io/en/latest/Sensor-Data-Sheets.html#accelerometers>`_
 
-These 'product manual elements' are those which are the most important and relevant to product manuals in general and that which we expect to be our own.
+These **product manual elements** are those which are the most important and relevant to product manuals in general and that which we expect to be our own.
 
 .. toctree::
    :caption: Contents
