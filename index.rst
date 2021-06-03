@@ -15,7 +15,7 @@ We have compiled summary outlines of the elements of product user/technical manu
 
 1. Our `3D printer                                                         <https://3d-printed-sensors-manual-demo.readthedocs.io/en/latest/Product-Manual-Elements-Ultimaker-3D-Printer.html>`_
 2. Our `microcontroller platform language                                  <https://3d-printed-sensors-manual-demo.readthedocs.io/en/latest/Product-Manual-Elements-Arduino-Language-Reference.html>`_
-3. Commercial `evaluation boards, sensor modules, and data logging devices <https://3d-printed-sensors-manual-demo.readthedocs.io/en/latest/Sensor-Data-Sheets.html>`_:
+3. Commercial `evaluation boards, sensor modules, and data logging devices <https://3d-printed-sensors-manual-demo.readthedocs.io/en/latest/Sensor-Data-Sheets.html>`_
 
    - `environmental sensors <https://3d-printed-sensors-manual-demo.readthedocs.io/en/latest/Sensor-Data-Sheets.html#environmental-sensors>`_
    - `strain gauges         <https://3d-printed-sensors-manual-demo.readthedocs.io/en/latest/Sensor-Data-Sheets.html#strain-gauges>`_
