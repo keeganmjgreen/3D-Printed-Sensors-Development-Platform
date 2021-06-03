@@ -9,6 +9,8 @@
 
 `GitHub repository <https://github.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo>`_
 
+----
+
 We have compiled summary outlines of the elements of product user/technical manuals and data sheets:
 
 1. our `3D printer                                                         <https://3d-printed-sensors-manual-demo.readthedocs.io/en/latest/Product-Manual-Elements-Ultimaker-3D-Printer.html>`_
