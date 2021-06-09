@@ -7,7 +7,7 @@
      -  Version number: vX.X
      -  Year: 2021
  -  Header and footer including page numbers from unnumbered title page
- -  *Disclaimer*
+ -  *Legal Disclaimer*
      -  Intended use
  -  Compliance note
  -  Copyright notice
