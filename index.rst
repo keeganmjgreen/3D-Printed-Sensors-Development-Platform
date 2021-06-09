@@ -30,3 +30,4 @@ These **product manual elements** are those which are the most important and rel
    Product-Manual-Elements-Arduino-Language-Reference.md
    Markdown-Tutorial.md
    Sensor-Data-Sheets.md
+   3D-Printed-Sensors-Manual-Outline.md
