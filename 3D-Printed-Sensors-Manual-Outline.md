@@ -4,7 +4,7 @@
      -  Working title: "Monti Pithon Platform for 3D Printed Sensors: Technical/User Documentation"
      -  Version number: vX.X
      -  Year: 2021
- -  No header and footer except page numbers from unnumbered title page
+ -  Header and footer including page numbers from unnumbered title page
  -  *Disclaimer*
      -  Intended use
  -  Compliance note
@@ -12,7 +12,7 @@
  -  *Table of Contents* (including previous *Disclaimer*) with both links and page numbers but without chapter or section numbers
  -  New-section pages with intros
  -  *Preface*
- -  *Certifications*
+ -  (Would-be) *Certifications*
      -  Certification logos
      -  For the latest version of the [CE](https://ec.europa.eu/growth/single-market/ce-marking/) document go to \[web address\]"
  -  *1. Safety and Compliance*
@@ -42,23 +42,23 @@
          -  ...
          -  *Connecting the Power Supply*
  -  *4. Set Up for First Use*
-     -  *Print Core Installation* $\to$ Installation
+     -  *Installation*
      -  ...
  -  *5. Operation*
-     -  *Control and Display* $\to$ Control
+     -  *Control*
          -  *Control*
          -  ...
      -  *Materials*
          -  Inline with text: material compatibility **tables** with legends
-     -  *Preparing a Print with Ultimaker Cura* $\to$ Preparation?
+     -  *Preparation*?
      -  ...
      -  *Calibration*
  -  *6. Maintenance*
-     -  *Updating the Firmware* $\to$ Updating the Software
+     -  *Updating the Software*
      -  ...
  -  *7. Troubleshooting*
      -  *Error messages*?
-         -  Links to [online reference](https://support.ultimaker.com/hc/en-us/sections/360003523739-Error-Messages)
+         -  Links to online reference?
      -  ...
  -  Inline with text: GUI **screenshots**
  -  Inline with text: numerous **photo graphics**
