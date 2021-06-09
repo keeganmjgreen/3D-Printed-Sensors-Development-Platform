@@ -1,5 +1,7 @@
 # Preliminary 3D Printed Sensors Manual Outline
 
+----
+
 -  Title page
      -  Working title: "Monti Pithon Platform for 3D Printed Sensors: Technical/User Documentation"
      -  Version number: vX.X
@@ -65,3 +67,5 @@
  -  Plenty of whitespace
  -  Subtle aesthetics
  -  Back cover page
+
+----
