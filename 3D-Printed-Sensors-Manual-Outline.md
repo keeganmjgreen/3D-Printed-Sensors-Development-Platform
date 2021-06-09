@@ -1,7 +1,7 @@
-# 3D Printed Sensors Manual Outline
+# Preliminary 3D Printed Sensors Manual Outline
 
 -  Title page
-     -  "Ultimaker 3: Installation and User Manual"
+     -  Title
      -  Version number
      -  Year
  -  No header and footer except page numbers from unnumbered title page
