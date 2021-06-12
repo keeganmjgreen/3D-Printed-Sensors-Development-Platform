@@ -40,7 +40,7 @@
     
  -  Nice-to-have: A shop supply of compressed air, to clean the 3D printer (and workspace) of filament dust and stray pieces.
     
-    | ![Notice](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ANSI_Notice_Header_-_1998.svg/300px-ANSI_Notice_Header_-_1998.svg.png) |
+    | <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/ANSI_Notice_Header_-_1998.svg" alt="Notice" style="zoom:25%;" /> |
     |-|
     | Compressed air lines are at very high pressures, much higher than that of a compressed air canister. Test their force a meter from the 3D printer first. Failure to do so may damage the more delicate parts of the printer. |
     
