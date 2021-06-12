@@ -44,7 +44,7 @@
     |-|
     | Compressed air lines are at very high pressures, much higher than that of a compressed air canister. Test their force a meter from the 3D printer first. Failure to do so may damage the more delicate parts of the printer. |
     
-    | ![Caution](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/ANSI_Caution_Header_-_1998.svg/300px-ANSI_Caution_Header_-_1998.svg.png) |
+    | <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/ANSI_Caution_Header_-_1998.svg" alt="Caution" style="zoom:25%;" /> |
     |-|
     | Compressed air lines are at very high pressures. Always wear safety goggles when working with a compressed air line. Never point its nozzle at yourself or others. Failure to do so may result in bodily harm. |
     
