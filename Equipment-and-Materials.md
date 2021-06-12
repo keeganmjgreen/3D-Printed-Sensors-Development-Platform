@@ -1,4 +1,4 @@
-# Equipment and Materials
+# Preliminary List of Equipment and Materials
 
  -  A 250-gram spool of regular 3D printing filament.
     
@@ -51,3 +51,4 @@
  -  Optional: [*Scotch blue*](https://www.scotchblue.com/3M/en_US/scotchblue/) or similar tape, to form a layer on the *print bed* for making prints stick to it better during fabrication, while making it easier to remove afterward.
 
 \* We do not endorse or represent Ultimaker or any of the other brands named in this documentation.
+P
