@@ -1,4 +1,4 @@
-# Preliminary 3D Printed Sensors Manual Outline
+# 3D Printed Sensors Manual Outline
 
 ----
 
