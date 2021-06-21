@@ -32,3 +32,4 @@ These **product manual elements** are those which are the most important and rel
    Sensor-Data-Sheets.md
    3D-Printed-Sensors-Manual-Outline.md
    Equipment-and-Materials.md
+   data_logger_interface.md
