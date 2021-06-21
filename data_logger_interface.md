@@ -1,5 +1,5 @@
-**Microcontroller-Based Analog Data Logger Interface**
-====================================
+Microcontroller-Based Analog Data Logger Interface
+==================================================
 
 We developed a Windows 10 interface in Python for a microcontroller-based analog data logger with a wired connection to a computer. The program may be run directly by launching `analogDataLoggerInterface.pyw` or, naturally, by executing the following command.
 
@@ -11,8 +11,8 @@ The interface prompts you to connect the microcontroller (via USB) such as an Ar
 
 These features can be broken down by going through its library imports as follows.
 
-**1. Library Imports** in Order of Appearance
----------------------------------------------
+1. Library Imports in Order of Appearance
+-----------------------------------------
 
 The user is to at least be notified that the data logger was connected and disconnected (via USB).  
 `win10toast` by Jithu Jacob is a Python library ([PyPI](https://pypi.org/project/win10toast/), [GitHub](https://github.com/jithurjacob/Windows-10-Toast-Notifications)) for displaying Windows 10 toast notifications.
@@ -53,8 +53,8 @@ The prepared data is to be made accessible through a beautiful, interactive, in-
 import plotly.graph_objects as go
 ```
 
-**2. Minimal User Interface | Reading from the Data Logger**
------------------------------------------------------------------------
+2. Minimal User Interface | Reading from the Data Logger
+--------------------------------------------------------
 
 To start with, initialize an instance of the *toast notifier* class using a memorable name:
 
@@ -216,8 +216,8 @@ while True:
 │   │   break
 ```
 
-**3. Preparing the Collected Analog Data**
-----------------------------------------------
+3. Preparing the Collected Analog Data
+--------------------------------------
 
 *See the following numbered, broken-down block of code.*
 
@@ -255,8 +255,8 @@ window = 5
 y_smooth = pd.Series(y).rolling(window, center = True).mean().to_numpy()
 ```
 
-**4. Making the Results Accessible**
-------------------------------------
+4. Making the Results Accessible
+--------------------------------
 
 Firstly, export the prepared data to a CSV file for reference:
 
@@ -279,8 +279,8 @@ fig.show()
 
 This marks the end of the program.
 
-**Appendix**
-------------
+Appendix
+--------
 
 **Optional refactor 0:**
 
