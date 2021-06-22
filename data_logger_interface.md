@@ -272,6 +272,8 @@ fig.update_layout(title = 'Logged Data')
 fig.show()
 ```
 
+![data_logger_interface_example.png](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/data_logger_interface_example.png)
+
 This marks the end of the program.
 
 ## Appendix
