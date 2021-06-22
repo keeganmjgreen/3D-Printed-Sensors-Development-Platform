@@ -12,7 +12,7 @@
  -  *Glossary*
  -  Compliance note
  -  Copyright notice
- -  *Table of Contents* (including previous *Disclaimer*) with both links and page numbers but without chapter or section numbers
+ -  *Table of Contents* (including previous *Legal Disclaimer*) with both links and page numbers but without chapter or section numbers
  -  New-section pages with intros
  -  *Preface*
  -  (Would-be) *Certifications*
