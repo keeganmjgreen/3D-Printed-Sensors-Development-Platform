@@ -58,7 +58,7 @@
      -  *7.2 Frequently Asked Questions*
      -  ...
  -  Inline with text: GUI **screenshots**
- -  Inline with text: numerous **photo graphics**
+ -  Inline with text: Numerous **photo graphics**
  -  Plenty of whitespace
  -  Subtle aesthetics
  -  Back cover page
