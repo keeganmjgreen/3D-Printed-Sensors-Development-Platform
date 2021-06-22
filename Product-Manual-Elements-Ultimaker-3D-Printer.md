@@ -53,7 +53,7 @@
          -  *Control*
          -  ...
      -  *Materials*
-         -  Inline with text: material compatibility **tables** with legends
+         -  Inline with text: mMterial compatibility **tables** with legends
      -  *Preparing a Print with Ultimaker Cura* $\to$ Preparation?
      -  ...
      -  *Calibration*
@@ -65,7 +65,7 @@
          -  Links to [online reference](https://support.ultimaker.com/hc/en-us/sections/360003523739-Error-Messages)
      -  ...
  -  Inline with text: GUI **screenshots**
- -  Inline with text: numerous **photo graphics**
+ -  Inline with text: Numerous **photo graphics**
  -  Plenty of whitespace
  -  Subtle aesthetics
  -  Back cover page
