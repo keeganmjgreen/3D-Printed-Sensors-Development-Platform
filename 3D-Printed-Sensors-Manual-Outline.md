@@ -15,7 +15,7 @@
  -  *Table of Contents* (including previous *Legal Disclaimer*) with both links and page numbers but without chapter or section numbers
  -  New-section pages with intros
  -  *Preface*
- -  (Would-be) *Certifications*
+ -  *Certifications* (if applicable)
      -  Certification logos
      -  For the latest version of the [CE](https://ec.europa.eu/growth/single-market/ce-marking/) document go to \[web address\]"
  -  *1. Safety and Compliance*
@@ -39,29 +39,23 @@
          -  *Power Requirements*
          -  *Ambient Conditions*
          -  *Software*
- -  *3. Unpack and Install the Hardware*
-     -  ...
-     -  *3.2 Installing the Hardware Accessories*
-         -  ...
-         -  *Connecting the Power Supply*
- -  *4. Set Up for First Use*
-     -  *Installation*
-     -  ...
+ -  *3. Hardware Installation*
+ -  *4. Initial Setup / Quick Start Guide*
  -  *5. Operation*
-     -  *Control*
-         -  *Control*
-         -  ...
-     -  *Materials*
-         -  Inline with text: material compatibility **tables** with legends
-     -  *Preparation*?
-     -  ...
+     -  *5.1 Control*
+     -  *5.2 Materials*
+         -  Material compatibility **tables** with legends?
+     -  *5.3 Print Preparation*(*s*?)
+     -  *5.4 Calibration*
      -  *Calibration*
  -  *6. Maintenance*
-     -  *Updating the Software*
-     -  ...
+     -  *6.1 Maintaining your Printer (refers to printer manual)*
+     -  *6.2 Sensor Verification Tests*
+     -  *6.3 Updating the Software*
  -  *7. Troubleshooting*
-     -  *Error messages*?
+     -  *7.1 Error Messages and Their Meanings*
          -  Links to online reference?
+     -  *7.2 Frequently Asked Questions*
      -  ...
  -  Inline with text: GUI **screenshots**
  -  Inline with text: numerous **photo graphics**
