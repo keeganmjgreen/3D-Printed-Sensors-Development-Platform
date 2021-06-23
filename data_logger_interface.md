@@ -1,3 +1,7 @@
+| Notice |
+| ------ |
+| Our interface is not real-time (beyond the sense that serial communication is not real-time). The logged data is plotted only after it is collected, not *as* it is collected. We will attempt to add this capability. Alternatively, or as a temporary workaround, we (and possibly our end users) will adapt/use the Arduino IDE serial plotter or others. |
+
 # Microcontroller-Based Analog Data Logger Interface
 
 We developed a Windows 10 interface in Python for a microcontroller-based analog data logger with a wired connection to a computer. The program may be run directly by launching `analogDataLoggerInterface.pyw` or, naturally, by executing the following command.
