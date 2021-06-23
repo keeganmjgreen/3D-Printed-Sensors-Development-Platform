@@ -1,6 +1,8 @@
 | Notice |
-| ------ |
+|:-------|
 | Our interface is not real-time (beyond the sense that serial communication is not real-time). The logged data is plotted only after it is collected, not *as* it is collected. We will attempt to add this capability. Alternatively, or as a temporary workaround, we (and possibly our end users) will adapt/use the Arduino IDE serial plotter or others. |
+
+----
 
 # Microcontroller-Based Analog Data Logger Interface
 
