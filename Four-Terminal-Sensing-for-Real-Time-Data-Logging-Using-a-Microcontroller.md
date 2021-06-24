@@ -1,8 +1,8 @@
 # Four-Terminal Sensing for Real-Time Data Logging Using a Microcontroller
 
-Wiring diagram:
-
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Four-Terminal-Sensing-for-Real-Time-Data-Logging-Using-a-Microcontroller.png" style="zoom:50%;" />
+
+Wiring diagram $\uparrow$
 
 ## Materials and Preparation
 
@@ -29,9 +29,9 @@ Wiring diagram:
 
 ## Instructions -- Assembly
 
-Pinout of a four-terminal sensor:
-
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Four-Terminal-Sensor-Pinout.png" style="zoom:50%;" />
+
+Pinout of a four-terminal sensor $\uparrow$
 
 **For Testing**
 
