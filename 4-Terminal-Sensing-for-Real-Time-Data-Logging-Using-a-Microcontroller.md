@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/4-Terminal-Sensing-for-Real-Time-Data-Logging-Using-a-Microcontroller.png" style="zoom:50%;" />
 
-$\uparrow$ Wiring diagram
+$\uparrow$ Wiring diagram.
 
 ## Materials and Preparation
 
@@ -31,7 +31,7 @@ $\uparrow$ Wiring diagram
 
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/4-Terminal-Sensor-Pinout.png" style="zoom:50%;" />
 
-$\uparrow$ Pinout of a 4-terminal sensor
+$\uparrow$ Pinout of a 4-terminal sensor.
 
 **For Testing**
 
