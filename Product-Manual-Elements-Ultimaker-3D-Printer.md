@@ -53,7 +53,7 @@
          -  *Control*
          -  ...
      -  *Materials*
-         -  Inline with text: mMterial compatibility **tables** with legends
+         -  Inline with text: Material compatibility **tables** with legends
      -  *Preparing a Print with Ultimaker Cura* $\to$ Preparation?
      -  ...
      -  *Calibration*
