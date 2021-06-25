@@ -32,6 +32,7 @@ These **product manual elements** are those which are the most important and rel
    Sensor-Data-Sheets.md
    3D-Printed-Sensors-Manual-Outline.md
    Equipment-and-Materials.md
+   Using-Conductive-Paint.md
    2-Terminal-Sensing-for-Real-Time-Data-Logging-Using-a-Microcontroller.md
    4-Terminal-Sensing-for-Real-Time-Data-Logging-Using-a-Microcontroller.md
    Microcontroller-Based-Analog-Data-Logger-Interface.md
