@@ -1,5 +1,7 @@
 # 2-Terminal Sensing for Real-Time Data Logging Using a Microcontroller
 
+2-terminal sensing is less consistent between sensors and less repeatable for a given sensor than 4-terminal sensing. However, it is simpler to get up and running.
+
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/2-Terminal-Sensing-for-Real-Time-Data-Logging-Using-a-Microcontroller.png" style="zoom:50%;" />
 
 $\uparrow$ Wiring diagram. Pins `A0` -- `A1` are analog input pins to the microcontroller.
