@@ -39,7 +39,7 @@ $\uparrow$ Wiring diagram.
     
  4. Connect the end of the `GND` wire assembly to the resistor.
     
- 5. Connect the ends of the remaining wire assemblies, in order, to the `T1` and `T2` terminals of the 2-terminal sensor.
+ 5. Connect the ends of the remaining wire assemblies, in order, to terminals `T1` -- `T2` of the 2-terminal sensor.
 
 **For Production** without a Circuit Board
 
@@ -54,7 +54,7 @@ $\uparrow$ Wiring diagram.
    
    Apply the heat shrink tubing around all connections by evenly heating it using the soldering iron.
    
-6. Connect the ends of the remaining wire assemblies, in order, to the `T1` and `T2` terminals of the 2-terminal sensor.
+6. Connect the ends of the remaining wire assemblies, in order, to terminals `T1` -- `T2` of the 2-terminal sensor.
    
     1.  Coil the stripped ends of the thin wires into loops.
     2.  Carefully rest the loops on the center of the matching terminals' contact pads, holding the wires and sensor down using masking tape.
