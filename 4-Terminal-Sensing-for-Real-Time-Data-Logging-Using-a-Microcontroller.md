@@ -71,11 +71,11 @@ If you are using an [Arduino microcontroller](https://www.arduino.cc/en/Main/Pro
 [`4_terminal_sensing_for_real_time_data_logging_using_a_microcontroller.ino`](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/4_Terminal_Sensing_for_Real_Time_Data_Logging_Using_a_Microcontroller.ino)
 
 ```c++
-float R_series = 10e3;
+float R_series = 10e3;       // Known value of resistor in series with 4-terminal sensor.
 
 void setup()
 {
-  Serial.begin(9600); // Open communication with 
+  Serial.begin(9600);        // Open communication with a computer via USB or with another device via UART.
 }
 void loop()
 {
