@@ -22,7 +22,7 @@ $\uparrow$ Wiring diagram.
      -  Soldering iron with stand
      -  Lead-free solder
      -  Soldering sponge or similar
- -  3 lengths of thin heat shrink tubing
+ -  3 pieces of thin heat shrink tubing
  -  2 lengths of thin (e.g., 30 AWG) wire stripped of its insulation on both ends.
  -  Conductive paint syringe
  -  Masking tape
