@@ -8,9 +8,9 @@ void loop()
 {
   float V_1 = analogRead(1);  // Measured voltage across series resistor.
 
-  float I = V_1 / R_series;   // Calculated current through both series resistor and sensor.
-  float V_sens = 5 - V_1;     // Calculated voltage across sensor.
-  float R_sens = V_sens / I;  // Calculated resistance of sensor.
+  float I = V_1 / R_series;   // Calculated current through both series resistor and 2-terminal sensor.
+  float V_sens = 5 - V_1;     // Calculated voltage across 2-terminal sensor.
+  float R_sens = V_sens / I;  // Calculated resistance of 2-terminal sensor.
 
   Serial.print("R_sens:");
   Serial.print(R_sens);
