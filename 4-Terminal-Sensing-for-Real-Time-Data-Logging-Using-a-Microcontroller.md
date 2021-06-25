@@ -47,7 +47,8 @@ $\uparrow$ Pinout of a 4-terminal sensor.
 
 **For Production** without a Circuit Board
 
-1. Connect the hook-up wires to the `GND`, `A1`, `A2`, `A3`, and `5V` pins of the microcontroller. Slip on the heat shrink tubing if necessary at this point.
+1. Connect the hook-up wires to the `GND`, `A1`, `A2`, `A3`, and `5V` pins of the microcontroller. \
+   Slip on the heat shrink tubing if necessary at this point.
    
 3. Solder the thin wire to the latter 4 hook-up wires.
    
