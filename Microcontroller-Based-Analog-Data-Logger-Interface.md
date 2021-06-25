@@ -6,7 +6,7 @@
 
 # Microcontroller-Based Analog Data Logger Interface
 
-We developed a Windows 10 interface in Python for a microcontroller-based analog data logger with a wired connection to a computer. The program may be run directly by launching `analogDataLoggerInterface.pyw` or, naturally, by executing the following command.
+We developed a Windows 10 interface in Python for a microcontroller-based analog data logger with a wired connection to a computer. The program may be run directly by launching [`analogDataLoggerInterface.pyw`](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/Microcontroller_Based_Analog_Data_Logger_Interface.pyw) or, naturally, by executing the following command.
 
 ```bash
 $ python analogDataLoggerInterface.pyw
