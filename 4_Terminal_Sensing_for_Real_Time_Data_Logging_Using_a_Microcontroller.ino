@@ -1,8 +1,8 @@
-float R_series = 10e3;
+float R_series = 10e3;       // Known value of resistor in series with 4-terminal sensor.
 
 void setup()
 {
-  Serial.begin(9600);
+  Serial.begin(9600);        // Open communication with a computer via USB or with another device via UART.
 }
 void loop()
 {
