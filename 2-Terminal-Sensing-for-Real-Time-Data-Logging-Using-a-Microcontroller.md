@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/2-Terminal-Sensing-for-Real-Time-Data-Logging-Using-a-Microcontroller.png" style="zoom:50%;" />
 
-$\uparrow$ Wiring diagram
+$\uparrow$ Wiring diagram.
 
 ## Materials and Preparation
 
