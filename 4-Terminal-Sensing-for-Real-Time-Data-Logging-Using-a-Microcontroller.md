@@ -1,5 +1,7 @@
 # 4-Terminal Sensing for Real-Time Data Logging Using a Microcontroller
 
+4-terminal sensing is slightly more complicated to set up than 2-terminal sensing. However, it is more consistent between sensors and more repeatable for a given sensor. It virtually eliminates the effect of contact resistance and other *parasitic* resistances on the measurement of a resistive sensing element.
+
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/4-Terminal-Sensing-for-Real-Time-Data-Logging-Using-a-Microcontroller.png" style="zoom:50%;" />
 
 $\uparrow$ Wiring diagram. Pins `A0` -- `A3` are analog input pins to the microcontroller.
