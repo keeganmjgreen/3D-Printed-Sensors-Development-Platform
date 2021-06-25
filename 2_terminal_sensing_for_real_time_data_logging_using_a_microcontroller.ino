@@ -1,0 +1,26 @@
+float R_series = 10e3;        // Known value of resistor in series with 2-terminal sensor.
+
+void setup()
+{
+  Serial.begin(9600);         // Open communication with a computer via USB or with another device via UART.
+}
+void loop()
+{
+  float V_1 = analogRead(1);  // Measured voltage across series resistor.
+
+  float I = V_1 / R_series;   // Calculated current through both series resistor and sensor.
+  float V_sens = 5 - V_1;     // Calculated voltage across sensor.
+  float R_sens = V_sens / I;  // Calculated resistance of sensor.
+
+  Serial.print("R_sens:");
+  Serial.print(R_sens);
+  Serial.print("\t");
+
+  Serial.print("lower:");
+  Serial.print(0);
+  Serial.print("\t");
+ 
+  Serial.print("upper:");
+  Serial.print(10e3);
+  Serial.print("\n");
+}
