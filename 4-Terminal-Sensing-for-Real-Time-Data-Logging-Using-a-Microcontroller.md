@@ -69,7 +69,7 @@ $\uparrow$ Pinout of a 4-terminal sensor.
 
 If you are using an [Arduino microcontroller](https://www.arduino.cc/en/Main/Products) (recommended), upload the following code to it using the [Arduino IDE](https://www.arduino.cc/en/Guide/Environment).
 
-[`4_terminal_sensing_for_real_time_data_logging_using_a_microcontroller.ino`](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/4_Terminal_Sensing_for_Real_Time_Data_Logging_Using_a_Microcontroller.ino)
+[`4_Terminal_Sensing_for_Real_Time_Data_Logging_Using_a_Microcontroller.ino`](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/4_Terminal_Sensing_for_Real_Time_Data_Logging_Using_a_Microcontroller.ino)
 
 ```c++
 float R_series = 10e3;        // Known value of resistor in series with 4-terminal sensor.
