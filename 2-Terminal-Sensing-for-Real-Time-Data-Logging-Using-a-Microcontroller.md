@@ -43,7 +43,8 @@ $\uparrow$ Wiring diagram.
 
 **For Production** without a Circuit Board
 
-1. Connect the hook-up wires to the `GND`, `A1`, and `5V` pins of the microcontroller. Slip on the heat shrink tubing if necessary at this point.
+1. Connect the hook-up wires to the `GND`, `A1`, and `5V` pins of the microcontroller. \
+   Slip on the heat shrink tubing if necessary at this point.
    
 3. Solder the thin wire to the latter 2 hook-up wires.
    
