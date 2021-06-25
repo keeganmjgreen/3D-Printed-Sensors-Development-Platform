@@ -13,7 +13,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/ANSI_Caution_Header_-_1998.svg" alt="Caution" style="zoom:25%;" />
 
-**Caution:** Wear safety glasses and gloves to avoid getting conductive paint or water contaminated with it in your eyes or on your skin.
+**Caution:** Wear safety glasses and gloves whenever working with wet conductive paint to avoid getting it or water contaminated with it in your eyes or on your skin.
 
 Do all of the following over a lab sink. Do not wait long between steps to prevent the conductive paint from drying/hardening in the nozzle tip of the syringe.
 
