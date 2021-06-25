@@ -33,4 +33,5 @@ These **product manual elements** are those which are the most important and rel
    3D-Printed-Sensors-Manual-Outline.md
    Equipment-and-Materials.md
    Microcontroller-Based-Analog-Data-Logger-Interface.md
+   2-Terminal-Sensing-for-Real-Time-Data-Logging-Using-a-Microcontroller.md
    4-Terminal-Sensing-for-Real-Time-Data-Logging-Using-a-Microcontroller.md
