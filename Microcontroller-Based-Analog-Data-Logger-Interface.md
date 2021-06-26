@@ -227,7 +227,7 @@ Now,
 
 1.   Trim the last two line-ending ASCII characters: line feed \<LF\> `b'\n'` and carriage return \<CR\> `b'\r'`.
 2.   Typecast (convert) the remaining ASCII characters from a *byte literal* to a float.
-3.   Do the above for all lines but the first and last ones, which may have been cut off.  
+3.   Do the above for all lines but the first one, which may have been cut off.  
      This is a [list comprehension](https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions).
 4.   From the list, construct a NumPy `ndarray`, $y$, which is a [time series](https://en.wikipedia.org/wiki/Time_series) of logged data.
 
