@@ -74,21 +74,29 @@ If you are using an [Arduino microcontroller](https://www.arduino.cc/en/Main/Pro
 [`4_Terminal_Sensing_for_Real_Time_Data_Logging_Using_a_Microcontroller.ino`](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/4_Terminal_Sensing_for_Real_Time_Data_Logging_Using_a_Microcontroller.ino)
 
 ```c++
-float R_series = 10e3;        // Known value of resistor in series with 4-terminal sensor.
+float R_series = 10e3;  // Known value of resistor in series with 4-terminal sensor.
+
+float V_1;
+float V_2;
+float V_3;
+
+float I;
+float V_elem;
+float R_elem;
 
 void setup()
 {
-  Serial.begin(9600);         // Open communication with a computer via USB or with another device via UART.
+  Serial.begin(9600);   // Open communication with a computer via USB or with another device via UART.
 }
 void loop()
 {
-  float V_1 = analogRead(1);  // Measured voltage across series resistor.
-  float V_2 = analogRead(2);  // Measured voltage looking into the 4-terminal sensor at terminal `T2`.
-  float V_3 = analogRead(3);  // Measured voltage looking into the 4-terminal sensor at terminal `T3`.
+  V_1 = analogRead(1);  // Measured voltage across series resistor.
+  V_2 = analogRead(2);  // Measured voltage looking into the 4-terminal sensor at terminal `T2`.
+  V_3 = analogRead(3);  // Measured voltage looking into the 4-terminal sensor at terminal `T3`.
 
-  float I = V_1 / R_series;   // Calculated current through both series resistor and 4-terminal sensor.
-  float V_elem = V_3 - V_2;   // Calculated voltage across sensing element.
-  float R_elem = V_elem / I;  // Calculated resistance of sensing element.
+  I = V_1 / R_series;   // Calculated current through both series resistor and 4-terminal sensor.
+  V_elem = V_3 - V_2;   // Calculated voltage across sensing element.
+  R_elem = V_elem / I;  // Calculated resistance of sensing element.
 
   Serial.print("R_elem:");
   Serial.print(R_elem);
