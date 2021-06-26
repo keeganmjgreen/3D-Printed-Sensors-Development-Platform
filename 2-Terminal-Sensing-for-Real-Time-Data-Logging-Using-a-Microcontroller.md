@@ -70,7 +70,7 @@ If you are using an [Arduino microcontroller](https://www.arduino.cc/en/Main/Pro
 [`2_Terminal_Sensing_for_Real_Time_Data_Logging_Using_a_Microcontroller.ino`](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/2_Terminal_Sensing_for_Real_Time_Data_Logging_Using_a_Microcontroller.ino)
 
 ```c++
-float R_series = 10e3;        // Known value of resistor in series with 2-terminal sensor.
+float R_series = 10e3;  // Known value of resistor in series with 2-terminal sensor.
 
 float V_1;
 
@@ -80,7 +80,7 @@ float R_sens;
 
 void setup()
 {
-  Serial.begin(9600);         // Open communication with a computer via USB or with another device via UART.
+  Serial.begin(9600);   // Open communication with a computer via USB or with another device via UART.
 }
 void loop()
 {
