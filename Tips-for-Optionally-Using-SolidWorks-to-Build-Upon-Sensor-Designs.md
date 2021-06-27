@@ -24,7 +24,7 @@
     
  -  Properly name each SolidWorks sketch and feature (e.g., each extruded boss/base, extruded cut, fillet, chamfer, pattern, etc.). For example:
     
-    <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Tips-for-Optionally-Using-SolidWorks-to-Build-Upon-Sensor-Designs-Figure-3.png" style="zoom:50%;" /> \
+    <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Tips-for-Optionally-Using-SolidWorks-to-Build-Upon-Sensor-Designs-Figure-4.png" style="zoom:50%;" /> \
     ​
 
  -  Create parts right-side-up even if they are designed to be printed upside-down against the build plate.
