@@ -42,7 +42,7 @@
 
  -  Recommended: One or more good-quality crafting/hobby knives with a forward-facing cutting edge (e.g., that of an [*X-Acto*](https://www.xacto.com/knives-blades.html) *#18* blade) to help remove prints from the *print bed*.
     
- -  Recommended: One or more good-quality crafting/hobby knives with a slanted cutting edge (e.g., that of an [*X-Acto*](https://www.xacto.com/knives-blades.html) *#2*, *#11*, *#19*, or *#24* blade) to help remove prints from the *print bed*, and help clean them afterward.
+ -  Recommended: One or more good-quality crafting/hobby knives with a slanted cutting edge (e.g., that of an [*X-Acto*](https://www.xacto.com/knives-blades.html) *#2*, *#11*, *#19*, or *#24* blade) to help remove prints from the *print bed*, and help touch them up afterward.
 
  -  Recommended: One or more pairs of tweezers, to help clean the *extruder nozzles* of the 3D printer.
     
