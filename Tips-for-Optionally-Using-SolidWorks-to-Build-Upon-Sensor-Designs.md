@@ -1,8 +1,6 @@
 # Tips for Optionally Using *SolidWorks* to Build Upon Sensor Designs
     
- -  Use one SolidWorks part file (`.SLDPRT` filename extension) for the body of your sensor(s) and one for each sensing element (unless, of course, your sensing elements are the same).
-    
-    For example,
+ -  Use one SolidWorks part file (`.SLDPRT` filename extension) for the body of your sensor(s) and one for each sensing element (unless, of course, your sensing elements are the same). For example,
     
     | Part of a Strain Sensor | Filename of SolidWorks Part      |
     |:------------------------|:---------------------------------|
@@ -21,9 +19,7 @@
 
  -  As odd as it sounds, do not dimension or constrain your sketches where snapping to the grid will suffice. To delete all constraints in a sketch, automatically-created or not, select *Sketch* > *Display/Delete Relations* > *Relations* > *Delete All*.
     
- -  Properly name each SolidWorks sketch and feature (e.g., each extruded boss/base, extruded cut, fillet, chamfer, pattern, etc.).
-    
-    For example:
+ -  Properly name each SolidWorks sketch and feature (e.g., each extruded boss/base, extruded cut, fillet, chamfer, pattern, etc.). For example:
     
     <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Tips-for-Optionally-Using-SolidWorks-to-Build-Upon-Sensor-Designs-Figure-3.png" style="zoom:50%;" /> \
     ​
