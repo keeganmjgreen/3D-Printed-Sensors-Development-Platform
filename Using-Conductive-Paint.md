@@ -2,7 +2,7 @@
 
 [Conductive paint](https://www.digikey.com/en/products/filter/coating-grease-repair/642?s=N4IgjCBcoKxaBjKAzAhgGwM4FMA0IB7KAbRAGYyAmAdgE4AWEAXXwAcAXKEAZXYCcAlgDsA5iAC%2B%2BMAA4y8EEkhoseQiXKyyANmnM2nSD37CxkkNWoRoClBhz4ikUvQAMtaWDn5X7yoxYgHFy8gqIS%2BAC0lPKK-ACuqo6kcExmEXLWsXwJDupgLsziRUA) comes in 5--10-gram syringes.
 
-You might also want to look into [conductive epoxy](https://www.digikey.com/en/products/filter/glue-adhesives-applicators/909?s=N4IgjCBcoKxaBjKAzAhgGwM4FMA0IB7KAbRAGYyAmAdgE4AWEfM%2BsmANgAYmR7rLKrHvXrtBjZqxi1qPFm1oAOEAF18ABwAuUEAGVNAJwCWAOwDmIAL74wisvBBJIaLHkIlyImIvZyRY7jUQLR19Y3MrfABae2hHKEMAVzciSFIwQOsQKMoHJySUjzgVS1KgA) and/or [conductive tape](https://www.digikey.com/en/products/filter/tape/908?s=N4IgjCBcoCwJwGYqgMZQGYEMA2BnApgDQgD2UA2iAjAgKwBsADCALrEAOALlCAMqcAnAJYA7AOYgAvsQC0AJmQg0kQQFcipCiFqtpIGUmhKoajWUiUwzFpNtA).
+You might also want to look into [conductive epoxy](https://www.digikey.com/en/products/filter/glue-adhesives-applicators/909?s=N4IgjCBcoKxaBjKAzAhgGwM4FMA0IB7KAbRAGYyAmAdgE4AWEfM%2BsmANgAYnzWZbqPFm1oAOEAF18ABwAuUEAGVZAJwCWAOwDmIAL74wosvBBJIaLHkIle9GKPZD69dpW5SQchcvXa9%2BAFpKEzNVAFcrIkhSOAl9EADjaFMocMibMHddbKA) and/or [conductive tape](https://www.digikey.com/en/products/filter/tape/908?s=N4IgjCBcoCwJwGYqgMZQGYEMA2BnApgDQgD2UA2iAjAgKwBsADCALrEAOALlCAMqcAnAJYA7AOYgAvsQC0AJmQg0kQQFcipCiFqtpIGUmhKoajWUiUwzFpNtA).
 
 ## Additional Supplies
 
