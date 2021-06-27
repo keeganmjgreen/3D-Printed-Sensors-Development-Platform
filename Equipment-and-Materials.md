@@ -1,20 +1,4 @@
 # Preliminary List of Equipment and Materials
-
- -  A spool of regular [3D printing filament](https://www.digikey.com/en/products/filter/3d-printing-filaments/944), preferably just [250 grams](https://www.digikey.com/en/products/filter/3d-printing-filaments/944?s=N4IgjCBcoExh0QGMoDMCGAbAzgUwDQgD2UA2iDAOxgAMNIAuoQA4AuUIAyqwE4CWAOwDmIAL7igA) for sensor structures, or to start with for large albeit partially-hollow prints.
-    
-     -  [Easy-to-Print 3D Printer Filaments ](https://www.mcmaster.com/3d-printer-filaments/easy-to-print-3d-printer-filaments-5/)
-     -  [Flexible 3D Printer Filaments ](https://www.mcmaster.com/3d-printer-filaments/flexible-3d-printer-filaments-5/)
-    
- -  A spool of conductive 3D printing filament (e.g., [500 grams of *LulzBot*-brand black 2.85-mm PLA](https://www.digikey.com/en/products/detail/lulzbot/RM-PL0100/8605417?s=N4IgjCBcoKxaBjKAzAhgGwM4FMA0IB7KAbRAGYyAmAdgE4AOEfCy%2BgBmpAF18AHAFyggAyvwBOASwB2AcxABffAFpK8EEkjiArnkIkQcLopBKyajdt1FIpMG27zHQA)), preferably just 250 grams, which is more than enough.
-    
-     -  [Conductive Easy-to-Print 3D Printer Filaments ](https://www.mcmaster.com/3d-printer-filaments/conductive-easy-to-print-3d-printer-filaments/)
-     -  [Conductive Flexible 3D Printer Filaments](https://www.mcmaster.com/3d-printer-filaments/conductive-flexible-3d-printer-filaments/)
-    
- -  Nice-to-have: A spool of "breakaway" or [dissolvable 3D printing filament](https://www.digikey.com/en/products/detail/polymaker/PM70810/13146566?s=N4IgjCBcoKxaBjKAzAhgGwM4FMA0IB7KAbRABYA2ADgGYB2CkAXXwAcAXKEAZXYCcAlgDsA5iAC%2B%2BALQAmeCCSR%2BAVzyESIOE0kgpNeYpVqikUmAAMzcdaA), preferably just 250 grams, which is more than enough.
-    
-     -  [Structural Support 3D Printer Filaments](https://www.mcmaster.com/3d-printer-filaments/structural-support-3d-printer-filaments/)
-     -  [Ultimaker PVA material: Water-soluble support for complex prints](https://ultimaker.com/materials/pva)
-     -  [Ultimaker Breakaway material: Easy-to-remove support material for dual extrusion](https://ultimaker.com/materials/breakaway)
     
  -  A 3D printer.
     
@@ -40,11 +24,29 @@
          -  More than one of the same make & model, to more quickly test print settings, test designs, and create complete devices -- get up and running faster.
          -  More than one of different models, to try them out and similarly get up and running faster at the cost of less consistency and predictability.
 
- -  Recommended: Tweezers, to help clean the *extruder nozzles* of the 3D printer.
+ -  A spool of regular [3D printing filament](https://www.digikey.com/en/products/filter/3d-printing-filaments/944), preferably just [250 grams](https://www.digikey.com/en/products/filter/3d-printing-filaments/944?s=N4IgjCBcoExh0QGMoDMCGAbAzgUwDQgD2UA2iDAOxgAMNIAuoQA4AuUIAyqwE4CWAOwDmIAL7igA) for sensor structures, or to start with for large albeit partially-hollow prints.
+    
+     -  [Easy-to-Print 3D Printer Filaments ](https://www.mcmaster.com/3d-printer-filaments/easy-to-print-3d-printer-filaments-5/)
+     -  [Flexible 3D Printer Filaments ](https://www.mcmaster.com/3d-printer-filaments/flexible-3d-printer-filaments-5/)
+    
+ -  A spool of conductive 3D printing filament (e.g., [500 grams of *LulzBot*-brand black 2.85-mm PLA](https://www.digikey.com/en/products/detail/lulzbot/RM-PL0100/8605417?s=N4IgjCBcoKxaBjKAzAhgGwM4FMA0IB7KAbRAGYyAmAdgE4AOEfCy%2BgBmpAF18AHAFyggAyvwBOASwB2AcxABffAFpK8EEkjiArnkIkQcLopBKyajdt1FIpMG27zHQA)), preferably just 250 grams, which is more than enough.
+    
+     -  [Conductive Easy-to-Print 3D Printer Filaments ](https://www.mcmaster.com/3d-printer-filaments/conductive-easy-to-print-3d-printer-filaments/)
+     -  [Conductive Flexible 3D Printer Filaments](https://www.mcmaster.com/3d-printer-filaments/conductive-flexible-3d-printer-filaments/)
+    
+ -  Nice-to-have: A spool of "breakaway" or [dissolvable 3D printing filament](https://www.digikey.com/en/products/detail/polymaker/PM70810/13146566?s=N4IgjCBcoKxaBjKAzAhgGwM4FMA0IB7KAbRABYA2ADgGYB2CkAXXwAcAXKEAZXYCcAlgDsA5iAC%2B%2BALQAmeCCSR%2BAVzyESIOE0kgpNeYpVqikUmAAMzcdaA), preferably just 250 grams, which is more than enough.
+    
+     -  [Structural Support 3D Printer Filaments](https://www.mcmaster.com/3d-printer-filaments/structural-support-3d-printer-filaments/)
+     -  [Ultimaker PVA material: Water-soluble support for complex prints](https://ultimaker.com/materials/pva)
+     -  [Ultimaker Breakaway material: Easy-to-remove support material for dual extrusion](https://ultimaker.com/materials/breakaway)
 
  -  Recommended: One or more good-quality crafting/hobby knives with a forward-facing cutting edge (e.g., that of an [*X-Acto*](https://www.xacto.com/knives-blades.html) *#18* blade) to help remove prints from the *print bed*.
     
  -  Recommended: One or more good-quality crafting/hobby knives with a slanted cutting edge (e.g., that of an [*X-Acto*](https://www.xacto.com/knives-blades.html) *#2*, *#11*, *#19*, or *#24* blade) to help remove prints from the *print bed*, and help clean them afterward.
+
+ -  Recommended: One or more pairs of tweezers, to help clean the *extruder nozzles* of the 3D printer.
+    
+ -  Recommended: A set of hex keys, to disassemble and reassemble the filament *feeders* before and after cleaning/clearing them.
     
  -  Optional: One or more compressed air canisters used for dusting, to clean most of the 3D printer (and workspace) of filament dust and stray pieces, during and after printing.
     
