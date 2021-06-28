@@ -33,8 +33,7 @@
     
  -  Use *linear sketch patterns*, as under *Sketch*.
     
-    <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Tips-for-Optionally-Using-SolidWorks-to-Build-Upon-Sensor-Designs-Figure-4.png" style="zoom:50%;" /> \
-    ​
+    <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Tips-for-Optionally-Using-SolidWorks-to-Build-Upon-Sensor-Designs-Figure-4.png" style="zoom:50%;" />
     
      -  [Creating Linear Sketch Patterns --- SolidWorks Help](http://help.solidworks.com/2021/English/SolidWorks/sldworks/t_Creating_Linear_Sketch_Patterns.htm)
     
