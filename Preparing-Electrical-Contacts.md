@@ -1,6 +1,6 @@
-# Preparing Electrical Contracts #
+# Preparing Electrical Contacts #
 
-This page is a draft of the User Manual Entry on preparing electrical contracts on printed sensors.
+This page is a draft of the User Manual Entry on preparing electrical contacts on printed sensors.
 
 ## Materials ##
 
