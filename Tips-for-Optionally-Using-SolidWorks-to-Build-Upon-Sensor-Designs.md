@@ -35,11 +35,13 @@
     
      -  [Creating Linear Sketch Patterns --- SolidWorks Help](http://help.solidworks.com/2021/English/SolidWorks/sldworks/t_Creating_Linear_Sketch_Patterns.htm)
     
- -  Properly name each SolidWorks sketch and feature (e.g., each extruded boss/base, extruded cut, fillet, chamfer, pattern, etc.). For example:
+ -  Properly name each SolidWorks sketch and feature (e.g., each [extruded boss/base or extruded cut](https://help.solidworks.com/2021/english/solidworks/sldworks/t_creating_an_extrude_feature.htm), [fillet](https://help.solidworks.com/2021/english/SolidWorks/sldworks/t_create_fillets.htm), [chamfer](https://help.solidworks.com/2021/English/SolidWorks/sldworks/t_creating_chamfer_feature.htm), [pattern](http://help.solidworks.com/2021/English/SolidWorks/sldworks/c_Types_of_Patterns_Folder.htm), etc.). For example:
     
     <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Tips-for-Optionally-Using-SolidWorks-to-Build-Upon-Sensor-Designs-Figure-4.png" style="zoom:50%;" /> \
     ​
 
- -  Create parts right-side-up even if they are designed to be printed upside-down against the build plate.
+ -  Create parts right-side-up even if they are designed to be printed upside-down against the *build plate*.
     
- -  Create design features from the 'perspective' of a 3D printer.
+ -  Create design features from the 'perspective' of a 3D printer. For example: Create SolidWorks sketches on the *Top Plane*.
+    
+ -  Remember that SolidWorks uses an engineering coordinate system in which the $y$-axis points up and the $z$-axis is normal to the vertical $xy$-plane. Whereas, *Ultimaker Cura* uses a more conventional coordinate system, in which the $z$-axis points up, normal to the *build plate*, whose surface is the horizontal $xy$-plane.
