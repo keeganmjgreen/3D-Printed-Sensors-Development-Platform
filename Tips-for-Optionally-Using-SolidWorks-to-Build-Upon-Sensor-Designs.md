@@ -12,12 +12,12 @@
     <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Tips-for-Optionally-Using-SolidWorks-to-Build-Upon-Sensor-Designs-Figure-1.png" style="zoom:50%;" /> \
     ​
     
- -  Under *Tools* > *Options* > *Document Properties* > *Grid/Snap* > *Grid*, enable the *Display grid* and *Dash* options. Set the *Major grid spacing* to 1 mm, *Minor-lines per major* to 2, and *Snap points per minor* to 1.
+ -  Under *Tools* > *Options* > *Document Properties* > *Grid/Snap* > *Grid*, enable the *Display grid* and *Dash* options. Set the *Major grid spacing* to 1 mm, *Minor-lines per major* to 2 if deemed necessary (1 otherwise), and *Snap points per minor* to 1.
     
     <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Tips-for-Optionally-Using-SolidWorks-to-Build-Upon-Sensor-Designs-Figure-2.png" style="zoom:50%;" /> \
     ​
     
- -  Optionally, insert 'mask layouts' to trace in a SolidWorks sketch using *Tools* > *Sketch Tools* > [*Sketch Picture*](http://help.solidworks.com/2021/English/SolidWorks/sldworks/c_Sketch_Picture.htm).
+ -  Optionally, insert a 'mask layout' raster image to trace in a SolidWorks sketch using *Tools* > *Sketch Tools* > [*Sketch Picture*](http://help.solidworks.com/2021/English/SolidWorks/sldworks/c_Sketch_Picture.htm). Ensure that the pixel grid lines up with the sketch grid.
     
      -  [Inserting Sketch Picture in Drawings --- SolidWorks Help](https://help.solidworks.com/2021/english/SolidWorks/sldworks/t_insert_sketch_picture_in_drawings.htm)
     
@@ -26,7 +26,7 @@
     <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Tips-for-Optionally-Using-SolidWorks-to-Build-Upon-Sensor-Designs-Figure-3.png" style="zoom:50%;" /> \
     ​
     
- -  Use linear sketch patterns.
+ -  Use *linear sketch patterns*.
     
  -  Properly name each SolidWorks sketch and feature (e.g., each extruded boss/base, extruded cut, fillet, chamfer, pattern, etc.). For example:
     
