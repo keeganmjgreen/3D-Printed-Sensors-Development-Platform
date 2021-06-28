@@ -9,10 +9,15 @@
     
  -  Under *Tools* > *Options* > *Document Properties* > *Units* > *Unit system*, select *MMGS (millimeter, gram, second)*. We used millimeters in our project development. Furthermore, 3D printer *slicing* software such as *Ultimaker Cura* uses grams.
     
+     -  [Units and Dimension Standard --- SolidWorks Help](http://help.solidworks.com/2021/English/SolidWorks/sldworks/HIDD_UNITS_DIM_STD.htm)
+    
     <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Tips-for-Optionally-Using-SolidWorks-to-Build-Upon-Sensor-Designs-Figure-1.png" style="zoom:50%;" /> \
     ​
     
  -  Under *Tools* > *Options* > *Document Properties* > *Grid/Snap* > *Grid*, enable the *Display grid* and *Dash* options. Set the *Major grid spacing* to 1 mm, *Minor-lines per major* to 2 if deemed necessary (1 otherwise), and *Snap points per minor* to 1.
+    
+     -  [Document Properties - Grid/Snap --- SolidWorks Help](https://help.solidworks.com/2021/English/SolidWorks/sldworks/HIDD_OPTIONS_GRID.htm)
+     -  [Grid and Snap --- SolidWorks Help](http://help.solidworks.com/2021/English/SolidWorks/acadhelp/c_Grid_and_Snap.htm)
     
     <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Tips-for-Optionally-Using-SolidWorks-to-Build-Upon-Sensor-Designs-Figure-2.png" style="zoom:50%;" /> \
     ​
