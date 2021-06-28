@@ -1,5 +1,5 @@
 # Tips for Optionally Using *SolidWorks* to Build Upon Sensor Designs
-    
+
  -  Use one SolidWorks part file (`.SLDPRT` filename extension) for the body of the sensor(s) and one for each sensing element -- unless, of course, sensing elements are the same. For example:
     
     | Part of a Strain Sensor | Filename of SolidWorks Part      |
@@ -46,3 +46,7 @@
     ​
     
  -  Create design features from the 'perspective' of a 3D printer. For example: [Create SolidWorks sketches](http://help.solidworks.com/2021/English/SolidWorks/sldworks/c_Sketch.htm) on the *Top Plane* and extrude them away from it. Note that SolidWorks uses an engineering coordinate system in which the $y$-axis points up and the $z$-axis is normal to the vertical $xy$-plane. Whereas, 3D printing software such as *Ultimaker Cura* uses a more conventional coordinate system, in which the $z$-axis points up, normal to the *build plate*, whose surface is the horizontal $xy$-plane.
+
+## Resources
+
+ -  [SolidWorks Help](https://help.solidworks.com/2021/English/SolidWorks/sldworks/r_welcome_sw_online_help.htm)
