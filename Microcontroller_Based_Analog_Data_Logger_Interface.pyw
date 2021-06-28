@@ -5,7 +5,7 @@ import numpy as np
 import pandas as pd
 import plotly.graph_objects as go
 toaster = ToastNotifier()
-port = 'COM3'
+port = 'COM3'  # CHANGE!
 try:
     ser = Serial(port)
 except:
@@ -59,10 +59,10 @@ while True:
     if toaster.show_toast('Microcontroller disconnected %.1f seconds ago' % disconnected_time, ' ', threaded = True):
         break
 y = np.array([float(line[:-2]) for line in lines[1:-1]])
-Dt = 10e-3
+Dt = 10e-3  # CHANGE!
 t = np.arange(len(y)) * Dt
-window = 100
-y_smooth = pd.Series(y).rolling(window, center = True).mean().to_numpy()
+# window = 5
+# y_smooth = pd.Series(y).rolling(window, center = True).mean().to_numpy()
 np.savetxt('data.csv', y, fmt = '%.1f')
 data = go.Scatter(x = t, y = y_smooth)
 fig = go.Figure(data)
