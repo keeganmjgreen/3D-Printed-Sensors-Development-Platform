@@ -49,6 +49,8 @@
     
  -  Create design features from the 'perspective' of a 3D printer. For example: [Create SolidWorks sketches](http://help.solidworks.com/2021/English/SolidWorks/sldworks/c_Sketch.htm) on the *Top Plane* and extrude them away from it. Note that SolidWorks uses an engineering coordinate system in which the $y$-axis points up and the $z$-axis is normal to the vertical $xy$-plane. Whereas, 3D printing software such as *Ultimaker Cura* uses a more conventional coordinate system, in which the $z$-axis points up, normal to the *build plate*, whose surface is the horizontal $xy$-plane.
 
+*Note:* SolidWorks is not forward compatible. Files cannot be opened or edited using a version of SolidWorks that is older than that with which they were originally created. The reverse works, albeit by converting them to the newer version.
+
 ## Resources
 
  -  [SolidWorks Help](https://help.solidworks.com/2021/English/SolidWorks/sldworks/r_welcome_sw_online_help.htm)
