@@ -17,7 +17,7 @@
     <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Tips-for-Optionally-Using-SolidWorks-to-Build-Upon-Sensor-Designs-Figure-2.png" style="zoom:50%;" /> \
     ​
     
- -  Optionally, insert 'mask layouts' to trace in a SolidWorks sketch using *Search* > *Search Commands* > [*Sketch Picture*](http://help.solidworks.com/2021/English/SolidWorks/sldworks/c_Sketch_Picture.htm).
+ -  Optionally, insert 'mask layouts' to trace in a SolidWorks sketch using *Tools* > *Sketch Tools* > [*Sketch Picture*](http://help.solidworks.com/2021/English/SolidWorks/sldworks/c_Sketch_Picture.htm).
     
      -  [Inserting Sketch Picture in Drawings --- SolidWorks Help](https://help.solidworks.com/2021/english/SolidWorks/sldworks/t_insert_sketch_picture_in_drawings.htm)
     
