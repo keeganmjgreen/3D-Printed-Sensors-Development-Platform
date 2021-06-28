@@ -43,6 +43,7 @@
     <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Tips-for-Optionally-Using-SolidWorks-to-Build-Upon-Sensor-Designs-Figure-5.png" style="zoom:50%;" /> \
     ​
 
- -  Create parts right-side-up even if they are designed to be printed upside-down against the *build plate*.
+ -  Create parts right-side-up even if they are designed to be printed upside-down against the *build plate*. \
+    ​
     
  -  Create design features from the 'perspective' of a 3D printer. For example: [Create SolidWorks sketches](http://help.solidworks.com/2021/English/SolidWorks/sldworks/c_Sketch.htm) on the *Top Plane*. Note that SolidWorks uses an engineering coordinate system in which the $y$-axis points up and the $z$-axis is normal to the vertical $xy$-plane. Whereas, 3D printing software such as *Ultimaker Cura* uses a more conventional coordinate system, in which the $z$-axis points up, normal to the *build plate*, whose surface is the horizontal $xy$-plane.
