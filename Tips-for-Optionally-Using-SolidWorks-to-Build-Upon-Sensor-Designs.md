@@ -1,5 +1,7 @@
 # Tips for Optionally Using *SolidWorks* to Build Upon Sensor Designs
 
+ -  Use our sensor designs in SolidWorks at least as a starting point.
+    
  -  Use one SolidWorks part file (`.SLDPRT` filename extension) for the body of the sensor(s) and one for each sensing element -- unless, of course, sensing elements are the same. For example:
     
     | Part of a Strain Sensor | Filename of SolidWorks Part      |
