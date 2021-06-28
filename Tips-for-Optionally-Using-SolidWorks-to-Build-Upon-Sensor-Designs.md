@@ -31,12 +31,12 @@
     <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Tips-for-Optionally-Using-SolidWorks-to-Build-Upon-Sensor-Designs-Figure-3.png" style="zoom:50%;" /> \
     ​
     
- -  Use *linear sketch patterns*.
-    
-     -  [Creating Linear Sketch Patterns --- SolidWorks Help](http://help.solidworks.com/2021/English/SolidWorks/sldworks/t_Creating_Linear_Sketch_Patterns.htm)
+ -  Use *linear sketch patterns*, as under *Sketch*.
     
     <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Tips-for-Optionally-Using-SolidWorks-to-Build-Upon-Sensor-Designs-Figure-4.png" style="zoom:50%;" /> \
     ​
+    
+     -  [Creating Linear Sketch Patterns --- SolidWorks Help](http://help.solidworks.com/2021/English/SolidWorks/sldworks/t_Creating_Linear_Sketch_Patterns.htm)
     
  -  Properly name each SolidWorks sketch and feature (e.g., each [extruded boss/base or extruded cut](https://help.solidworks.com/2021/english/solidworks/sldworks/t_creating_an_extrude_feature.htm), [fillet](https://help.solidworks.com/2021/english/SolidWorks/sldworks/t_create_fillets.htm), [chamfer](https://help.solidworks.com/2021/English/SolidWorks/sldworks/t_creating_chamfer_feature.htm), [pattern](http://help.solidworks.com/2021/English/SolidWorks/sldworks/c_Types_of_Patterns_Folder.htm), etc.). For example:
     
