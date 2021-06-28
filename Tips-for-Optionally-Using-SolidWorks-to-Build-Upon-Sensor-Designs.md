@@ -44,4 +44,4 @@
     
  -  Create design features from the 'perspective' of a 3D printer. For example: Create SolidWorks sketches on the *Top Plane*.
     
- -  Remember that SolidWorks uses an engineering coordinate system in which the $y$-axis points up and the $z$-axis is normal to the vertical $xy$-plane. Whereas, *Ultimaker Cura* uses a more conventional coordinate system, in which the $z$-axis points up, normal to the *build plate*, whose surface is the horizontal $xy$-plane.
+ -  Remember that SolidWorks uses an engineering coordinate system in which the $y$-axis points up and the $z$-axis is normal to the vertical $xy$-plane. Whereas, 3D printing software such as *Ultimaker Cura* uses a more conventional coordinate system, in which the $z$-axis points up, normal to the *build plate*, whose surface is the horizontal $xy$-plane.
