@@ -59,7 +59,7 @@ while True:
     if toaster.show_toast('Microcontroller disconnected %.1f seconds ago' % disconnected_time, ' ', threaded = True):
         break
 y = np.array([float(line[:-2]) for line in lines[1:-1]])
-Dt = 10e-3  # CHANGE!
+Dt = 1  # CHANGE!
 t = np.arange(len(y)) * Dt
 # window = 5
 # y_smooth = pd.Series(y).rolling(window, center = True).mean().to_numpy()
