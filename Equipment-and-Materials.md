@@ -17,7 +17,7 @@
      -  An [Ultimaker-brand 3D printer](https://ultimaker.com/3d-printers).* All Ultimaker-brand 3D printers are cartesian 3D printers.
         
          -  An [*Ultimaker 3* (or *Ultimaker 3 Extended*)](https://ultimaker.com/3d-printers/ultimaker-3), as used in our project development.
-         -  An [*Ultimaker S3*](https://ultimaker.com/3d-printers/ultimaker-s3), the sucessor to the *Ultimaker 3*.
+         -  An [*Ultimaker S3*](https://ultimaker.com/3d-printers/ultimaker-s3), the successor to the *Ultimaker 3*.
         
      -  More than one 3D printer:
         
@@ -39,11 +39,11 @@
      -  [Structural Support 3D Printer Filaments](https://www.mcmaster.com/3d-printer-filaments/structural-support-3d-printer-filaments/)
      -  [Ultimaker PVA material: Water-soluble support for complex prints](https://ultimaker.com/materials/pva)
      -  [Ultimaker Breakaway material: Easy-to-remove support material for dual extrusion](https://ultimaker.com/materials/breakaway)
-
+    
  -  Recommended: One or more good-quality crafting/hobby knives with a forward-facing cutting edge (e.g., that of an [*X-Acto*](https://www.xacto.com/knives-blades.html) *#18* blade) to help remove prints from the *print bed*.
     
  -  Recommended: One or more good-quality crafting/hobby knives with a slanted cutting edge (e.g., that of an [*X-Acto*](https://www.xacto.com/knives-blades.html) *#2*, *#11*, *#19*, or *#24* blade) to help remove prints from the *print bed*, and help touch them up afterward.
-
+    
  -  Recommended: One or more pairs of tweezers, to help clean the *extruder nozzles* of the 3D printer.
     
  -  Recommended: A set of hex keys, to disassemble and reassemble the filament *feeders* before and after cleaning/clearing them.
