@@ -33,7 +33,8 @@ This section is not finalized as we have not yet fully established our materials
    
    <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/ANSI_Notice_Header_-_1998.svg" alt="Notice" style="zoom:25%;" />
    
-   *Note:* ensure that each wire is in direct contact with the electrical contacts, as failure to do so could result in poor electrical contact or open circuits.
+   *Note:* ensure that each wire is in direct contact with the electrical contacts, as failure to do so could result in poor electrical contact or open circuits. \
+   ​
    
    ![](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Wire-Placement.png) \
    ​
@@ -42,7 +43,8 @@ This section is not finalized as we have not yet fully established our materials
    
    <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/ANSI_Notice_Header_-_1998.svg" alt="Notice" style="zoom:25%;" />
    
-   *Note:* Ensure that you are familiar and comfortable with the use of conductive paints. Applying too much can cause the liquid paint to spread out and connect to another another electrical contact. This will short circuit the sensor, causing it to become non-functional.
+   *Note:* Ensure that you are familiar and comfortable with the use of conductive paints. Applying too much can cause the liquid paint to spread out and connect to another another electrical contact. This will short circuit the sensor, causing it to become non-functional. \
+   ​
    
    ![](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Finished-Cantilever.jpg) \
    ​
