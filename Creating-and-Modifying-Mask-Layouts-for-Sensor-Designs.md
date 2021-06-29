@@ -4,10 +4,10 @@ Use the 'mask layouts' of our sensor designs in image format at least as a start
 
  1. Decide on the largest and/or most common/prevalent *resolution* $\lambda_{\,\textsf{macro}\,}$ expected for the mask layout. For example, 1 mm for most design features. \
     ​
-
+    
  2. Estimate the bounding size of the mask layout. For example, layout height $H_{\,\textsf{layout}}$ = sensor width = 25 mm, layout width $W_{\,\textsf{layout}}$ = sensor length = 45 mm. \
     ​
-
+    
  3. Using image editing software, create an image of height $H_{\,\textsf{layout}}\,/\,\lambda_{\,\textsf{macro}\,}$ pixels and width $W_{\,\textsf{layout}}\,/\,\lambda_{\,\textsf{macro}\,}$ pixels. Set its *image resolution* to $1\,/\,\lambda_{\,\textsf{macro}\,}$ pixels, for reference. Keep in mind the software units. For example:
     
     <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Creating-and-Modifying-Mask-Layouts-for-Sensor-Designs-Figure-1.png" style="zoom:50%;" /> \
