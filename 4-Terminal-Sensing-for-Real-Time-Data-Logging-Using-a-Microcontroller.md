@@ -49,23 +49,23 @@ $\uparrow$ Pinout of a 4-terminal sensor.
 
 **For Production** without a Circuit Board
 
-1. Connect the hook-up wires to the `GND`, `A1`, `A2`, `A3`, and `5V` pins of the microcontroller. \
-   Slip on the heat shrink tubing if necessary at this point.
-   
-2. Solder the thin wire to the latter 4 hook-up wires.
-   
-3. Solder the resistor midway through the `A1` wire assembly.
-   
-4. Solder the `GND` hook-up wire to the resistor.
-   
-   Apply the heat shrink tubing around all connections by evenly heating it using the soldering iron.
-   
-5. Connect the ends of the remaining wire assemblies, in order, to terminals `T1` -- `T4` of the 4-terminal sensor.
-   
-    1.  Coil the stripped ends of the thin wires into loops.
-    2.  Carefully rest the loops on the center of the matching terminals' contact pads, holding the wires and sensor down using masking tape.
-    3.  Carefully cover the wire loops with conductive paint within the borders of the contact pads.
-    4.  Wait for the conductive paint to fully dry/harden.
+ 1. Connect the hook-up wires to the `GND`, `A1`, `A2`, `A3`, and `5V` pins of the microcontroller. \
+    Slip on the heat shrink tubing if necessary at this point.
+    
+ 2. Solder the thin wire to the latter 4 hook-up wires.
+    
+ 3. Solder the resistor midway through the `A1` wire assembly.
+    
+ 4. Solder the `GND` hook-up wire to the resistor.
+    
+    Apply the heat shrink tubing around all connections by evenly heating it using the soldering iron.
+    
+ 5. Connect the ends of the remaining wire assemblies, in order, to terminals `T1` -- `T4` of the 4-terminal sensor.
+    
+     1. Coil the stripped ends of the thin wires into loops.
+     2. Carefully rest the loops on the center of the matching terminals' contact pads, holding the wires and sensor down using masking tape.
+     3. Carefully cover the wire loops with conductive paint within the borders of the contact pads.
+     4. Wait for the conductive paint to fully dry/harden.
 
 ## Instructions -- Programming
 
