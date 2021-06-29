@@ -48,15 +48,15 @@ $\uparrow$ Wiring diagram. Pins `A0` -- `A1` are analog input pins to the microc
 1. Connect the hook-up wires to the `GND`, `A1`, and `5V` pins of the microcontroller. \
    Slip on the heat shrink tubing if necessary at this point.
    
-3. Solder the thin wire to the latter 2 hook-up wires.
+2. Solder the thin wire to the latter 2 hook-up wires.
    
-4. Solder the resistor midway through the `A1` wire assembly.
+3. Solder the resistor midway through the `A1` wire assembly.
    
-6. Solder the `GND` hook-up wire to the resistor.
+4. Solder the `GND` hook-up wire to the resistor.
    
    Apply the heat shrink tubing around all connections by evenly heating it using the soldering iron.
    
-6. Connect the ends of the remaining wire assemblies, in order, to terminals `T1` -- `T2` of the 2-terminal sensor.
+5. Connect the ends of the remaining wire assemblies, in order, to terminals `T1` -- `T2` of the 2-terminal sensor.
    
     1.  Coil the stripped ends of the thin wires into loops.
     2.  Carefully rest the loops on the center of the matching terminals' contact pads, holding the wires and sensor down using masking tape.
