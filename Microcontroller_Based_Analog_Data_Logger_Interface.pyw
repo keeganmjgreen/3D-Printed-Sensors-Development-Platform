@@ -64,7 +64,8 @@ t = np.arange(len(y)) * Dt
 # window = 5
 # y_smooth = pd.Series(y).rolling(window, center = True).mean().to_numpy()
 np.savetxt('data.csv', y, fmt = '%.1f')
-data = go.Scatter(x = t, y = y_smooth)
+data = go.Scatter(y)
+# data = go.Scatter(x = t, y = y_smooth)
 fig = go.Figure(data)
 fig.update_layout(xaxis_title = 'Time in Seconds', yaxis_title = 'Logged Data')
 fig.update_layout(title = 'Logged Data')
