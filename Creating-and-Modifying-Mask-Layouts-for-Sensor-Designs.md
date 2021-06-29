@@ -18,7 +18,9 @@ Use the 'mask layouts' of our sensor designs in image format at least as a start
     <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Creating-and-Modifying-Mask-Layouts-for-Sensor-Designs-Figure-2.png" style="zoom:50%;" /> \
     ​
     
- 5. On a pixel scale, create the largest design features (of resolution $\lambda_{\,\textsf{macro}}$) first. For example: \
+ 5. On a pixel scale, create the largest design features (of resolution $\lambda_{\,\textsf{macro}}$) first. For example:
+    
+    <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Creating-and-Modifying-Mask-Layouts-for-Sensor-Designs-Figure-3.png" style="zoom:50%;" /> \
     ​
     
  6. Resize the image to be of height $H_{\,\textsf{layout}}\,/\,\lambda_{\,\textsf{micro}}$ pixels and width $W_{\,\textsf{layout}}\,/\,\lambda_{\,\textsf{micro}}$ pixels, where $\lambda_{\,\textsf{micro}}$ is the smallest underlying resolution. Update its *image resolution* to $1\,/\,\lambda_{\,\textsf{micro}}$ pixels, for reference, again. Keep in mind the software units. Use *nearest neighbor* resampling and maintain the *aspect ratio*. For example:
@@ -27,3 +29,5 @@ Use the 'mask layouts' of our sensor designs in image format at least as a start
     ​
     
  7. On the new pixel scale, create the smallest design features (of resolution $\lambda_{\,\textsf{micro}}$). For example:
+    
+    <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Creating-and-Modifying-Mask-Layouts-for-Sensor-Designs-Figure-5.png" style="zoom:50%;" />
