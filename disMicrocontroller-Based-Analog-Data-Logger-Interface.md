@@ -215,7 +215,7 @@ while True:
 │   disconnected_tock = time()
 │   disconnected_time = disconnected_tock - disconnected_tick
 │
-│   if toaster.show_toast('Microcontr disconnected %.1f seconds ago' % disconnected_time, ' ', threaded = True):
+│   if toaster.show_toast('Microcontroller disconnected %.1f seconds ago' % disconnected_time, ' ', threaded = True):
 │   │   break
 ```
 
