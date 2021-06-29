@@ -2,12 +2,14 @@
 
 Use our sensor designs in SolidWorks at least as a starting point.
 
- -  Use one SolidWorks part file (`.SLDPRT` filename extension) for the body of the sensor(s) and one for each sensing element -- unless, of course, sensing elements are the same. For example:
+ -  Use one SolidWorks part file (`.SLDPRT` filename extension) for the body of the sensor(s) and one for each sensing element -- except, of course, for sensing elements that are the same. For example:
     
     | Part of a Strain Sensor | Filename of SolidWorks Part      |
     |:------------------------|:---------------------------------|
     | Sensor body             | `mid_str_4T_sensing.SLDPRT`      |
     | Sensing element         | `mid_str_4T_sensing_elem.SLDPRT` |
+    
+    Multibody parts or assemblies do not need to be created.
     
  -  Under *Tools* > *Options* > *Document Properties* > *Units* > *Unit system*, select *MMGS (millimeter, gram, second)*. We used millimeters in our project development. Furthermore, 3D printer *slicing* software such as *Ultimaker Cura* uses grams.
     
@@ -16,7 +18,7 @@ Use our sensor designs in SolidWorks at least as a starting point.
     <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Tips-for-Optionally-Using-SolidWorks-to-Build-Upon-Sensor-Designs-Figure-1.png" style="zoom:50%;" /> \
     ​
     
- -  Under *Tools* > *Options* > *Document Properties* > *Grid/Snap* > *Grid*, enable the *Display grid* and *Dash* options. Set the *Major grid spacing* to 1 mm, *Minor-lines per major* to 2 if deemed necessary (1 otherwise), and *Snap points per minor* to 1.
+ -  Under *Tools* > *Options* > *Document Properties* > *Grid/Snap* > *Grid*, enable the *Display grid* and *Dash* options. Set the *Major grid spacing* to 1 mm, *Minor-lines per major* to 2 if deemed necessary (1 otherwise), and *Snap points per minor* to 1. Creating and modifying SolidWorks sketches will be easier and faster.
     
      -  [Document Properties - Grid/Snap --- SolidWorks Help](https://help.solidworks.com/2021/English/SolidWorks/sldworks/HIDD_OPTIONS_GRID.htm)
      -  [Grid and Snap --- SolidWorks Help](http://help.solidworks.com/2021/English/SolidWorks/acadhelp/c_Grid_and_Snap.htm)
@@ -28,7 +30,7 @@ Use our sensor designs in SolidWorks at least as a starting point.
     
      -  [Inserting Sketch Picture in Drawings --- SolidWorks Help](https://help.solidworks.com/2021/english/SolidWorks/sldworks/t_insert_sketch_picture_in_drawings.htm)
     
- -  As odd as it sounds, do not dimension or constrain sketches where snapping to the grid will suffice. This will make creating and modifying them easier and faster, and will keep them simpler and less 'busy'. There are many other ways to set and measure lengths. To delete all constraints in a sketch, whether they are automatically-created or not, select *Sketch* > *Display/Delete Relations* > *Relations* > *Delete All*.
+ -  As odd as it sounds, do not dimension or constrain sketches where snapping to the grid will suffice. Creating and modifying them will be easier and faster, and they will be simpler and less 'busy'. There are many other ways to set and measure lengths. To delete all constraints in a sketch, whether they are automatically-created or not, select *Sketch* > *Display/Delete Relations* > *Relations* > *Delete All*.
     
     <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Tips-for-Optionally-Using-SolidWorks-to-Build-Upon-Sensor-Designs-Figure-3.png" style="zoom:50%;" /> \
     ​
