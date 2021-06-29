@@ -33,7 +33,7 @@ Do all of the following over a lab sink. Do not wait long between steps to preve
  1. Unscrew the nozzle tip while holding the syringe upside-down, without putting pressure on its plunger.
  2. Screw the cap back onto the nozzle of the syringe.
  3. Rinse the tip, clean it out using a cotton swab, and dry it using a paper towel.
-
+    
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/ANSI_Caution_Header_-_1998.svg" alt="Caution" style="zoom:25%;" />
     
     **Caution:** Be extremely careful not to spray up water contaminated with conductive paint, especially toward yourself.
