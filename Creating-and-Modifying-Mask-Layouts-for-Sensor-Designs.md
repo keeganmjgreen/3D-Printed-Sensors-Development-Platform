@@ -18,7 +18,7 @@ Use the 'mask layouts' of our sensor designs in image format at least as a start
     <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Creating-and-Modifying-Mask-Layouts-for-Sensor-Designs-Figure-2.png" style="zoom:50%;" /> \
     ​
     
- 5. On a pixel scale, create the largest design features (of resolution $\lambda_{\,\textsf{macro}}$, that is) first. For example:
+ 5. On a pixel scale, create the largest design features (of resolution $\lambda_{\,\textsf{macro}\,}$, that is) first. For example:
     
     <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Creating-and-Modifying-Mask-Layouts-for-Sensor-Designs-Figure-3.png" style="zoom:50%;" /> \
     ​
@@ -28,6 +28,6 @@ Use the 'mask layouts' of our sensor designs in image format at least as a start
     <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Creating-and-Modifying-Mask-Layouts-for-Sensor-Designs-Figure-4.png" style="zoom:50%;" /> \
     ​
     
- 7. On the new pixel scale, create the smallest design features (of resolution $\lambda_{\,\textsf{micro}}$, that is). For example:
+ 7. On the new pixel scale, create the smallest design features (of resolution $\lambda_{\,\textsf{micro}\,}$, that is). For example:
     
     <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Creating-and-Modifying-Mask-Layouts-for-Sensor-Designs-Figure-5.png" style="zoom:50%;" />
