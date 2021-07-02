@@ -31,3 +31,7 @@ Use the 'mask layouts' of our sensor designs in image format at least as a start
  7. On the new pixel scale, create the smallest design features (of resolution $\lambda_{\,\textsf{micro}\,}$, that is). For example:
     
     <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Creating-and-Modifying-Mask-Layouts-for-Sensor-Designs-Figure-5.png" style="zoom:50%;" />
+
+Tip: Use named image layers (as analogous to *SolidWorks* features). For example:
+
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Creating-and-Modifying-Mask-Layouts-for-Sensor-Designs-Figure-6.png" style="zoom:50%;" />
