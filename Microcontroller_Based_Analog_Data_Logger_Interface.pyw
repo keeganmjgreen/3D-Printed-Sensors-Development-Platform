@@ -63,7 +63,7 @@ Dt = 1  # CHANGE!
 t = np.arange(len(y)) * Dt
 # window = 5
 # y_smooth = pd.Series(y).rolling(window, center = True).mean().to_numpy()
-np.savetxt('data.csv', y, fmt = '%.1f')
+np.savetxt('data.csv', y, fmt = '%.2f')
 data = go.Scatter(y = y)
 # data = go.Scatter(x = t, y = y_smooth)
 fig = go.Figure(data)
