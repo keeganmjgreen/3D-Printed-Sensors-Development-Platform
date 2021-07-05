@@ -262,7 +262,7 @@ y_smooth = pd.Series(y).rolling(window, center = True).mean().to_numpy()
 Firstly, export the prepared data to a CSV file for reference:
 
 ```python
-np.savetxt('data.csv', y, fmt = '%.1f')
+np.savetxt('data.csv', y, fmt = '%.2f')
 ```
 
 Secondly, plot the data points using the Plotly graphing library:
