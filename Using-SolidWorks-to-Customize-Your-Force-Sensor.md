@@ -52,7 +52,7 @@ Remember that this modification will change the bounding volume of the sensor.
 
 Do this do vary the maximum deflection of the cantilever beam under a given load/force, particularly being applied to its free end, where the maximum deflection happens. Approximate the deflection of a beam without notch using this formula:
 
-$$ \sf \text{maximum deflection} = \dfrac{4 \left( \text{force} \right) \left( \text{beam length} \right)^3}{\left( \text{Young's modulus of the material} \right) \left( \text{beam width} \right) \left( \text{beam thickness} \right)^3} $$
+$$ \sf \text{maximum deflection} = \dfrac{4 \left( \text{approximately vertical force} \right) \left( \text{beam length} \right)^3}{\left( \text{Young's modulus of the material} \right) \left( \text{beam width} \right) \left( \text{beam thickness} \right)^3} $$
 
 Here, the *beam length* is really the distance from the start of the cantilever beam to wherever the force is applied along its length. The *Young’s modulus* is a mechanical property that is representative of elasticity and unique to the 3D printed material and its print settings. It has units of Newtons per square meter (N/m²) . Measure the maximum deflection and use the formula in reverse to approximate it. Only use the formula for small values of maximum deflection relative to the length of the cantilever beam.
 
