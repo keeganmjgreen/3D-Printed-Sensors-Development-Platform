@@ -74,9 +74,7 @@ $\uparrow$ Pinout of a 4-terminal sensor.
 
 If you are using an [Arduino microcontroller](https://www.arduino.cc/en/Main/Products) (recommended), upload the following code to it using the [Arduino IDE](https://www.arduino.cc/en/Guide/Environment).
 
-[`4_Terminal_Sensing_for_Real_Time_Data_Logging_Using_a_Microcontroller.ino`](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/4_Terminal_Sensing_for_Real_Time_Data_Logging_Using_a_Microcontroller.ino)
-
-```c++
+``` c++
 float R_series = 10e3;  // Known value of resistor in series with 4-terminal sensor.
 
 float V_1;
@@ -101,8 +99,13 @@ void loop()
     V_elem = V_3 - V_2;   // Calculated voltage across sensing element.
     R_elem = V_elem / I;  // Calculated resistance of sensing element.
     
-    Serial.print("R_elem:");
-    Serial.print(R_elem);
+```
+
+If you are going to use the Arduino *Serial Plotter*, append this code:
+
+``` c++
+    Serial.print("R_sens:");
+    Serial.print(R_sens);
     Serial.print("\t");
     
     Serial.print("lower:");
@@ -114,6 +117,17 @@ void loop()
     Serial.print("\n");
 }
 ```
+
+ -  Or download the fully assembled [`2_Terminal_Sensing_for_Real_Time_Data_Logging_Using_Arduino_Serial_Plotter.ino`](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/2_Terminal_Sensing_for_Real_Time_Data_Logging_Using_Arduino_Serial_Plotter.ino).
+
+If you are going to use the Arduino *Serial Monitor*, append this code:
+
+``` c++
+    Serial.println(R_sens);
+}
+```
+
+ -  Or download the fully assembled [`2_Terminal_Sensing_for_Real_Time_Data_Logging_Using_Arduino_Serial_Monitor.ino`](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/2_Terminal_Sensing_for_Real_Time_Data_Logging_Using_Arduino_Serial_Monitor.ino).
 
 ### Additional Resources
 
