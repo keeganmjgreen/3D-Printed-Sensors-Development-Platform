@@ -35,4 +35,5 @@ Use the 'mask layouts' of our sensor designs in image format at least as a start
 
 Tip: Use named image layers (as analogous to *SolidWorks* features). For example:
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Creating-and-Modifying-Mask-Layouts-for-Sensor-Designs/Figure%20(6).png" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Creating-and-Modifying-Mask-Layouts-for-Sensor-Designs/Figure%20(6).png" style="zoom:50%;" /> \
+​
