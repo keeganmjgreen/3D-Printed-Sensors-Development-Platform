@@ -9,7 +9,7 @@ $\uparrow$ Wiring diagram. Pins `A0` -- `A3` are analog input pins to the microc
 ## Materials and Preparation
 
  -  A microcontroller with at least 3 analog input pins, such as an Arduino [Uno](https://www.arduino.cc/en/Main/arduinoBoardUno&gt) or [Nano](https://www.arduino.cc/en/pmwiki.php?n=Main/ArduinoBoardNano)
- -  A 4-terminal sensor
+ -  A sensor with conductive traces for 4-terminal sensing
  -  A 10-kΩ or similar through-hole resistor of known value
 
 **For Testing**
