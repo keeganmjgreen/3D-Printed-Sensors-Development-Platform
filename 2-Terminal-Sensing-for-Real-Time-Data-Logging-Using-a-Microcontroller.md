@@ -62,6 +62,8 @@ $\uparrow$ Wiring diagram. Pins `A0` -- `A1` are analog input pins to the microc
     2.  Carefully rest the loops on the center of the matching terminals' contact pads, holding the wires and sensor down using masking tape.
     3.  Carefully cover the wire loops with conductive paint within the borders of the contact pads.
     4.  Wait for the conductive paint to fully dry/harden.
+    
+    See also **Using Conductive Paint** and **Preparing Electrical Contacts**.
 
 ## Instructions -- Programming
 
