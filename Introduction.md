@@ -1,3 +1,6 @@
-# Copy Right #
+# Copyright #
 
 &copy;
+
+
+# Legal Disclaimer #
