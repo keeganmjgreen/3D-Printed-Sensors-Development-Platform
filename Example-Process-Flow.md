@@ -2,7 +2,7 @@
 
 How do implementations of our Pithon platform get made? How will users produce 3D printed sensors for themselves? What does the process look like? To answer these questions, we will walk through an example process flow.
 
-We start with continuous fabrication, building our design from the ground up using conductive and structural plastics.
+We start with continuous fabrication, building our design from the ground up using conductive and structural plastics (conductive and regular 3D printing filament).
 
 First, we lay down electrically conductive traces on the 3D printing surface. These will make up the electrical terminals and so-called *sensing elements* of our accelerometer and temperature sensor:
 
@@ -24,7 +24,7 @@ We have printed a cantilever beam for our accelerometer as shown.
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Example-Process-Flow/Figure (4).png" alt="Figure (4)" style="zoom:25%;" /> \
     ​
 
-Now, we keep going – layer by layer – leaving more space for a cavity:
+Now, we keep going -- layer by layer -- leaving more space for a cavity:
 
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Example-Process-Flow/Figure (5).png" alt="Figure (5)" style="zoom:25%;" /> \
     ​
@@ -43,7 +43,7 @@ We cover the cavity with the rest of the arbitrarily-shaped enclosing structure:
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Example-Process-Flow/Figure (7).png" alt="Figure (7)" style="zoom:25%;" /> \
     ​
 
-Note that especially by this point, the 3D printed part would be partially made up of a lattice – this is the *infill pattern*.
+Note that especially by this point, the 3D printed part would be partially made up of a lattice -- this is the *infill pattern*.
 
 The 3D printing process of our part is soon complete.
 
