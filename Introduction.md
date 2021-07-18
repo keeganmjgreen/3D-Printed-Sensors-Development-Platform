@@ -27,4 +27,4 @@ This symbol indicates that minor injuries may occur if the provided percautions 
 
 This symbol indicates a high probability that major injury or death may occur if the provided percautions are not adhered to.
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Warning-Sign.jpg" alt="Notice" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Warning-Sign.jpg"/>
