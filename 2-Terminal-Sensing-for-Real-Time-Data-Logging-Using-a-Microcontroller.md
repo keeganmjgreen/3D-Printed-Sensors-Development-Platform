@@ -12,7 +12,7 @@ $\uparrow$ Wiring diagram. Pins `A0` -- `A1` are analog input pins to the microc
  -  A sensor with conductive traces for 2-terminal sensing
  -  A 10-kΩ or similar through-hole resistor of known value
 
-**For Testing**
+**For Testing** and Evaluation Purposes
 
  -  3 lengths of solid core hook-up wire stripped of its insulation on both ends
  -  3 insulated crocodile clip jumpers (double-ended)
@@ -31,7 +31,7 @@ $\uparrow$ Wiring diagram. Pins `A0` -- `A1` are analog input pins to the microc
 
 ## Instructions -- Assembly
 
-**For Testing**
+**For Testing** and Evaluation Purposes
 
  1. Connect the hook-up wires to the `GND`, `A1`, and `5V` pins of the microcontroller.
     
