@@ -39,7 +39,7 @@ This section is not finalized as we have not yet fully established our materials
    <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Wire-Placement.png" style="zoom: 50%;" /> \
    ​
    
-5. Apply a small amount of silver paint to each wire as per section Using Conductive Paint.
+5. Apply a small amount of silver paint to each wire as per section **Using Conductive Paint**.
    
    <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/ANSI_Notice_Header_-_1998.svg" alt="Notice" style="zoom:25%;" />
    
