@@ -50,7 +50,7 @@ Remember that this modification will change the bounding volume of the sensor.
     <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Using-SolidWorks-to-Customize-Your-Force-Sensor/Exit-Sketch.png" style="zoom:50%;" /> \
     ​
 
-Do this do vary the maximum deflection of the cantilever beam under a given load/force, particularly being applied to its free end, where the maximum deflection happens. Approximate the deflection of a beam without notc using this formula:
+Do this do vary the maximum deflection of the cantilever beam under a given load/force, particularly being applied to its free end, where the maximum deflection happens. Approximate the deflection of a beam without notch using this formula:
 
 $$ \sf \text{maximum deflection} = \dfrac{4 \left( \text{force} \right) \left( \text{beam length} \right)^3}{\left( \text{Young's modulus of the material} \right) \left( \text{beam width} \right) \left( \text{beam thickness} \right)^3} $$
 
