@@ -90,7 +90,7 @@ Remember that this modification will change the bounding volume of the sensor. M
     
  2. Select *Suppress* or *Unsuppress*. The Free End Hole Fillets, as a derived feature, will be automatically suppressed too, but should be manually unsuppressed along with the Free End Hole.
     
-    <img src="img/Using-SolidWorks-to-Customize-Your-Force-Sensor/Suppress.png" style="zoom:50%;" /> or <img src="img/Using-SolidWorks-to-Customize-Your-Force-Sensor/Unsuppress.png" style="zoom:50%;" />
+    <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Using-SolidWorks-to-Customize-Your-Force-Sensor/Suppress.png" style="zoom:50%;" /> or <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Using-SolidWorks-to-Customize-Your-Force-Sensor/Unsuppress.png" style="zoom:50%;" />
 
 Keep the free end hole if you are going to calibrate the force sensor by, for example, hanging known weights off the end of its cantilever beam, or if you are going to, say, tap a screw through it.
 
@@ -163,7 +163,7 @@ Only use the formula for wire-like conductive traces. Do not use It for electric
     
  2. Select *Suppress* or *Unsuppress*.
     
-    <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Using-SolidWorks-to-Customize-Your-Force-Sensor/Suppress.png" style="zoom:50%;" /> or <img src="img/Using-SolidWorks-to-Customize-Your-Force-Sensor/Unsuppress.png" style="zoom:50%;" />
+    <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Using-SolidWorks-to-Customize-Your-Force-Sensor/Suppress.png" style="zoom:50%;" /> or <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Using-SolidWorks-to-Customize-Your-Force-Sensor/Unsuppress.png" style="zoom:50%;" />
     
  3. [Repeat steps 1–2 for the Space for mid_str_4T_Sensing_Elem Reference *Mirror* feature.](Using-SolidWorks-to-Customize-Your-Force-Sensor/07/3.png)
     
