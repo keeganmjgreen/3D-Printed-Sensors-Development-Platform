@@ -34,6 +34,7 @@ These **product manual elements** are those which are the most important and rel
    Equipment-and-Materials.md
    Creating-and-Modifying-Mask-Layouts-for-Sensor-Designs.md
    Tips-for-Optionally-Using-SolidWorks-to-Build-Upon-Sensor-Designs.md
+   Using-SolidWorks-to-Customize-Your-Force-Sensor.md
    Using-Conductive-Paint.md
    Preparing-Electrical-Contacts.md
    2-Terminal-Sensing-for-Real-Time-Data-Logging-Using-a-Microcontroller.md
