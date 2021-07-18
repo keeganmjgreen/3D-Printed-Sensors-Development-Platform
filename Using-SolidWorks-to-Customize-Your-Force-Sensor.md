@@ -18,7 +18,7 @@ Open `mid_str_4T_sensing_and_elem.SLDPRT`. This SolidWorks part file contains th
     <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Using-SolidWorks-to-Customize-Your-Force-Sensor/Edit-Sketch.png" style="zoom:50%;" /> \
     ​
     
- 3. [Drag the leftmost line representing the back of the cantilever base, which will snap to the nearest half millimeter, or directly adjust its *X* position under *Additional Parameters* in the left pane to achieve finer resolution.](Using-SolidWorks-to-Customize-Your-Force-Sensor/01/3.png) We recommend *X* = 0 mm (lining it up with the origin of the coordinate system / $y$$z$-plane) for the sake of covering the conductive traces for one set of 4 terminals and one *sensing element*. \
+ 3. [Drag the leftmost line representing the back of the cantilever base, which will snap to the nearest half millimeter, or directly adjust its *X* position under *Additional Parameters* in the left pane to achieve finer resolution.](Using-SolidWorks-to-Customize-Your-Force-Sensor/01/3.png) We recommend *X* = 0 mm (lining it up with the origin of the coordinate system / $y$$z$-plane) for the sake of covering the primary set of conductive traces forming 4 terminals and one *sensing element*. Our default is *X* = --33 to also cover the secondary set. \
     ​
     
  4. Select *Exit Sketch*.
@@ -72,7 +72,7 @@ Remember that this modification will change the bounding volume of the sensor.
     <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Using-SolidWorks-to-Customize-Your-Force-Sensor/Edit-Feature.png" style="zoom:50%;" /> \
     ​
     
- 3. Drag the arrow showing the extrusion depth from the beam surfaces, which will snap to the nearest millimeter, or [directly adjust the *Depth* parameter in the left pane to achieve finer resolution](Using-SolidWorks-to-Customize-Your-Force-Sensor/03/3.png). Our default is 1 mm. \
+ 3. Drag the arrow showing the extrusion depth from the beam surfaces, which will snap to the nearest millimeter, or [directly adjust the *Depth* parameter in the left pane to achieve finer resolution](Using-SolidWorks-to-Customize-Your-Force-Sensor/03/3.png). Our default is 2 mm. We often use 1 mm. \
     ​
     
  4. Select *OK*.
