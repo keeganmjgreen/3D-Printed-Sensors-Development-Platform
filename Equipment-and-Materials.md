@@ -12,7 +12,7 @@
     
     Nice-to-have's:
     
-     -  A 3D printer with even more than two extruders (?), to also print "breakaway" or dissolvable material for 'scaffolding' prints above the *build plate*.
+     -  A 3D printer with even more than two extruders <!--(?)-->, to also print "breakaway" or dissolvable material for 'scaffolding' prints above the *build plate*.
         
      -  An [Ultimaker-brand 3D printer](https://ultimaker.com/3d-printers).* All Ultimaker-brand 3D printers are cartesian 3D printers.
         
