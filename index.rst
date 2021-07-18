@@ -32,6 +32,7 @@ These **product manual elements** are those which are the most important and rel
    Sensor-Data-Sheets.md
    3D-Printed-Sensors-Manual-Outline.md
    Glossary.md
+   Introduction.md
    Equipment-and-Materials.md
    Creating-and-Modifying-Mask-Layouts-for-Sensor-Designs.md
    Tips-for-Optionally-Using-SolidWorks-to-Build-Upon-Sensor-Designs.md
