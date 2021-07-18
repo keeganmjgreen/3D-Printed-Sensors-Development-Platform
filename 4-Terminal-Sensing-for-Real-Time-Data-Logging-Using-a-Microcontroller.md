@@ -114,7 +114,7 @@ If you are going to use the Arduino *Serial Plotter*, append this code:
     
     Serial.print("upper:");
     Serial.print(10e3);
-    Serial.print("\n");
+    Serial.print("\r\n");
 }
 ```
 
