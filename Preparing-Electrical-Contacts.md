@@ -8,7 +8,7 @@ This section is not finalized as we have not yet fully established our materials
 
 - Printed sensor
 - A dull and flat blade
-- Electrical wire (solid core)
+- Electrical wire (preferably solid core)
 - Conductive adhesive (Conductive tape, silver paint or epoxy)
 - Painter's tape
 
