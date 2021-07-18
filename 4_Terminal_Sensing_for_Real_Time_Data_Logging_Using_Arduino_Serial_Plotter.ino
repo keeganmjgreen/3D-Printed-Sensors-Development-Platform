@@ -32,5 +32,5 @@ void loop()
     
     Serial.print("upper:");
     Serial.print(10e3);
-    Serial.print("\n");
+    Serial.print("\r\n");
 }
