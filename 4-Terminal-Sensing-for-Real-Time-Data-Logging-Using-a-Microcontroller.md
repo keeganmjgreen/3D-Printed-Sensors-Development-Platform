@@ -12,7 +12,7 @@ $\uparrow$ Wiring diagram. Pins `A0` -- `A3` are analog input pins to the microc
  -  A sensor with conductive traces for 4-terminal sensing
  -  A 10-kΩ or similar through-hole resistor of known value
 
-**For Testing**
+**For Testing** and Evaluation Purposes
 
  -  5 lengths of solid core hook-up wire stripped of its insulation on both ends
  -  5 insulated crocodile clip jumpers (double-ended)
@@ -35,7 +35,7 @@ $\uparrow$ Wiring diagram. Pins `A0` -- `A3` are analog input pins to the microc
 
 $\uparrow$ Pinout of a 4-terminal sensor.
 
-**For Testing**
+**For Testing** and Evaluation Purposes
 
  1. Connect the hook-up wires to the `GND`, `A1`, `A2`, `A3`, and `5V` pins of the microcontroller.
     
