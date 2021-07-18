@@ -160,7 +160,7 @@ Only use the formula for wire-like conductive traces. Do not use It for electric
     
  3. [Repeat steps 1–2 for the Space for mid_str_4T_Sensing_Elem Reference *Mirror* feature.](Using-SolidWorks-to-Customize-Your-Force-Sensor/07/3.png)
     
-    <img src="img/Using-SolidWorks-to-Customize-Your-Force-Sensor/Space-for-mid_str_4T_sensing_elem-Reference.png" style="zoom:50%;" /> \
+    <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Using-SolidWorks-to-Customize-Your-Force-Sensor/Space-for-mid_str_4T_sensing_elem-Reference.png" style="zoom:50%;" /> \
     ​
     
  4. [Repeat steps 1–2 optionally for Mirror0](Using-SolidWorks-to-Customize-Your-Force-Sensor/07/4.png), noted to be: \
@@ -187,7 +187,7 @@ Before you can load the components of your 3D model into your 3D printing softwa
     
  2. Open our Export configuration.
     
-    <img src="img/Using-SolidWorks-to-Customize-Your-Force-Sensor/Export.png" style="zoom:50%;" /> \
+    <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Using-SolidWorks-to-Customize-Your-Force-Sensor/Export.png" style="zoom:50%;" /> \
     ​
     
  3. Ensure that any and all of the above customizations are carried across.
