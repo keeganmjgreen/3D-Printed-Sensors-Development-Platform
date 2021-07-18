@@ -103,3 +103,10 @@ void loop()
     Serial.print("\n");
 }
 ```
+
+### Additional Resources
+
+[Arduino Language Reference](https://www.arduino.cc/reference/)
+
+ -  Communication -- [Serial](https://www.arduino.cc/reference/en/language/functions/communication/serial/)
+ -  Analog input/output -- [analogRead()](https://www.arduino.cc/reference/en/language/functions/analog-io/analogread/)
