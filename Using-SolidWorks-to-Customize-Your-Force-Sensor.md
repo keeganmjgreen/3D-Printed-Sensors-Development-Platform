@@ -181,9 +181,8 @@ Only use the formula for wire-like conductive traces. Do not use It for electric
     
  2. Select *Suppress* or *Unsuppress*. Fillet0 and optionally Mirror0, as derived features, will be automatically suppressed too, but should be manually unsuppressed along with Cut-Extrude0.
 
-Keep the recesses/slots for crocodile clips if you are not yet going to use a conductive adhesive.
-
-
+Keep the recesses/slots for crocodile clips if you are not yet going to use a conductive adhesive. \
+​
 
 The fillets are to better depict the 3D printing process for rendering purposes. You may opt to remove them entirely.
 
