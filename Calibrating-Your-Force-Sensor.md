@@ -30,8 +30,7 @@
 
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Calibrating-Your-Force-Sensor/Strain-Test-Rig.jpg" style="zoom:33%;" /> \
 ​ \
-↑ A test rig for a force sensor with a 1-mm cantilever beam and no reference set of conductive traces. \
-​
+↑ A test rig for a force sensor with a 1-mm cantilever beam and no reference set of conductive traces.
 
 ## Instructions
 
@@ -103,7 +102,7 @@
     |  4 grams |
     |  3877.55 |
     |        ⁞ |
-    ​
+    ​ \
 18. Discard the resistance values *between* framed weight increments as being subject to the impulses of suddenly loading and unloading weights. Example:
     
     | Number of weights | Mass in grams | Resistance in ohms |
@@ -116,7 +115,7 @@
     |                 1 |             4 |            3870.37 |
     |                 1 |             4 |            3851.85 |
     |                 ⁞ |             ⁞ |                  ⁞ |
-    ​
+    ​ \
 19. Average the resistance values *within* framed weight increments as only being subject to measurement noise. Example:
     
     | Number of weights | Mass in grams | Resistance in ohms | Number of samples |
@@ -132,7 +131,7 @@
     |                 8 |            32 |            3912.05 |              138  |
     |                 9 |            36 |            3919.69 |              153  |
     |                10 |            40 |            3931.75 |              272  |
-    ​
+    ​ \
 20. Convert the masses (in units of grams) to force values (in units of Newtons) by multiplying them by 10 ≈ 9.81 m/s². Example:
     
     | Force in Newtons | Resistance in ohms |
@@ -148,7 +147,7 @@
     |             0.32 |            3912.05 |
     |             0.36 |            3919.69 |
     |             0.40 |            3931.75 |
-    ​
+    ​ \
 20. Plot resistance against force. Example:
     
     <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Calibrating-Your-Force-Sensor/Force-Sensor-Calibration-Curve.png" style="zoom:50%;" /> 
