@@ -28,9 +28,9 @@
  -  A laboratory weight set or similar
     ​
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Calibrating-Your-Force-Sensor/Strain-Test-Rig.jpg" style="zoom:33%;" /> 
-​ 
-$\uparrow$ A test rig for a force sensor with a 1-mm cantilever beam and no reference set of conductive traces. 
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Calibrating-Your-Force-Sensor/Strain-Test-Rig.jpg" style="zoom:33%;" />
+​
+↑ A test rig for a force sensor with a 1-mm cantilever beam and no reference set of conductive traces.
 ​
 
 ## Instructions
