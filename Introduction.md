@@ -17,15 +17,15 @@ This manual displays warnings and safety related notices through the following f
 
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/ANSI_Notice_Header_-_1998.svg" alt="Notice" style="zoom:25%;" />
 
-This symbol indicates that damage to property may occur if the provided percautions are not taken.
+This symbol indicates that damage to property may occur if the provided precautions are not taken.
 
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/ANSI_Caution_Header_-_1998.svg" alt="Notice" style="zoom:25%;" />
 
-This symbol indicates that minor injuries may occur if the provided percautions are not taken.
+This symbol indicates that minor injuries may occur if the provided precautions are not taken.
 
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/ANSI_Danger_Header_-_1998.svg" alt="Notice" style="zoom:25%;" />
 
-This symbol indicates a high probability that major injury or death may occur if the provided percautions are not adhered to.
+This symbol indicates a high probability that major injury or death may occur if the provided precautions are not adhered to.
 
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Warning-Sign.jpg" style="zoom:50%;" /> 
 
@@ -37,7 +37,7 @@ These warnings provide general safety related information or measures.
 
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Electrical Warning.png" style="zoom:50%;" /> 
 
-Improperly installed 3D printers may present a risk of electoruction. Ensure the 3D printer is installed and operated as per the Manufacturer's specification as described in the 3D printer's User Manual
+Improperly installed 3D printers may present a risk of electrocution. Ensure the 3D printer is installed and operated as per the Manufacturer's specification as described in the 3D printer's User Manual
 
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Pinch-Warning.png" style="zoom:50%;" /> 
 
@@ -49,14 +49,14 @@ Improperly installed 3D printers may present a risk of electoruction. Ensure the
 
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety-Warning.PNG" style="zoom:50%;" /> 
 
-3D printing filaments may release Volatile Organic Compounds (VOCs) during the printing process. VOCs can cause symptoms including headache, fatigue and confusion. Follow all safety percautions outlined in the material's Data Sheet and your 3D printer's User Manual.
+3D printing filaments may release Volatile Organic Compounds (VOCs) during the printing process. VOCs can cause symptoms including headache, fatigue and confusion. Follow all safety precautions outlined in the material's Data Sheet and your 3D printer's User Manual.
 
 
 ### Operating Hazards ###
 
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Electrical Warning.png" style="zoom:50%;" /> 
 
-Laboratory grade power sources are capable of generating power sufficient to cause electrocution. Always operate power sources and measurement equipment as per manufacturer's specifications.
+Laboratory grade power sources can generate power sufficient to cause electrocution. Always operate power sources and measurement equipment as per manufacturer's specifications.
 
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Burn-Warning.PNG" style="zoom:50%;" /> 
 
