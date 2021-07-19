@@ -3,6 +3,7 @@
 ## Materials and Preparation
 
  -  An untested force sensor with these defaults from `mid_str_4T_sensing_and_elem.SLDPRT`:
+    ​
     
      -  A free end hole close to the end of the cantilever beam from which to suspend known weights. If you would like to use a force sensor that you have already printed without a free end hole, you can drill or punch a hole in the same place.
      -  A similarly thick cantilever base to avoid unwanted deflection, emulating being embedded into your comparably large parent 3D printed structure. If you do not need spaces for the lower jaws of crocodile clips in a thick cantilever base, and would prefer it to lessen your print time, you can glue a thinner cantilever base to a piece of wood to be used as the cantilever base.
@@ -10,6 +11,7 @@
      -  4-terminal sensing in each set of conductive traces
      -  Large electrical contact pads
      -  Spaces for lower jaws of crocodile clips (optional)
+        ​
     
  -  An insulated double-ended crocodile clip jumper (or conductive paint/epoxy and lengths of thin wire stripped of its insulation on both ends) for *each* electrical contact
     
