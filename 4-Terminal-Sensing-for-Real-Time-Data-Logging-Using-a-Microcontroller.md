@@ -8,7 +8,8 @@ $\uparrow$ Wiring diagram. Pins `A0` -- `A3` are analog input pins to the microc
 
 ## Materials and Preparation
 
- -  A microcontroller with at least 3 analog input pins, such as an Arduino [Uno](https://www.arduino.cc/en/Main/arduinoBoardUno&gt) or [Nano](https://www.arduino.cc/en/pmwiki.php?n=Main/ArduinoBoardNano)
+ -  A computer with the [Arduino IDE](https://www.arduino.cc/en/Guide/Environment) (recommended) installed
+ -  A microcontroller with at least 3 analog input pins, such as an [Arduino]((https://www.arduino.cc/en/Main/Products)) (recommended) [Uno](https://www.arduino.cc/en/Main/arduinoBoardUno&gt) or [Nano](https://www.arduino.cc/en/pmwiki.php?n=Main/ArduinoBoardNano), and its USB cable
  -  A sensor with conductive traces for 4-terminal sensing
  -  A 10-kΩ or similar through-hole resistor of known value
 
@@ -69,10 +70,11 @@ $\uparrow$ Pinout of a 4-terminal sensor.
     
     See also **Using Conductive Paint** and **Preparing Electrical Contacts**.
 
+If you are using an Arduino microcontroller, open its IDE on your computer and plug in your board.
 
 ## Instructions -- Programming
 
-If you are using an [Arduino microcontroller](https://www.arduino.cc/en/Main/Products) (recommended), upload the following code to it using the [Arduino IDE](https://www.arduino.cc/en/Guide/Environment).
+If you are using an Arduino microcontroller, upload the following code to it using the its IDE.
 
 ``` c++
 float R_series = 10e3;  // Known value of resistor in series with 4-terminal sensor.
