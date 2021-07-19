@@ -6,7 +6,7 @@
     
     <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Calibrating-Your-Force-Sensor/mid_str_4T_sensing_1.png" style="zoom:50%;" /> 
     
-     -  A free end hole close to the end of the cantilever beam from which to suspend known weights. If you would like to use a force sensor that you have already printed without a free end hole, you can drill or punch a hole in the same place.
+     -  A hole close to the end of the cantilever beam ("Free End Hole" in the SolidWorks part) from which to suspend known weights. If you would like to use a force sensor that you have already printed without a free end hole, you can drill or punch a hole in the same place.
         
      -  A similarly thick cantilever base to avoid unwanted deflection, emulating being embedded into your comparably large parent 3D printed structure. If you do not need spaces for the lower jaws of crocodile clips in a thick cantilever base, and would prefer it to lessen your print time, you can glue a thinner cantilever base to a piece of wood to be used as the cantilever base.
         
