@@ -4,7 +4,7 @@ How do implementations of our Pithon platform get made? How will users produce 3
 
 We start with continuous fabrication, building our design from the ground up using conductive and structural plastics (conductive and regular 3D printing filament).
 
-First, we lay down electrically conductive traces on the 3D printing surface. These will make up the electrical terminals and so-called *sensing elements* of our accelerometer and temperature sensor:
+First, we lay down electrically conductive traces on the 3D printing surface. These will make up the electrical terminals and *sensing elements* of our accelerometer and temperature sensor:
 
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Example-Process-Flow/Figure (1).png" alt="Figure (1)" style="zoom:25%;" /> \
     ​
@@ -36,7 +36,7 @@ We press-fit a steel ball into the space provided at the end of the acceleromete
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Example-Process-Flow/Figure (6).png" alt="Figure (6)" style="zoom:25%;" /> \
     ​
 
-This will make it especially sensitive to acceleration. This weight is called a *proof mass*. Because it is metallic, the accelerometer can also be used as a magnetic field sensor.
+This will make it especially sensitive to acceleration. This weight is a *proof mass*. Because it is metallic, the accelerometer can also be used as a magnetic field sensor.
 
 We cover the cavity with the rest of the arbitrarily-shaped enclosing structure:
 
