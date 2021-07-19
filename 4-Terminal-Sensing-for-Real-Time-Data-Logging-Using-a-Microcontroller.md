@@ -74,7 +74,7 @@ If you are using an Arduino microcontroller, open its IDE on your computer and p
 
 ## Instructions -- Programming
 
-If you are using an Arduino microcontroller, upload the following code to it using the its IDE.
+If you are using an Arduino microcontroller, upload the following code to it using the its IDE, after which the program will begin running onboard.
 
 ``` c++
 float R_series = 10e3;  // Known value of resistor in series with 4-terminal sensor.
