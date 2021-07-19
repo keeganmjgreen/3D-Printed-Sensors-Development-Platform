@@ -103,7 +103,7 @@ void loop()
     
 ```
 
-If you are going to use the Arduino *Serial Plotter*, append this code:
+If you are going to use the Arduino *Serial Plotter*, append the following code.
 
 ``` c++
     Serial.print("R_sens:");
@@ -122,7 +122,7 @@ If you are going to use the Arduino *Serial Plotter*, append this code:
 
  -  Or download the fully assembled [`4_Terminal_Sensing_for_Real_Time_Data_Logging_Using_Arduino_Serial_Plotter.ino`](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/4_Terminal_Sensing_for_Real_Time_Data_Logging_Using_Arduino_Serial_Plotter.ino).
 
-If you are going to use the Arduino *Serial Monitor*, append this code:
+If you are going to use the Arduino *Serial Monitor*, append the following.
 
 ``` c++
     Serial.println(R_sens);
