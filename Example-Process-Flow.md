@@ -19,7 +19,7 @@ We cover the conductive traces as required with more of their enclosing structur
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Example-Process-Flow/Figure (3).png" alt="Figure (3)" style="zoom:25%;" /> \
     ​
 
-We have printed a cantilever beam for our accelerometer as shown.
+We have printed a cantilever beam for our accelerometer as shown:
 
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Example-Process-Flow/Figure (4).png" alt="Figure (4)" style="zoom:25%;" /> \
     ​
