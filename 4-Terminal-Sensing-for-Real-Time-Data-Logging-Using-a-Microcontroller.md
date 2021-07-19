@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/4-Terminal-Sensing-for-Real-Time-Data-Logging-Using-a-Microcontroller.png" style="zoom:50%;" />
 
-$\uparrow$ Wiring diagram showing the interface between a sensor with conductive traces for 4-terminal sensing and a microcontroller, of which `A0` -- `A3` are analog input pins. The microcontroller is programmed by and sends data -- namely, the resistance of the sensing element in the conductive traces -- to a computer, over *serial communication*.
+$\uparrow$ Wiring diagram showing the interface between a sensor with conductive traces for 4-terminal sensing and a microcontroller, of which `A0` -- `A3` are analog input pins. The microcontroller is programmed by and sends data -- namely, the resistance of the sensing element in the conductive traces -- to a computer, all via USB over *serial communication*.
 
 ## Materials and Preparation
 
