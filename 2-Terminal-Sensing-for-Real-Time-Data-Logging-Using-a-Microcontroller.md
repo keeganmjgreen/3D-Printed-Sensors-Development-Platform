@@ -123,8 +123,6 @@ If you are going to use the Arduino *Serial Monitor*, append this code:
 
  -  Or download the fully assembled [`2_Terminal_Sensing_for_Real_Time_Data_Logging_Using_Arduino_Serial_Monitor.ino`](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/2_Terminal_Sensing_for_Real_Time_Data_Logging_Using_Arduino_Serial_Monitor.ino).
 
-The Arduino serial plotter and monitor cannot be used simultaneously.
-
 ### Additional Resources
 
 [Arduino Language Reference](https://www.arduino.cc/reference/)
@@ -138,3 +136,5 @@ The Arduino serial plotter and monitor cannot be used simultaneously.
  -  Use the Arduino Serial Monitor ([online reference](https://arduinogetstarted.com/tutorials/arduino-serial-monitor)) to write live timeseries data that can be copied and saved. Disable its *Show timestap* option beforehand.
 
 In either case, set the *baud rate* to "9600 baud" to match the Arduino code and the *line ending* to "Both NL & CR" beforehand.
+
+The Arduino serial plotter and monitor cannot be used simultaneously.
