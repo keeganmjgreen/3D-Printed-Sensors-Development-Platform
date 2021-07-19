@@ -141,6 +141,6 @@ The Arduino serial plotter and monitor cannot be used simultaneously.
 ## Real-Time Data Logging
 
  -  Use the Arduino Serial Plotter ([online reference](https://arduinogetstarted.com/tutorials/arduino-serial-plotter)) to visualize live data over a recent period of time.
- -  Use the Arduino Serial Monitor ([online reference](https://arduinogetstarted.com/tutorials/arduino-serial-monitor)) to write live timeseries data that can be copied and saved. Disable its *Show timestap* option.
+ -  Use the Arduino Serial Monitor ([online reference](https://arduinogetstarted.com/tutorials/arduino-serial-monitor)) to write live timeseries data that can be copied and saved. Disable its *Show timestap* option beforehand.
 
-In either case, set the *baud rate* to "9600 baud" to match the Arduino code and the *line ending* to "Both NL & CR".
+In either case, set the *baud rate* to "9600 baud" to match the Arduino code and the *line ending* to "Both NL & CR" beforehand.
