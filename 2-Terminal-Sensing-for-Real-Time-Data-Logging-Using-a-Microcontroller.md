@@ -34,39 +34,39 @@ $\uparrow$ Wiring diagram showing the interface between a sensor with conductive
 
 **For Testing** and Evaluation Purposes
 
- 1. Connect the hook-up wires to the `GND`, `A1`, and `5V` pins of the microcontroller.
+ 1. Connect your hook-up wires to the `GND`, `A1`, and `5V` pins of your microcontroller.
     
- 2. Connect the crocodile clip jumpers to the hook-up wires.
+ 2. Connect your crocodile clip jumpers to the hook-up wires.
     
- 3. Connect the resistor midway through the `A1` wire assembly.
+ 3. Connect your resistor midway through the `A1` wire assembly.
     
  4. Connect the end of the `GND` wire assembly to the resistor.
     
- 5. Connect the ends of the remaining wire assemblies, in order, to terminals `T1` -- `T2` of the 2-terminal sensor.
+ 5. Connect the ends of the remaining wire assemblies, in order, to terminals `T1` -- `T2` of your 2-terminal sensor.
 
 **For Production** without a Circuit Board
 
-1. Connect the hook-up wires to the `GND`, `A1`, and `5V` pins of the microcontroller. \
-   Slip on the heat shrink tubing if necessary at this point.
-   
-2. Solder the thin wire to the latter 2 hook-up wires.
-   
-3. Solder the resistor midway through the `A1` wire assembly.
-   
-4. Solder the `GND` hook-up wire to the resistor.
-   
-   Apply the heat shrink tubing around all connections by evenly heating it using the soldering iron.
-   
-5. Connect the ends of the remaining wire assemblies, in order, to terminals `T1` -- `T2` of the 2-terminal sensor.
-   
-    1.  Coil the stripped ends of the thin wires into loops.
-    2.  Carefully rest the loops on the center of the matching terminals' contact pads, holding the wires and sensor down using masking tape.
-    3.  Carefully cover the wire loops with conductive paint within the borders of the contact pads.
-    4.  Wait for the conductive paint to fully dry/harden.
-   
-   See also **Using Conductive Paint** and **Preparing Electrical Contacts**.
+ 1. Connect your hook-up wires to the `GND`, `A1`, and `5V` pins of your microcontroller. \
+    Slip on your heat shrink tubing if necessary at this point.
+    
+ 2. Solder your thin wire to the latter 2 hook-up wires.
+    
+ 3. Solder your resistor midway through the `A1` wire assembly.
+    
+ 4. Solder the `GND` hook-up wire to the resistor.
+    
+    Apply the heat shrink tubing around all connections by evenly heating it using your soldering iron.
+    
+ 5. Connect the ends of the remaining wire assemblies, in order, to terminals `T1` -- `T2` of your 2-terminal sensor.
+    
+     1. Coil the stripped ends of your thin wires into loops.
+     2. Carefully rest the loops on the center of the matching terminals' contact pads, holding the wires and sensor down using masking tape.
+     3. Carefully cover the wire loops with conductive paint within the borders of the contact pads.
+     4. Wait for your conductive paint to fully dry/harden.
+    
+    See also **Using Conductive Paint** and **Preparing Electrical Contacts**.
 
-If you are using an Arduino microcontroller, open its IDE on your computer and plug in your board.
+If you are using an Arduino microcontroller, open its IDE on your computer and plug in your board using its USB cable.
 
 ## Instructions -- Programming
 
