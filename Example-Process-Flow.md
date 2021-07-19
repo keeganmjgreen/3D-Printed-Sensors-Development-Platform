@@ -94,10 +94,12 @@ The sensing element’s electrical resistance changes with temperature. A method
 
 Now, we put wet conductive paint (or conductive epoxy) on the large contact pads formed by the conductive traces:
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Example-Process-Flow/Figure (14).png" alt="Figure (14)" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Example-Process-Flow/Figure (14).png" alt="Figure (14)" style="zoom:25%;" /> \
+​
 
 Before the conductive paint dries, we bond wires to these contact pads:
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Example-Process-Flow/Figure (15).png" alt="Figure (15)" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Example-Process-Flow/Figure (15).png" alt="Figure (15)" style="zoom:25%;" /> \
+​
 
 They connect to your Arduino board and, optionally, a different power source, such as a coin cell.
