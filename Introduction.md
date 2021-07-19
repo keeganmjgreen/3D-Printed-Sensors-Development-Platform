@@ -9,6 +9,14 @@ Please read and understand all information presented in this manual prior to att
 
 All information provided within this manual has been gathered from reliable sources and internal development, however Monti provides no warranty of the correctness of any information provided in this manual.
 
+# Warranty Information #
+
+Monti 3D Printing Solutions offers no warranty to any sensor produced or calibrated through Pithon manufacturing methods. Additionally, Monti provides no warranty for any aspect of all Pithon manufacturing and calibration processes. Subscription and availability of Pithon services, including documentation, may be cancelled at any time, for any reason. 
+
+# Customer Support #
+
+TODO: GF
+
 # Safety #
 
 ## Safety Messages ##
