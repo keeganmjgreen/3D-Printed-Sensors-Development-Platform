@@ -43,4 +43,5 @@ These **product manual elements** are those which are the most important and rel
    2-Terminal-Sensing-for-Real-Time-Data-Logging-Using-a-Microcontroller.md
    4-Terminal-Sensing-for-Real-Time-Data-Logging-Using-a-Microcontroller.md
    Microcontroller-Based-Analog-Data-Logger-Interface.md
+   Troubleshooting-Guide.md
    Frequently-Asked-Questions.md
