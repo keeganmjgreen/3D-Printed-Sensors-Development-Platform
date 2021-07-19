@@ -101,7 +101,7 @@ void loop()
     
 ```
 
-If you are going to use the Arduino *Serial Plotter*, append this code:
+If you are going to use the Arduino *Serial Plotter* ([online reference](https://arduinogetstarted.com/tutorials/arduino-serial-plotter)), append this code:
 
 ``` c++
     Serial.print("R_sens:");
@@ -120,7 +120,7 @@ If you are going to use the Arduino *Serial Plotter*, append this code:
 
  -  Or download the fully assembled [`4_Terminal_Sensing_for_Real_Time_Data_Logging_Using_Arduino_Serial_Plotter.ino`](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/4_Terminal_Sensing_for_Real_Time_Data_Logging_Using_Arduino_Serial_Plotter.ino).
 
-If you are going to use the Arduino *Serial Monitor*, append this code:
+If you are going to use the Arduino *Serial Monitor* ([online reference](https://arduinogetstarted.com/tutorials/arduino-serial-monitor)), append this code:
 
 ``` c++
     Serial.println(R_sens);
@@ -129,9 +129,18 @@ If you are going to use the Arduino *Serial Monitor*, append this code:
 
  -  Or download the fully assembled [`4_Terminal_Sensing_for_Real_Time_Data_Logging_Using_Arduino_Serial_Monitor.ino`](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/4_Terminal_Sensing_for_Real_Time_Data_Logging_Using_Arduino_Serial_Monitor.ino).
 
+The Arduino serial plotter and monitor cannot be used simultaneously.
+
 ### Additional Resources
 
 [Arduino Language Reference](https://www.arduino.cc/reference/)
 
  -  Communication -- [Serial](https://www.arduino.cc/reference/en/language/functions/communication/serial/)
  -  Analog input/output -- [analogRead()](https://www.arduino.cc/reference/en/language/functions/analog-io/analogread/)
+
+## Real-Time Data Logging
+
+ -  Use the Arduino Serial Plotter to visualize live data over a recent period of time.
+ -  Use the Arduino Serial Monitor to write live timeseries data that can be copied and saved. Disable its *Show timestap* option.
+
+In either case, set the *baud rate* to "9600 baud" to match the Arduino code and the *line ending* to "Both NL & CR".
