@@ -29,7 +29,16 @@ Follow the same step as you would when calibrating the original Monti sensor. Wi
 Place the sensor in the oven or environmental chamber. At this point, make sure that there is some way to monitor temperatuer in the chamber.
 
 ### Step 3
-Begin logging data and increase the temperature of the chamber. If your heating chamber does not log temperature over time, make sure to make note of the temperature at every minute with the help of a timing device. If your measurement device doesn't log resistance over time, also take note of the resistances every minute. Continue the test until the temperature stabilizes at 50 degrees Celsius. NOTICE: Increasing the temperature higher than 50 degrees Celsius may cause permanent damage to the sensor
+Begin logging data and increase the temperature of the chamber.
+
+![](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/c19642ca181b20fe722775690fba786da6298c33/img/Safety/ANSI_Caution_Header_-_1998.svg)
+*Caution*: Your heating chamber can become very hot. Exercise caution when dealing with hot devices.
+
+If your heating chamber does not log temperature over time, make sure to make note of the temperature at every minute with the help of a timing device. If your measurement device doesn't log resistance over time, also take note of the resistances every minute. Continue the test until the temperature stabilizes at 50 degrees Celsius. 
+
+![](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/c19642ca181b20fe722775690fba786da6298c33/img/Safety/ANSI_Notice_Header_-_1998.svg)
+
+NOTICE: Increasing the temperature higher than 50 degrees Celsius may cause permanent damage to the sensor
 
 ### Step 4
 Export both data and correspond temperature and resistances with respect to time. Input these values into the software. If you measured temperature by hand, only enter values in at every 60 second mark. If you measured resistance by hand, do the same for that. The software will then create the calibration curve.
