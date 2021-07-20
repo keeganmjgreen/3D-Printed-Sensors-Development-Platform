@@ -2,7 +2,7 @@
 
 2-terminal sensing is less consistent between sensors and less repeatable for a given sensor than 4-terminal sensing. However, it is simpler to get up and running, and more compact in implementation.
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/2-Terminal-Sensing-for-Real-Time-Data-Logging-Using-a-Microcontroller.png" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/2-Terminal-Sensing-for-Real-Time-Data-Logging-Using-a-Microcontroller.png" style="zoom:50%;" /> 
 
 $\uparrow$ Wiring diagram showing the interface between a sensor with conductive traces for 2-terminal sensing and a microcontroller, of which `A0` -- `A1` are analog input pins. The microcontroller is programmed by and sends data -- namely, the resistance of the conductive traces between the 2 terminals -- to a computer, all via USB over *serial communication*.
 
