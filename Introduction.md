@@ -14,7 +14,9 @@ Monti 3D Printing Solutions offers no warranty to any sensor produced or calibra
 
 # Customer Support #
 
-TODO: GF
+Additional documentation and resources about Pithon on our online support pages at: https://3d-printed-sensors-manual-demo.readthedocs.io/en/latest/index.html
+
+Please address any questions to Monti's Design Team at kmgreen@sfu.ca
 
 # Safety #
 
