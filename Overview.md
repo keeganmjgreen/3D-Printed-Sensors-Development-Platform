@@ -1,6 +1,6 @@
 # About This Manual #
 
-This manual describes every aspect of the Pithon platform including how to customize, print, calibrate and use Pithon sensors. The manual starts with an overview of Pithon sensors. Next, the process of 3D printing sensors will be described, emphasising strategies for improving reliability and consistency of printed sensors. Tools and resources for customizing sensors to your unique applciation will then be presented. Finally, calibration methods are provided to ensure that printed sensors are delivering reliable results. 
+This manual describes every aspect of the Pithon platform including how to customize, print, calibrate and use Pithon sensors. The manual starts with an overview of Pithon sensors. Next, the process of 3D printing sensors will be described, emphasizing strategies for improving reliability and consistency of printed sensors. Tools and resources for customizing sensors to your unique application will then be presented. Finally, calibration methods are provided to ensure that printed sensors are delivering reliable results. 
 
 # Overview #
 
@@ -8,7 +8,7 @@ Pithon is a set of designs, tools, documentation, and software to allow anyone t
 
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Pithon-Overview.PNG" alt="Notice" style="zoom:25%;" />
 
-Using only 2 materials, a conductive and a structural 3D printing filament, Pithon sensors can be 3D printed in a single-step manufacturing process. After the sensors are produced, users can choose whether to perform additional steps to improve sensor performance, such as adding a metal proof mass to improve an accelerometer's sensitvity. Complete sensors can be printed for about $1 CAD in an hour. 
+Using only 2 materials, a conductive and a structural 3D printing filament, Pithon sensors can be 3D printed in a single-step manufacturing process. After the sensors are produced, users can choose whether to perform additional steps to improve sensor performance, such as adding a metal proof mass to improve an accelerometer's sensitivity. Complete sensors can be printed for about $1 CAD in an hour. 
 
 ## Temperature Sensor ##
 
