@@ -107,6 +107,9 @@ whichever happens first (that is, whichever the program encounters first):
 ¹ This `break` will not be reached unless the previous line, `ser = Serial(port)`, succeeds.  
 At least in this context, `break` and `pass` specifically mean 'stop trying' and 'skip error handling', respectively.
 
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Microcontroller-Based-Analog-Data-Logger-Interface/connect.png" style="zoom:50%;" /> \
+$\uparrow$ *The first possible notification.*
+
 The device may have been connected by this point, in which case the connection prompt would be withheld.  
 Now, check if the `ser` object is defined (i.e., if the serial port was opened):
 
@@ -170,6 +173,9 @@ while True:
 │   │       disconnected_tick = time()
 ```
 
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Microcontroller-Based-Analog-Data-Logger-Interface/connected.png" style="zoom:50%;" /> \
+$\uparrow$ *The second possible notification.*
+
 The user would be 'permitted' to disconnect the device as soon as it is connected if the previous [busy waiting](https://en.wikipedia.org/wiki/Busy_waiting) `while` loop is manually (albeit awkwardly) threaded with the upcoming data logging one, or if done using the `threading` standard Python module ([documentation](https://docs.python.org/3/library/threading.html)) instead. However, the user should know not when the device is simply plugged in (as they do and need not be notified), but when the serial communication link is established soon thereafter.
 
 Now, initialize an empty list of `lines` to be read from the serial port, assuming that it is still open:
@@ -214,6 +220,9 @@ while True:
 │   if toaster.show_toast('Microcontroller disconnected %.1f seconds ago' % disconnected_time, ' ', threaded = True):
 │   │   break
 ```
+
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Microcontroller-Based-Analog-Data-Logger-Interface/disconnected.png" style="zoom:50%;" /> \
+$\uparrow$ *The third possible notification.*
 
 ## 3. Preparing the Collected Analog Data
 
