@@ -1,4 +1,4 @@
-## Calibrating the Accelerometer
+## Calibrating Your Accelerometer
 From the force gauge, an accelerometer can be constructed by adding a proof mass to the end of the cantilever. In this guide we will be instructing how to print and calibrate a functional accelerometer. This accelerometer will have the ability to measure the proportion of gravity experienced as it is rotated.
 
 ## Materials and Preparation
