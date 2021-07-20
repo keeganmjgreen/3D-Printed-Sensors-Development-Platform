@@ -46,6 +46,8 @@ These **product manual elements** are those which are the most important and rel
    Calibrating-Your-Force-Sensor.md
    Microcontroller-Based-Analog-Data-Logger-Interface.md
    Preparing-Thermal-Sensor-In-Cura.md
+   Test-and-Calibrate-Thermal-Sensor.md
+   Test-and-Calibrate-Capacitor.md
    Preparing-Capacitor-In-Cura.md
    Troubleshooting-Guide.md
    Frequently-Asked-Questions.md
