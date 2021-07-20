@@ -1,10 +1,10 @@
 # 4-Terminal Sensing for Real-Time Data Logging Using a Microcontroller
 
-4-terminal sensing is slightly more complicated to set up than 2-terminal sensing and less compact in implementation. However, it is more consistent between sensors and more repeatable for a given sensor. It virtually eliminates the effect of contact resistance and other *parasitic* resistances on the measurement of a resistive sensing element.
+4-terminal sensing is slightly more complicated to set up than 2-terminal sensing and less compact in implementation. However, it is more consistent between sensors and more repeatable for a given sensor. It virtually eliminates the effect of contact resistance and other input resistances on the measurement of a resistive sensing element.
 
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/4-Terminal-Sensing-for-Real-Time-Data-Logging-Using-a-Microcontroller.png" style="zoom:50%;" /> 
 
-$\uparrow$ Wiring diagram showing the interface between a sensor with conductive traces for 4-terminal sensing and a microcontroller, of which `A0` -- `A3` are analog input pins. The microcontroller is programmed by and sends data -- namely, the resistance of the sensing element in the conductive traces -- to a computer, all via USB over *serial communication*.
+$\uparrow$ The wiring diagram showing the interface between a sensor with conductive traces for 4-terminal sensing and a microcontroller, of which `A0` -- `A3` are analog input pins. The microcontroller is programmed by and sends data -- namely, the resistance of the sensing element in the conductive traces -- to a computer, via USB over *serial communication*.
 
 ## Materials and Preparation
 
@@ -15,18 +15,18 @@ $\uparrow$ Wiring diagram showing the interface between a sensor with conductive
 
 **For Testing** and Evaluation Purposes
 
- -  5 lengths of solid core hook-up wire stripped of their insulation on both ends
+ -  5 lengths of solid core hook-up wire with stripped ends
  -  5 insulated crocodile clip jumpers (double-ended)
 
 **For Production** without a Circuit Board
 
- -  5 lengths of solid core hook-up wire stripped of their insulation on both ends
+ -  5 lengths of solid core hook-up wire with stripped ends
  -  Soldering setup
      -  Soldering iron with stand
      -  Lead-free solder
      -  Soldering sponge or similar
  -  5 pieces of thin heat shrink tubing
- -  4 lengths of thin (e.g., 30 AWG) wire stripped of their insulation on both ends.
+ -  4 lengths of thin (e.g., 30 AWG) wire with stripped ends
  -  Conductive paint syringe
  -  Masking tape
 
@@ -111,7 +111,7 @@ void loop()
     
 ```
 
-If you are going to use the Arduino *Serial Plotter*, append the following code.
+If you are using the Arduino *Serial Plotter*, append the following code.
 
 ``` c++
     Serial.print("R_sens:");
@@ -128,16 +128,16 @@ If you are going to use the Arduino *Serial Plotter*, append the following code.
 }
 ```
 
- -  Or download the fully assembled [`4_Terminal_Sensing_for_Real_Time_Data_Logging_Using_Arduino_Serial_Plotter.ino`](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/4_Terminal_Sensing_for_Real_Time_Data_Logging_Using_Arduino_Serial_Plotter.ino).
+ -  Or download the complete sample code: [`4_Terminal_Sensing_for_Real_Time_Data_Logging_Using_Arduino_Serial_Plotter.ino`](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/4_Terminal_Sensing_for_Real_Time_Data_Logging_Using_Arduino_Serial_Plotter.ino).
 
-If you are going to use the Arduino *Serial Monitor*, append the following.
+If you are using the Arduino *Serial Monitor*, append the following.
 
 ``` c++
     Serial.println(R_sens);
 }
 ```
 
- -  Or download the fully assembled [`4_Terminal_Sensing_for_Real_Time_Data_Logging_Using_Arduino_Serial_Monitor.ino`](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/4_Terminal_Sensing_for_Real_Time_Data_Logging_Using_Arduino_Serial_Monitor.ino).
+ -  Or download the complete sample code: [`4_Terminal_Sensing_for_Real_Time_Data_Logging_Using_Arduino_Serial_Monitor.ino`](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/4_Terminal_Sensing_for_Real_Time_Data_Logging_Using_Arduino_Serial_Monitor.ino).
 
 ### Additional Resources
 
