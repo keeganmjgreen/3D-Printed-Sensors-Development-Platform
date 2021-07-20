@@ -1,5 +1,7 @@
-# Preliminary List of Equipment and Materials
-## Printers 
+# Equipment and Materials
+
+## Printers
+
  -  A [3D printer](https://www.digikey.com/en/products/filter/3d-printers/943?s=N4IgTCBcDaIMwBMAEAHATgSwHYBcQF0BfIA).
     
     Minimum requirements:
@@ -23,7 +25,9 @@
         
          -  Multiples of the same make & model, to print consecutively.
          -  Multiple different models, to try them out and similarly get up and running faster at the cost of less consistency and predictability.
-## Filaments 
+
+## Filaments
+
  -  A spool of regular [3D printing filament](https://www.digikey.com/en/products/filter/3d-printing-filaments/944), preferably just [250 grams](https://www.digikey.com/en/products/filter/3d-printing-filaments/944?s=N4IgjCBcoExh0QGMoDMCGAbAzgUwDQgD2UA2iDAOxgAMNIAuoQA4AuUIAyqwE4CWAOwDmIAL7igA) for sensor structures, or to start with for large albeit partially-hollow prints.
     
      -  [Easy-to-Print 3D Printer Filaments ](https://www.mcmaster.com/3d-printer-filaments/easy-to-print-3d-printer-filaments-5/)
@@ -51,11 +55,11 @@
     
  -  Nice-to-have: A compressed air canister or a supply of compressed air, to clean the 3D printer (and workspace) of filament dust and stray pieces, during and after printing.
     
-    <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/safety/ANSI_Notice_Header_-_1998.svg" alt="Notice" style="zoom:25%;" />
+    <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ANSI_Notice_Header_-_1998.svg" alt="Notice" style="zoom:25%;" />
     
     *Note:* Compressed air lines are at very high pressures, much higher than that of a compressed air canister. Test their force a meter from the 3D printer first. Failure to do so may damage the more delicate parts of the printer.
     
-    <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/safety/ANSI_Caution_Header_-_1998.svg" alt="Caution" style="zoom:25%;" />
+    <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ANSI_Caution_Header_-_1998.svg" alt="Caution" style="zoom:25%;" />
     
     **Caution:** Compressed air lines are at very high pressures. Always wear safety goggles when working with a compressed air line. Never point its nozzle at yourself or others. Failure to do so may result in bodily harm.
     
