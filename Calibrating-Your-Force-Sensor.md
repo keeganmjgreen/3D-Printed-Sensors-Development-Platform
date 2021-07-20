@@ -1,23 +1,18 @@
 # Calibrating Your Force Sensor
+The force sensor must be calibrated to the relative force exerted on the sensing element, as well as the ambient temperature. A printed force sensor can be calibrated in a number of ways, but the basis is the same. The resistance-force characteristic curve needs to be generated.
 
 ## Materials and Preparation
 
- -  An untested force sensor with the following defaults from `mid_str_4T_sensing_and_elem.SLDPRT`.
+ -  A force sensor of the following design characteristics. An untested force sensor with these defaults can be found from `mid_str_4T_sensing_and_elem.SLDPRT`.
     
     <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Calibrating-Your-Force-Sensor/mid_str_4T_sensing_1.png" style="zoom:50%;" /> 
     
-     -  A hole close to the end of the cantilever beam ("Free End Hole" in the SolidWorks part) from which to suspend known weights. If you would like to use a force sensor that you have already printed without a free end hole, you can drill or punch a hole in the same place.
-        
-     -  A similarly thick cantilever base to avoid unwanted deflection, emulating being embedded into your comparably large parent 3D printed structure. If you do not need spaces for the lower jaws of crocodile clips in a thick cantilever base, and would prefer it to lessen your print time, you can glue a thinner cantilever base to a piece of wood to be used as the cantilever base.
-        
-     -  A reference set of conductive traces to correct for changes in temperature and humidity (recommended)
-        
-     -  4-terminal sensing in each set of conductive traces (recommended)
-        
-     -  Large electrical contact pads
-        
-     -  Spaces for lower jaws of crocodile clips (optional)
-        ​
+    - A free end hole close to the end of the cantilever beam from which to suspend known weights. If you would like to use a force sensor that you have already printed without a free end hole, you can drill or punch a hole in the same place.
+    - A relatively thick cantilever base to avoid unwanted deflection, emulating being embedded into your comparably large parent 3D printed structure. If you would prefer to lessen your print time, the cantilever can be glued to a piece of wood to act as the base.
+    - A reference set of conductive traces to correct for changes in temperature and humidity
+    - 4-terminal sensing in each set of conductive traces
+    - Large electrical contact pads
+    - Spaces for the lower jaws of the crocodile clips (optional)
         
  -  An insulated double-ended crocodile clip jumper (or conductive paint/epoxy and lengths of thin wire stripped of their insulation on both ends) for *each* electrical contact
     
@@ -30,7 +25,7 @@
 
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Calibrating-Your-Force-Sensor/Strain-Test-Rig.jpg" style="zoom:33%;" />
 
-$\uparrow$ A test rig of a force sensor that has a 1-mm cantilever beam and no reference set of conductive traces. Also shown are its crocodile clips, table clamp, and known weights in a pouch suspended by a wire from the cantilever beam's free end hole.
+$\uparrow$ An example of a test rig for a force sensor. This sensor has a 1-mm cantilever beam and no reference set of conductive traces. Also shown are its crocodile clips, table clamp, and known weights in a pouch suspended by a wire from the cantilever beam's free end hole.
 
 ## Instructions
 
@@ -45,6 +40,8 @@ $\uparrow$ A test rig of a force sensor that has a 1-mm cantilever beam and no r
  5. If you are not using weights with hooks, hang a lightweight clear plastic pouch from the loop to hold them as shown above but without its weights. Ensure that its mass is nearly 0 grams beforehand.
     
  6. Clip one end of your crocodile clip jumpers into the terminal slots, onto the surfaces of the electrical terminals as shown above (or follow the instructions in **Preparing Electrical Contacts**).
+    
+For **serial monitoring** with *tagging* through **Arduino IDE**:
     
  7. Now, assuming that you are using an Arduino microcontroller, open its IDE on your computer.
     
@@ -103,7 +100,25 @@ $\uparrow$ A test rig of a force sensor that has a 1-mm cantilever beam and no r
     |  3877.55 |
     |        ⁞ |
     
-18. Discard the resistance values *between* framed weight increments as being subject to the impulses of suddenly loading and unloading weights. Example:
+Method for *manual* signal processing using impulses as tags:
+
+7. Setup force gauge and measuring instrument as instructed previously in **Steps 1-5**
+8. Begin collecting data on the measurement device; measurement devices that can log to .csv file preferred
+9. Drop weights into receptacle from a similar height. Note: this will create an impulse when a weight is added
+10. Wait for receptacle to settle
+11. Repeat for increasing weight increments until satisfied
+
+
+## Tips for limiting effects of *plasticity*:
+As the sensors structural material is made of a polymer, it is subject to plastic deformation. Most materials are subject to elastic deformation, temporary elongation caused by stress. When subject to stress higher than it's elastic limit, polymers will tend to continue deform permanently, this is called *plastic deformation*.
+- Ensure that the cantilever is not overloaded and  is returning to a neutral plane after loading 
+- As per the cantilever loading equation, an increase in the thickness in the cantilever will result in a stiffer beam and a higher load range
+- Print using stiffer structural filaments
+
+## Processing Data
+Using the *tagging* method:
+1. Search for tags in table
+2. Discard the resistance values *between* framed weight increments as being subject to the impulses of suddenly loading and unloading weights. Example:
     
     | Number of weights | Mass in grams | Resistance in ohms |
     |------------------:|--------------:|-------------------:|
@@ -116,7 +131,17 @@ $\uparrow$ A test rig of a force sensor that has a 1-mm cantilever beam and no r
     |                 1 |             4 |            3851.85 |
     |                 ⁞ |             ⁞ |                  ⁞ |
     
-19. Average the resistance values *within* framed weight increments as only being subject to measurement noise. Example:
+
+Method for *manual* signal processing:
+1. Graph the data
+
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Calibrating-Your-Force-Sensor/Strain-Test-Rig.jpg" style="zoom:33%;" />
+
+2. Delete data surrounding impulses, to generate framed weight increments
+
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Calibrating-Your-Force-Sensor/Strain-Test-Rig.jpg" style="zoom:33%;" />
+
+3. Average the resistance values *within* framed weight increments as only being subject to measurement noise. Example:
     
     | Number of weights | Mass in grams | Resistance in ohms | Number of samples |
     |------------------:|--------------:|-------------------:|------------------:|
@@ -144,7 +169,7 @@ $\uparrow$ A test rig of a force sensor that has a 1-mm cantilever beam and no r
     |             0.20 |            3889.58 |
     |             0.24 |            3896.26 |
     |             0.28 |            3903.50 |
-    |             0.32 |            3912.05 |
+    |             0.32 |            3912.5 |
     |             0.36 |            3919.69 |
     |             0.40 |            3931.75 |
     
