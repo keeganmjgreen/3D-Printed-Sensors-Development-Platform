@@ -20,13 +20,13 @@ $\uparrow$ The wiring diagram showing the interface between a sensor with conduc
 
 **For Production** without a Circuit Board
 
- -  3 lengths of solid core hook-up wire stripped of their insulation on both ends
+ -  3 lengths of solid core hook-up wire with stripped ends
  -  Soldering setup
      -  Soldering iron with stand
      -  Lead-free solder
      -  Soldering sponge or similar
  -  3 pieces of thin heat shrink tubing
- -  2 lengths of thin (e.g., 30 AWG) wire stripped of their insulation on both ends.
+ -  2 lengths of thin (e.g., 30 AWG) wire with stripped ends
  -  Conductive paint syringe
  -  Masking tape
 
