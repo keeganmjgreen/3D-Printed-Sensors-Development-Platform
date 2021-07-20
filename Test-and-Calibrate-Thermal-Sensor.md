@@ -32,6 +32,7 @@ Place the sensor in the oven or environmental chamber. At this point, make sure 
 Begin logging data and increase the temperature of the chamber.
 
 ![](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/c19642ca181b20fe722775690fba786da6298c33/img/Safety/ANSI_Caution_Header_-_1998.svg)
+
 *Caution*: Your heating chamber can become very hot. Exercise caution when dealing with hot devices.
 
 If your heating chamber does not log temperature over time, make sure to make note of the temperature at every minute with the help of a timing device. If your measurement device doesn't log resistance over time, also take note of the resistances every minute. Continue the test until the temperature stabilizes at 50 degrees Celsius. 
