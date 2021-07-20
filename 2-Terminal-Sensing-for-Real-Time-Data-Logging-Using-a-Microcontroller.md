@@ -1,10 +1,10 @@
 # 2-Terminal Sensing for Real-Time Data Logging Using a Microcontroller
 
-2-terminal sensing is less consistent between sensors and less repeatable for a given sensor than 4-terminal sensing. However, it is simpler to get up and running, and more compact in implementation.
+Due to input resistance, 2-terminal sensing is less consistent between sensors and less repeatable for a given sensor than 4-terminal sensing. However, it is simpler to setup, and more compact in implementation.
 
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/2-Terminal-Sensing-for-Real-Time-Data-Logging-Using-a-Microcontroller.png" style="zoom:50%;" /> 
 
-$\uparrow$ Wiring diagram showing the interface between a sensor with conductive traces for 2-terminal sensing and a microcontroller, of which `A0` -- `A1` are analog input pins. The microcontroller is programmed by and sends data -- namely, the resistance of the conductive traces between the 2 terminals -- to a computer, all via USB over *serial communication*.
+$\uparrow$ The wiring diagram showing the interface between a sensor with conductive traces for 2-terminal sensing and a microcontroller, of which `A0` -- `A1` are analog input pins. The microcontroller is programmed by and sends data -- namely, the resistance of the conductive traces between the 2 terminals -- to a computer, via *serial communication* (USB).
 
 ## Materials and Preparation
 
@@ -15,7 +15,7 @@ $\uparrow$ Wiring diagram showing the interface between a sensor with conductive
 
 **For Testing** and Evaluation Purposes
 
- -  3 lengths of solid core hook-up wire stripped of their insulation on both ends
+ -  3 lengths of solid core hook-up wire with stripped ends
  -  3 insulated crocodile clip jumpers (double-ended)
 
 **For Production** without a Circuit Board
@@ -95,7 +95,7 @@ void loop()
     
 ```
 
-If you are going to use the Arduino *Serial Plotter*, append this code:
+If you are using the Arduino *Serial Plotter*, append this code:
 
 ``` c++
     Serial.print("R_sens:");
@@ -112,16 +112,17 @@ If you are going to use the Arduino *Serial Plotter*, append this code:
 }
 ```
 
- -  Or download the fully assembled [`2_Terminal_Sensing_for_Real_Time_Data_Logging_Using_Arduino_Serial_Plotter.ino`](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/2_Terminal_Sensing_for_Real_Time_Data_Logging_Using_Arduino_Serial_Plotter.ino).
+ - Or download the following sample code: [`2_Terminal_Sensing_for_Real_Time_Data_Logging_Using_Arduino_Serial_Plotter.ino`](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/2_Terminal_Sensing_for_Real_Time_Data_Logging_Using_Arduino_Serial_Plotter.ino).
 
-If you are going to use the Arduino *Serial Monitor*, append this code:
+If you are using the Arduino *Serial Monitor*, append this code:
 
 ``` c++
     Serial.println(R_sens);
 }
 ```
 
- -  Or download the fully assembled [`2_Terminal_Sensing_for_Real_Time_Data_Logging_Using_Arduino_Serial_Monitor.ino`](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/2_Terminal_Sensing_for_Real_Time_Data_Logging_Using_Arduino_Serial_Monitor.ino).
+ - Or download the following sample code:
+ [`2_Terminal_Sensing_for_Real_Time_Data_Logging_Using_Arduino_Serial_Monitor.ino`](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/2_Terminal_Sensing_for_Real_Time_Data_Logging_Using_Arduino_Serial_Monitor.ino).
 
 ### Additional Resources
 
