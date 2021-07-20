@@ -15,7 +15,12 @@ You might also want to look into [conductive epoxy](https://www.digikey.com/en/p
 
 ## Preparation and Cleanup
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/ANSI_Caution_Header_-_1998.svg" alt="Caution" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ISO_7010_W016.svg" alt="Potentially toxic material" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ISO_7010_M004.svg" alt="Wear eye protection" style="zoom:33%;" />
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ISO_7010_M009.svg" alt="Wear protective gloves" style="zoom:33%;" />
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ISO_7010_M011.svg" alt="Wash your hands" style="zoom:25%;" />
+
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ANSI_Caution_Header_-_1998.svg" alt="Caution" style="zoom:25%;" />
 
 **Caution:** Wear safety glasses and gloves whenever working with wet conductive paint to avoid getting it or water contaminated with it in your eyes or on your skin.
 
@@ -34,6 +39,6 @@ Do all of the following over a lab sink. Do not wait long between steps to preve
  2. Screw the cap back onto the nozzle of the syringe.
  3. Rinse the tip, clean it out using a cotton swab, and dry it using a paper towel.
     
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/ANSI_Caution_Header_-_1998.svg" alt="Caution" style="zoom:25%;" />
+    <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ANSI_Caution_Header_-_1998.svg" alt="Caution" style="zoom:25%;" />
     
     **Caution:** Be extremely careful not to spray up water contaminated with conductive paint, especially toward yourself.
