@@ -1,6 +1,6 @@
 # Creating and Modifying 'Mask Layouts' for Sensor Designs
 
-Please refer to the 'mask layouts' of our sensor designs as a starting point. The masks have been  provided as image templates.
+Please refer to the 'mask layouts' of our sensor designs as a starting point. The masks have been provided as image templates.
 
  1. Decide on the largest and/or most common/prevalent *resolution* $\lambda_{\,\textsf{macro}\,}$ expected for the mask layout. For example, 1 mm for most design features. \
     ​
