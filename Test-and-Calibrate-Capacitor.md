@@ -22,6 +22,7 @@ Pour the 1/4 cup of water into the cup on top of the salt. There shouldn't be an
 Place the container with the solution into the resealable bag. Also place your sensor in the bag at this point, but leave the board outside of the bag. 
 
 ![](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/c19642ca181b20fe722775690fba786da6298c33/img/Safety/ANSI_Notice_Header_-_1998.svg)
+
 NOTICE: High humidity could potentially damage the Pithon board.
 
 ### Step 5
