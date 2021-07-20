@@ -31,7 +31,7 @@ These **product manual elements** are those which are the most important and rel
    Markdown-Tutorial.md
    Sensor-Data-Sheets.md
    3D-Printed-Sensors-Manual-Outline.md
-   Glossary.md
+   Glossary-of-Terms.md
    Introduction.md
    Overview.md
    Equipment-and-Materials.md
