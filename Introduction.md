@@ -34,7 +34,7 @@ This symbol indicates that minor injuries may occur if the provided precautions 
 
 This symbol indicates a high probability that major injury or death may occur if the provided precautions are not adhered to.
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ISO_7010_W001.svg" alt="Warning" style="zoom:50%;" /> 
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ISO_7010_W001.svg" alt="Warning" style="zoom:25%;" /> 
 
 These warnings provide general safety related information or measures.
 
@@ -46,7 +46,7 @@ These warnings provide general safety related information or measures.
 
 Improperly installed 3D printers may present a risk of electrocution. Ensure the 3D printer is installed and operated as per the Manufacturer's specification as described in the 3D printer's User Manual.
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ISO_7010_W024.svg.png" alt="Crushing of hands" style="zoom:25%;" /> 
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ISO_7010_W024.svg.svg" alt="Crushing of hands" style="zoom:25%;" /> 
 
 3D printers have multiple moving parts, that may damage objects or body parts caught in their motion. Always operate 3D printer as specified in their User Manual.
 
