@@ -42,28 +42,28 @@ These warnings provide general safety related information or measures.
 
 ### Manufacturing Hazards ###
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ISO_7010_W012.svg" alt="Electricity hazard" style="zoom:25%;" /> 
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ISO_7010_W012.svg" alt="Electricity hazard" style="zoom:20%;" /> 
 
 Improperly installed 3D printers may present a risk of electrocution. Ensure the 3D printer is installed and operated as per the Manufacturer's specification as described in the 3D printer's User Manual.
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ISO_7010_W024.svg" alt="Crushing of hands" style="zoom:25%;" /> 
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ISO_7010_W024.svg" alt="Crushing of hands" style="zoom:20%;" /> 
 
 3D printers have multiple moving parts, that may damage objects or body parts caught in their motion. Always operate 3D printer as specified in their User Manual.
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ISO_7010_W017.svg" alt="Hot surface" style="zoom:25%;" /> 
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ISO_7010_W017.svg" alt="Hot surface" style="zoom:20%;" /> 
 
 3D printers have nozzles that reach temperatures above 200°C, and some models have heated print beds. Refer to your 3D printer's User Manual on how to operate the device safely.
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ISO_7010_W016.svg" alt="Toxic material" style="zoom:25%;" /> 
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ISO_7010_W016.svg" alt="Toxic material" style="zoom:20%;" /> 
 
 3D printing filaments may release volatile organic compounds (VOCs) during the printing process. VOCs can cause symptoms including headache, fatigue, and confusion. Follow all safety precautions outlined in the material safety data sheet (MSDS) and your 3D printer's User Manual.
 
 ### Operating Hazards ###
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ISO_7010_W012.svg" alt="Electricity hazard" style="zoom:25%;" /> 
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ISO_7010_W012.svg" alt="Electricity hazard" style="zoom:20%;" /> 
 
 Laboratory grade power sources can generate power sufficient to cause electrocution. Always operate power sources and measurement equipment as per manufacturer's specifications.
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ISO_7010_W017.svg" alt="Hot surface" style="zoom:25%;" /> 
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ISO_7010_W017.svg" alt="Hot surface" style="zoom:20%;" /> 
 
 When applying a larger power, above Pithon's rated voltage and current limits, the sensor may self-heat to high temperatures. Do not handle or touch any part of the Pithon sensor when applying a high voltage or current.
