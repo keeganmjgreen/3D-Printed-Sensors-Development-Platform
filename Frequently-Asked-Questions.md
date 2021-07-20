@@ -18,7 +18,7 @@
     
     After confirming that the capacitor is not shorted, measure the capacitance using a multimeter and confirm that the value is close to the expected value as described in section XXX. Note that during sensor operation (while being measured by the microcontroller), the capacitance is never directly measured. <!-- It is indirectly measured using a process known as *AC decoupling* as described in section XXX. --> When performing measurements using the microcontroller as per Monti specification, it will measure capacitance 'properly'.
 
-5. **What are typical resitance values of Pithon sensors?**
+5. **What are typical resistance values of Pithon sensors?**
 
     The properties of resistors produced using conductive filament are dependent on the conductive filament used. Using [Proto-pasta Electrically Conductive Composite PLA](https://www.proto-pasta.com/products/conductive-pla), we typically produce resistors (or resistive sensors) with 3- to 15-kΩ resistance depending on the design. Conductive filaments with higher specified *resistivity* will produce resistors with a larger overall resistance.
 
