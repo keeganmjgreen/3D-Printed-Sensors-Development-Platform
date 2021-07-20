@@ -1,4 +1,4 @@
-# Preliminary List of Equipment and Materials
+# Equipment and Materials
     
  -  A [3D printer](https://www.digikey.com/en/products/filter/3d-printers/943?s=N4IgTCBcDaIMwBMAEAHATgSwHYBcQF0BfIA).
     
