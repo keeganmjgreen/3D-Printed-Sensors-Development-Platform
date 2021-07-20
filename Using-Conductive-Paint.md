@@ -18,7 +18,7 @@ You might also want to look into [conductive epoxy](https://www.digikey.com/en/p
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ISO_7010_W016.svg" alt="Potentially toxic material" style="zoom:25%;" />
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ISO_7010_M004.svg" alt="Wear eye protection" style="zoom:33%;" />
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ISO_7010_M009.svg" alt="Wear protective gloves" style="zoom:33%;" />
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ISO_7010_M011.svg" alt="Wash your hands" style="zoom:33%;" />  
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ISO_7010_M011.svg" alt="Wash your hands" style="zoom:33%;" /> \
 ​
 
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ANSI_Caution_Header_-_1998.svg" alt="Caution" style="zoom:25%;" />
