@@ -1,20 +1,16 @@
 # Preparing Electrical Contacts #
 
-This page is a draft of the user manual entry on preparing electrical contacts on printed sensors.
-
 ## Materials ##
 
-This section is not finalized as we have not yet fully established our materials.
-
-- Printed sensor
-- A dull and flat blade
-- Electrical wire (preferably solid core)
-- Conductive adhesive (Conductive tape, silver paint or epoxy)
+- A Printed sensor
+- A spatula or other similar dull and flat blade
+- Electrical wire (Recommended: AWG 30 wire)
+- Conductive adhesive (Conductive tape, conductive paint or epoxy. conductive paint recommended for price to performance ratio)
 - Painter's tape
 
 ## Procedure ##
 
-1. Using a blade with a dull and flat tip, pry the sensor of the print bed at the corners of the sensor base (highlighted in the image below).
+1. Using a spatula or other dull blade, pry the sensor of the print bed at the corners of the sensor base (highlighted in the image below).
    
    <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/CantileverOnPrintBedAnnotated.png" style="zoom:50%;" /> \
    ​
@@ -24,7 +20,7 @@ This section is not finalized as we have not yet fully established our materials
    <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Cantilever-Taped-Down.jpg" style="zoom:67%;" /> \
    ​
    
-3. Using a flat blade, gently scratch the surface of the electrical contacts. The roughened surface will allow for better adhesion to silver paint or other adhesive.
+3. Using a flat blade, gently scratch the surface of the electrical contacts. The roughened surface will allow for better adhesion to conductive paint or other adhesive.
    
    <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Cantilever-Roughened.jpg" style="zoom:67%;" /> \
    ​
@@ -39,14 +35,14 @@ This section is not finalized as we have not yet fully established our materials
    <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Wire-Placement.png" style="zoom: 50%;" /> \
    ​
    
-5. Apply a small amount of silver paint to each wire as per section **Using Conductive Paint**.
+5. Apply a small amount of conductive paint to each wire as per section **Using Conductive Paint**.
    
    <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/ANSI_Notice_Header_-_1998.svg" alt="Notice" style="zoom:25%;" />
    
-   *Note:* Ensure that you are familiar and comfortable with the use of conductive paints. Applying too much can cause the liquid paint to spread out and connect to another another electrical contact. This will short circuit the sensor, causing it to become non-functional. \
+   *Note:* Ensure that you are familiar and comfortable with the use of conductive paints. Applying too much can cause the paint to spread out and connect to another another electrical contact. This will short circuit the sensor, causing it to become non-functional. \
    ​
    
    <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Finished-Cantilever.jpg" style="zoom:67%;" /> \
    ​
    
-6. Let the silver paint dry at room temperature for 12 hours or as per instructions provided by the silver paint manufacturer.
+6. Let the conductive paint dry at room temperature for 12 hours or as per instructions provided by the conductive paint manufacturer.
