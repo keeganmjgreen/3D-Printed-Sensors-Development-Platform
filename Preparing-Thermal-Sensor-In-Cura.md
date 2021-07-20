@@ -36,9 +36,11 @@ Communicate files to the printer. Ultimaker allows for communication over LAN or
 #### For USB communication
 1. Find USB intended for use and insert into USB port on the user's computer
 2. Copy `temp_4T_sensing_and_elem.gcode` to the USB
-3. Navigate to USB, right-click on its name, and select eject. NOTICE: Do not remove USB before selecting eject as this may cause corruption of files.
+3. Navigate to USB, right-click on its name, and select eject. 
+![](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/c19642ca181b20fe722775690fba786da6298c33/img/Safety/ANSI_Notice_Header_-_1998.svg)
+NOTICE: Do not remove USB before selecting eject as this may cause corruption of files.
 4. Once it is indicated that the USB is safe to remove, remove it from the computer.
-5. Insert USB into USB port on the front of the Ultimaker 3. NOTICE: Turn on the printer of you haven't done so already.
+5. Insert USB into USB port on the front of the Ultimaker 3. Turn on the printer of you haven't done so already.
 6. Navigate to *PRINT* using the dial located on the right hand side of the printer. Press the dial in until it clicks to select the option.
 7. Natigate to `temp_4T_sensing_and_elem.gcode` on the Ultimaker screen and select.
 
@@ -69,4 +71,4 @@ Change the size of the thermal sensor. This can be done by going to the *Scale (
 Slice the design and save under a name of your choice as a `.gcode` file.
 
 ### Step 7
-Follow steps 1 through 4 from the previous section.
+Follow steps 1 through 4 from the previous section (Print original Monti provided thermal sensor) to complete the print, changing the file names there for the ones chosen by you.
