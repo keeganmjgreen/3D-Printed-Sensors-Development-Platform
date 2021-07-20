@@ -4,13 +4,13 @@
 
 # Disclaimer #
 
-Please read and understand all information presented in this manual prior to attempting to print a Pithon sensor. Failure to adhere to the procedures outlined in this document may lead to personal injury, poor quality or non-functional sensors, or damage to the 3D printer and other equipment. All operators using a 3D printer to manufacture any aspect of Pithon must be well trained in the use of their 3D printer and follow the manufacturer's specifications and guidelines. Pithon sensors, structures or parts must not be left unattended while printing. Monti does not assume responsibility for any loss, injury, or damage arising from the production or use of any Pithon sensor. Pithon is not intended for use in safety critical applications, use at your own risk.
+Please read and understand all information presented in this manual prior to attempting to print a Pithon sensor. Failure to adhere to the procedures outlined in this documentation may lead to personal injury, poor quality, or non-functional sensors, or damage to the 3D printer or other equipment. All operators using a 3D printer to manufacture any aspect of Pithon must be well trained in the use of their 3D printer and follow the manufacturer's specifications and guidelines. Pithon sensors, structures, and parts must not be left unattended while printing. Monti does not assume responsibility for any loss, injury, or damage arising from the production or use of any Pithon sensor. Pithon is not intended for use in safety critical applications; use at your own risk.
 
 All information provided within this manual has been gathered from reliable sources and internal development, however Monti provides no warranty of the correctness of any information provided in this manual.
 
 # Warranty Information #
 
-Monti 3D Printing Solutions offers no warranty to any sensor produced or calibrated through Pithon manufacturing methods. Additionally, Monti provides no warranty for any aspect of all Pithon manufacturing and calibration processes. Subscription and availability of Pithon services, including documentation, may be cancelled at any time, for any reason.
+Monti 3D Printing Solutions offers no warranty to any sensor produced or calibrated through Pithon manufacturing methods. Additionally, Monti provides no warranty for any aspect of all Pithon manufacturing and calibration processes. Subscription and availability of Pithon services -- including but not limited to documentation -- may be cancelled at any time, for any reason.
 
 # Customer Support #
 
@@ -20,7 +20,7 @@ TODO: GF
 
 ## Safety Messages ##
 
-This manual displays warnings and safety related notices through the following format:
+This manual displays warnings and safety related notices in the following format:
 
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ANSI_Notice_Header_-_1998.svg" alt="Notice" style="zoom:25%;" /> 
 
