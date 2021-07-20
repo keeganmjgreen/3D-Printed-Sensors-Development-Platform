@@ -14,8 +14,7 @@ These features can be broken down by going through its library imports as follow
 
 ## 1. Library Imports in Order of Appearance
 
-The user is to at least be notified that the data logger was connected and disconnected (via USB).  
-`win10toast` by Jithu Jacob is a Python library ([PyPI](https://pypi.org/project/win10toast/), [GitHub](https://github.com/jithurjacob/Windows-10-Toast-Notifications)) for displaying Windows 10 toast notifications.
+The user is to at least be notified that the data logger was connected and disconnected (via USB). `win10toast` by Jithu Jacob is a Python library ([PyPI](https://pypi.org/project/win10toast/), [GitHub](https://github.com/jithurjacob/Windows-10-Toast-Notifications)) for displaying Windows 10 toast notifications.
 
 ```python
 from win10toast import ToastNotifier
@@ -23,15 +22,13 @@ from win10toast import ToastNotifier
 
 On the other hand, `plyer.notification` shows new notification senders for every notification sent.
 
-For reasons that will become apparent, timer functionality is to be used.  
-`time` is a standard Python library ([Python documentation](https://docs.python.org/3/library/time.html)) for time access (and conversions, for that matter).
+For reasons that will become apparent, timer functionality is to be used. `time` is a standard Python library ([Python documentation](https://docs.python.org/3/library/time.html)) for time access (and conversions, for that matter).
 
 ```python
 from time import time
 ```
 
-To read from the data logger, [serial communication](https://en.wikipedia.org/wiki/Serial_communication) is to be used.  
-`pySerial` by Chris Liechti is a Python library ([PyPI](https://pypi.org/project/pyserial/), [GitHub](https://github.com/pyserial/pyserial), [documentation](https://pyserial.readthedocs.io/en/latest/pyserial.html)) that encapsulates access to computer [serial ports](https://en.wikipedia.org/wiki/Serial_port), including emulated ones such as those created by USB.
+To read from the data logger, [serial communication](https://en.wikipedia.org/wiki/Serial_communication) is to be used. `pySerial` by Chris Liechti is a Python library ([PyPI](https://pypi.org/project/pyserial/), [GitHub](https://github.com/pyserial/pyserial), [documentation](https://pyserial.readthedocs.io/en/latest/pyserial.html)) that encapsulates access to computer [serial ports](https://en.wikipedia.org/wiki/Serial_port), including emulated ones such as those created by USB.
 
 ```python
 from serial import Serial
@@ -46,8 +43,7 @@ import pandas as pd
 
 `pandas`, for instance, can be used to calculate a moving average to smooth the data.
 
-The prepared data is to be made accessible through an interactive, in-browser plot.  
-`plotly` by the [technical computing company](https://plotly.com/) of the same name is a Python library ([PyPI](https://pypi.org/project/plotly/), [documentation](https://plotly.com/graphing-libraries/)) used to style interactive graphs.
+The prepared data is to be made accessible through an interactive, in-browser plot. `plotly` by the [technical computing company](https://plotly.com/) of the same name is a Python library ([PyPI](https://pypi.org/project/plotly/), [documentation](https://plotly.com/graphing-libraries/)) used to style interactive graphs.
 
 ```python
 import plotly.graph_objects as go
