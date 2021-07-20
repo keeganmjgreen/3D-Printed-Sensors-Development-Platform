@@ -52,11 +52,11 @@
     
  -  Nice-to-have: A shop supply of compressed air, to clean most of the 3D printer (and workspace) of filament dust and stray pieces, during and after printing.
     
-    <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/safety/ANSI_Notice_Header_-_1998.svg" alt="Notice" style="zoom:25%;" />
+    <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ANSI_Notice_Header_-_1998.svg" alt="Notice" style="zoom:25%;" />
     
     *Note:* Compressed air lines are at very high pressures, much higher than that of a compressed air canister. Test their force a meter from the 3D printer first. Failure to do so may damage the more delicate parts of the printer.
     
-    <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/safety/ANSI_Caution_Header_-_1998.svg" alt="Caution" style="zoom:25%;" />
+    <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ANSI_Caution_Header_-_1998.svg" alt="Caution" style="zoom:25%;" />
     
     **Caution:** Compressed air lines are at very high pressures. Always wear safety goggles when working with a compressed air line. Never point its nozzle at yourself or others. Failure to do so may result in bodily harm.
     
