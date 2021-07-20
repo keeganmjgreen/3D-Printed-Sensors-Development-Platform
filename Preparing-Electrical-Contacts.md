@@ -27,7 +27,7 @@
    
 4. Cut four approximately equal lengths of solid core electrical wire. Strip an equal length off each side of every wire. Curl one end of each wire into a U or loop shape. Place the curled end of each wire on the middle of each contact pad. Tape the wire to to the table, as shown in the image below, to secure the wire position.
    
-   <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/ANSI_Notice_Header_-_1998.svg" alt="Notice" style="zoom:25%;" />
+   <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ANSI_Notice_Header_-_1998.svg" alt="Notice" style="zoom:25%;" />
    
    *Note:* ensure that each wire is in direct contact with the electrical contacts, as failure to do so could result in poor electrical contact or open circuits. \
    ​
@@ -37,7 +37,7 @@
    
 5. Apply a small amount of conductive paint to each wire as per section **Using Conductive Paint**.
    
-   <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/ANSI_Notice_Header_-_1998.svg" alt="Notice" style="zoom:25%;" />
+   <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ANSI_Notice_Header_-_1998.svg" alt="Notice" style="zoom:25%;" />
    
    *Note:* Ensure that you are familiar and comfortable with the use of conductive paints. Applying too much can cause the paint to spread out and connect to another another electrical contact. This will short circuit the sensor, causing it to become non-functional. \
    ​
