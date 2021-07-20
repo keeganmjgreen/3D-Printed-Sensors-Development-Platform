@@ -1,9 +1,3 @@
-| Notice |
-|:-------|
-| Our interface is not real-time (beyond the sense that serial communication is not real-time). The logged data is plotted only after it is collected, not *as* it is collected. We are attempting to add this capability. Alternatively, or as a temporary workaround, we (and possibly our end users) are adapting/using the Arduino IDE serial plotter and others. |
-
-----
-
 # Microcontroller-Based Analog Data Logger Interface
 
 We developed a Windows 10 interface in Python for a microcontroller-based analog data logger with a wired connection to a computer. The program may be run directly by launching [`Microcontroller_Based_Analog_Data_Logger_Interface.pyw`](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/Microcontroller_Based_Analog_Data_Logger_Interface.pyw) or, naturally, by executing the following command.
@@ -12,7 +6,9 @@ We developed a Windows 10 interface in Python for a microcontroller-based analog
 $ python Microcontroller_Based_Analog_Data_Logger_Interface.pyw
 ```
 
-The interface prompts you to connect the microcontroller (via USB) such as an Arduino if it has not already been connected, notifies that the device *was* connected, reads from the device over serial communication, and finally notifies that the device was disconnected (all Subsection 2). It then prepares the collected analog data (Subsection 3). Lastly, it makes the results accessible through a beautiful, interactive, in-browser plot (Subsection 4).
+Our interface is not real-time (beyond the sense that serial communication is not real-time). The logged data is plotted only after it is collected, not *as* it is collected. We are attempting to add this capability. Alternatively, or as a temporary workaround, we are adapting/using the Arduino IDE serial plotter and others.
+
+The interface prompts you to connect the microcontroller (via USB) such as an Arduino if it has not already been connected, notifies that the device *was* connected, reads from the device over serial communication, and finally notifies that the device was disconnected (all Subsection 2). It then prepares the collected analog data (Subsection 3). Lastly, it makes the results accessible through a `.CSV` file generated in your working directory as well as an interactive, in-browser plot with export options (Subsection 4).
 
 These features can be broken down by going through its library imports as follows.
 
@@ -50,7 +46,7 @@ import pandas as pd
 
 `pandas`, for instance, can be used to calculate a moving average to smooth the data.
 
-The prepared data is to be made accessible through a beautiful, interactive, in-browser plot.  
+The prepared data is to be made accessible through an interactive, in-browser plot.  
 `plotly` by the [technical computing company](https://plotly.com/) of the same name is a Python library ([PyPI](https://pypi.org/project/plotly/), [documentation](https://plotly.com/graphing-libraries/)) used to style interactive graphs.
 
 ```python
