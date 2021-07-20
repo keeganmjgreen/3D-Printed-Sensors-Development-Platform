@@ -19,7 +19,7 @@
      -  Spaces for lower jaws of crocodile clips (optional)
         ​
         
- -  An insulated double-ended crocodile clip jumper (or conductive paint/epoxy and lengths of thin wire stripped of its insulation on both ends) for *each* electrical contact
+ -  An insulated double-ended crocodile clip jumper (or conductive paint/epoxy and lengths of thin wire stripped of their insulation on both ends) for *each* electrical contact
     
  -  A table clamp/vice
     
@@ -28,15 +28,15 @@
  -  A laboratory weight set or similar
     ​
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Calibrating-Your-Force-Sensor/Strain-Test-Rig.jpg" style="zoom:33%;" /> \
-​ \
-↑ A test rig for a force sensor with a 1-mm cantilever beam and no reference set of conductive traces.
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Calibrating-Your-Force-Sensor/Strain-Test-Rig.jpg" style="zoom:33%;" /> 
+
+$\uparrow$ A test rig of a force sensor that has a 1-mm cantilever beam and no reference set of conductive traces. Also shown are its crocodile clips, table clamp, and known weights in a pouch suspended by a wire from the cantilever beam's free end hole.
 
 ## Instructions
 
  1. Mount your clamp/vice on a table as shown above.
     
- 2. Clamp onto your force sensor's cantilever base without the conductive traces being touched as shown above. Leave room for your crocodile clips if you are using them, room for the cantilever beam to bend downward, and room to suspend your weights from the free end of the cantilever beam.
+ 2. Clamp onto your force sensor's cantilever base without the conductive traces being touched as shown above. Leave room for your crocodile clips if you are using them, room for the cantilever beam to bend downward, and room to suspend your weights from the cantilever beam's free end.
     
  3. Tie your string or spare wire securely to the free end hole as shown above. Ensure that its mass is nearly 0 grams beforehand.
     
