@@ -36,7 +36,7 @@ This symbol indicates that minor injuries may occur if the provided precautions 
 
 This symbol indicates a high probability that major injury or death may occur if the provided precautions are not adhered to.
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ISO_7010_W001.svg" alt="Warning" style="zoom:25%;" /> 
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ISO_7010_W001.svg" alt="Warning" style="zoom:20%;" /> 
 
 These warnings provide general safety related information or measures.
 
