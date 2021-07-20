@@ -1,7 +1,6 @@
 # Copyright #
 
-&copy;Monti 3D Printing Solutions. All rights reserved. This manual may not be reproduced in whole or in part, by any means, without written permission from Monti 3D Printing Solutions.
-
+&copy; Monti 3D Printing Solutions. All rights reserved. This manual may not be reproduced in whole or in part, by any means, without written permission from Monti 3D Printing Solutions.
 
 # Disclaimer #
 
@@ -11,7 +10,7 @@ All information provided within this manual has been gathered from reliable sour
 
 # Warranty Information #
 
-Monti 3D Printing Solutions offers no warranty to any sensor produced or calibrated through Pithon manufacturing methods. Additionally, Monti provides no warranty for any aspect of all Pithon manufacturing and calibration processes. Subscription and availability of Pithon services, including documentation, may be cancelled at any time, for any reason. 
+Monti 3D Printing Solutions offers no warranty to any sensor produced or calibrated through Pithon manufacturing methods. Additionally, Monti provides no warranty for any aspect of all Pithon manufacturing and calibration processes. Subscription and availability of Pithon services, including documentation, may be cancelled at any time, for any reason.
 
 # Customer Support #
 
@@ -23,19 +22,19 @@ TODO: GF
 
 This manual displays warnings and safety related notices through the following format:
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/ANSI_Notice_Header_-_1998.svg" alt="Notice" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ANSI_Notice_Header_-_1998.svg" alt="Notice" style="zoom:25%;" /> 
 
 This symbol indicates that damage to property may occur if the provided precautions are not taken.
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/ANSI_Caution_Header_-_1998.svg" alt="Notice" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ANSI_Caution_Header_-_1998.svg" alt="Caution" style="zoom:25%;" /> 
 
 This symbol indicates that minor injuries may occur if the provided precautions are not taken.
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/ANSI_Danger_Header_-_1998.svg" alt="Notice" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ANSI_Danger_Header_-_1998.svg" alt="Danger" style="zoom:25%;" /> 
 
 This symbol indicates a high probability that major injury or death may occur if the provided precautions are not adhered to.
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Warning-Sign.jpg" style="zoom:50%;" /> 
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ISO_7010_W001.svg" alt="Warning" style="zoom:50%;" /> 
 
 These warnings provide general safety related information or measures.
 
@@ -43,29 +42,28 @@ These warnings provide general safety related information or measures.
 
 ### Manufacturing Hazards ###
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Electrical Warning.png" style="zoom:50%;" /> 
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ISO_7010_W012.svg" alt="Electricity hazard" style="zoom:25%;" /> 
 
-Improperly installed 3D printers may present a risk of electrocution. Ensure the 3D printer is installed and operated as per the Manufacturer's specification as described in the 3D printer's User Manual
+Improperly installed 3D printers may present a risk of electrocution. Ensure the 3D printer is installed and operated as per the Manufacturer's specification as described in the 3D printer's User Manual.
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Pinch-Warning.png" style="zoom:50%;" /> 
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ISO_7010_W024.svg.png" alt="Crushing of hands" style="zoom:25%;" /> 
 
 3D printers have multiple moving parts, that may damage objects or body parts caught in their motion. Always operate 3D printer as specified in their User Manual.
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Burn-Warning.PNG" style="zoom:50%;" /> 
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ISO_7010_W017.svg" alt="Hot surface" style="zoom:25%;" /> 
 
 3D printers have nozzles that reach temperatures above 200°C, and some models have heated print beds. Refer to your 3D printer's User Manual on how to operate the device safely.
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety-Warning.PNG" style="zoom:50%;" /> 
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ISO_7010_W016.svg" alt="Toxic material" style="zoom:25%;" /> 
 
-3D printing filaments may release Volatile Organic Compounds (VOCs) during the printing process. VOCs can cause symptoms including headache, fatigue and confusion. Follow all safety precautions outlined in the material's Data Sheet and your 3D printer's User Manual.
-
+3D printing filaments may release volatile organic compounds (VOCs) during the printing process. VOCs can cause symptoms including headache, fatigue, and confusion. Follow all safety precautions outlined in the material safety data sheet (MSDS) and your 3D printer's User Manual.
 
 ### Operating Hazards ###
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Electrical Warning.png" style="zoom:50%;" /> 
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ISO_7010_W012.svg" alt="Electricity hazard" style="zoom:25%;" /> 
 
 Laboratory grade power sources can generate power sufficient to cause electrocution. Always operate power sources and measurement equipment as per manufacturer's specifications.
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Burn-Warning.PNG" style="zoom:50%;" /> 
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ISO_7010_W017.svg" alt="Hot surface" style="zoom:25%;" /> 
 
-When applying a larger power, above Pithon's rated voltage and current limits, the sensor may self-heat to high temperatures. Do not handle or touch any part of the Pithon sensor when applying a high voltage or current. 
+When applying a larger power, above Pithon's rated voltage and current limits, the sensor may self-heat to high temperatures. Do not handle or touch any part of the Pithon sensor when applying a high voltage or current.
