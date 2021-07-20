@@ -23,7 +23,7 @@ You might also want to look into [conductive epoxy](https://www.digikey.com/en/p
 ​ \
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ANSI_Caution_Header_-_1998.svg" alt="Caution" style="zoom:25%;" />
 
-**Caution:** Wear safety glasses and gloves whenever working with wet conductive paint to avoid getting it or water contaminated with it in your eyes or on your skin.
+**Caution:** Wear safety glasses and gloves whenever working with wet conductive paint and wash your hands throughroughly afterward. Failure to do so may result in conductive paint or water contaminated with it in your eyes or on your skin.
 
 Do all of the following over a lab sink. Do not wait long between steps to prevent the conductive paint from drying/hardening in the nozzle tip of the syringe.
 
@@ -42,4 +42,4 @@ Do all of the following over a lab sink. Do not wait long between steps to preve
     
     <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ANSI_Caution_Header_-_1998.svg" alt="Caution" style="zoom:25%;" />
     
-    **Caution:** Be extremely careful not to spray up water contaminated with conductive paint, especially toward yourself.
+    **Caution:** Be extremely careful not to spray up water contaminated with conductive paint, especially toward yourself. Failure to do so may result in conductive paint in your eyes or on your skin.
