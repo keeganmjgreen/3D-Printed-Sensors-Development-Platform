@@ -15,18 +15,18 @@ $\uparrow$ Wiring diagram showing the interface between a sensor with conductive
 
 **For Testing** and Evaluation Purposes
 
- -  3 lengths of solid core hook-up wire stripped of its insulation on both ends
+ -  3 lengths of solid core hook-up wire stripped of their insulation on both ends
  -  3 insulated crocodile clip jumpers (double-ended)
 
 **For Production** without a Circuit Board
 
- -  3 lengths of solid core hook-up wire stripped of its insulation on both ends
+ -  3 lengths of solid core hook-up wire stripped of their insulation on both ends
  -  Soldering setup
      -  Soldering iron with stand
      -  Lead-free solder
      -  Soldering sponge or similar
  -  3 pieces of thin heat shrink tubing
- -  2 lengths of thin (e.g., 30 AWG) wire stripped of its insulation on both ends.
+ -  2 lengths of thin (e.g., 30 AWG) wire stripped of their insulation on both ends.
  -  Conductive paint syringe
  -  Masking tape
 
