@@ -2,7 +2,7 @@
 
 Due to input resistance, 2-terminal sensing is less consistent between sensors and less repeatable for a given sensor than 4-terminal sensing. However, it is simpler to set up, and more compact in implementation.
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/2-Terminal-Sensing-for-Real-Time-Data-Logging-Using-a-Microcontroller.png" style="zoom:50%;" /> 
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/2-Terminal-Sensing-for-Real-Time-Data-Logging-Using-a-Microcontroller.png" style="zoom:50%;" />
 
 $\uparrow$ The wiring diagram showing the interface between a sensor with conductive traces for 2-terminal sensing and a microcontroller, of which `A0` -- `A1` are analog input pins. The microcontroller is programmed by and sends data -- namely, the resistance of the conductive traces between the 2 terminals -- to a computer, via USB over *serial communication*.
 
@@ -13,12 +13,12 @@ $\uparrow$ The wiring diagram showing the interface between a sensor with conduc
  -  A sensor with conductive traces for 2-terminal sensing
  -  A 10-kΩ or similar through-hole resistor of known value
 
-**For Testing** and Evaluation Purposes
+**For Testing** and Evaluation Purposes…
 
  -  3 lengths of solid core hook-up wire with stripped ends
  -  3 insulated crocodile clip jumpers (double-ended)
 
-**For Production** without a Circuit Board
+**For Production** without a Circuit Board…
 
  -  3 lengths of solid core hook-up wire with stripped ends
  -  Soldering setup
@@ -32,15 +32,15 @@ $\uparrow$ The wiring diagram showing the interface between a sensor with conduc
 
 ## Instructions -- Assembly
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ANSI_Warning_Header_-_1998.svg" alt="Warning" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ANSI_Warning_Header_-_1998.svg" alt="Warning" style="zoom:25%;" />	
 
-**WARNING:** Exercise extreme care when handling or using a soldering iron. Always assume that it may be plugged in and hot. Only those who are familiar with the safe use of a soldering iron should attempt to use it. Failure to follow proper practices may cause up to third degree burns.
+**WARNING:** Exercise extreme care when handling or using a soldering iron. Always assume that it may be plugged in and hot. Only those who are familiar with the safe use of a soldering iron should attempt to use it. Failure to follow proper practices may cause up to third degree burns.	
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ANSI_Caution_Header_-_1998.svg" alt="Caution" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ANSI_Caution_Header_-_1998.svg" alt="Caution" style="zoom:25%;" />	
 
 **Caution:** Do not connect the voltage input pin (`Vin`) or voltage output pin (`5V`) pins of your microcontroller to its electrical ground (`GND`) pin. Failure to follow this instruction will potentially result in permanent damage to the microcontroller and any connected devices.
 
-**For Testing** and Evaluation Purposes
+**For Testing** and Evaluation Purposes…
 
  1. Connect your hook-up wires to the `GND`, `A1`, and `5V` pins of your microcontroller.
     
@@ -52,9 +52,9 @@ $\uparrow$ The wiring diagram showing the interface between a sensor with conduc
     
  5. Connect the ends of the remaining wire assemblies, in order, to terminals `T1` -- `T2` of your 2-terminal sensor.
 
-**For Production** without a Circuit Board
+**For Production** without a Circuit Board…
 
- 1. Connect your hook-up wires to the `GND`, `A1`, and `5V` pins of your microcontroller. \
+ 1. Connect your hook-up wires to the `GND`, `A1`, and `5V` pins of your microcontroller.
     Slip on your heat shrink tubing if necessary at this point.
     
  2. Solder your thin wire to the latter 2 hook-up wires.
@@ -81,7 +81,7 @@ If you are using an Arduino microcontroller, open its IDE on your computer and p
 If you are using an Arduino microcontroller, upload the following code to it using the its IDE, after which it will begin running onboard.
 
 ``` c++
-float R_series = 10e3;  // Known value of resistor in series with 2-terminal sensor.
+float R_series = 10e3;  // Known value of resistor in series with 2-terminal…
 
 float V_1;
 
@@ -91,19 +91,19 @@ float R_sens;
 
 void setup()
 {
-    Serial.begin(9600);   // Open communication with a computer via USB or with another device via UART.
+    Serial.begin(9600);   // Open communication with a computer via USB or w…
 }
 void loop()
 {
     V_1 = analogRead(1);  // Measured voltage across series resistor.
     
-    I = V_1 / R_series;   // Calculated current through both series resistor and 2-terminal sensor.
+    I = V_1 / R_series;   // Calculated current through both series resistor…
     V_sens = 5 - V_1;     // Calculated voltage across 2-terminal sensor.
     R_sens = V_sens / I;  // Calculated resistance of 2-terminal sensor.
     
 ```
 
-If you are using the Arduino *Serial Plotter*, append this code:
+If you are using the Arduino *Serial Plotter*, append the following code.
 
 ``` c++
     Serial.print("R_sens:");
@@ -120,16 +120,16 @@ If you are using the Arduino *Serial Plotter*, append this code:
 }
 ```
 
- -  Or download the complete sample code: [`2_Terminal_Sensing_for_Real_Time_Data_Logging_Using_Arduino_Serial_Plotter.ino`](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/2_Terminal_Sensing_for_Real_Time_Data_Logging_Using_Arduino_Serial_Plotter.ino)
+ -  Or download the complete sample code: [*2_Terminal_Sensing_for_Real_Time_Data_Logging_Using_Arduino_Serial_Plotter.ino*](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/2_Terminal_Sensing_for_Real_Time_Data_Logging_Using_Arduino_Serial_Plotter.ino)
 
-If you are using the Arduino *Serial Monitor*, append this code:
+If you are using the Arduino *Serial Monitor*, append the following code.
 
 ``` c++
     Serial.println(R_sens);
 }
 ```
 
- - Or download the complete sample code: [`2_Terminal_Sensing_for_Real_Time_Data_Logging_Using_Arduino_Serial_Monitor.ino`](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/2_Terminal_Sensing_for_Real_Time_Data_Logging_Using_Arduino_Serial_Monitor.ino)
+ -  Or download the complete sample code: [*2_Terminal_Sensing_for_Real_Time_Data_Logging_Using_Arduino_Serial_Monitor.ino*](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/2_Terminal_Sensing_for_Real_Time_Data_Logging_Using_Arduino_Serial_Monitor.ino)
 
 ### Additional Resources
 
