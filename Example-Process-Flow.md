@@ -1,7 +1,7 @@
 # Example Process Flow
 
 This section further explores our Pithon platform for 3D printed sensors. \
-​
+​ \
 How do implementations of our Pithon platform get made? How will users produce 3D printed sensors for themselves? What does the process look like? To answer these questions, we will walk through an example process flow. \
 ​
 
