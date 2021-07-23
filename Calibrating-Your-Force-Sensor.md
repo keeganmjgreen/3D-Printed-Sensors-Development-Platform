@@ -151,6 +151,5 @@ $\uparrow$ A test rig of a force sensor that has a 1-mm cantilever beam and no r
     |             0.36 |            3919.69 |
     |             0.40 |            3931.75 |
     
-20. Plot resistance against force. Example...
-    
+20. Plot resistance against force. Example... \
     <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Calibrating-Your-Force-Sensor/Force-Sensor-Calibration-Curve.png" style="zoom:50%;" /> 
