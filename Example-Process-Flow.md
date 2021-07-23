@@ -110,4 +110,5 @@ Before the conductive paint hardens, we bond wires to these contact pads:
 
 Finally, we connect our physical implementation of the Pithon platform to a microcontroller as shown and, optionally, a different power source, such as a coin cell embedded in the 3D printed part.
 
-The microcontroller takes care of signal processing and digitally transmits the calibrated acceleration and temperature to where the data is needed.
+The microcontroller takes care of signal processing and digitally transmits the calibrated acceleration and temperature to where the data is needed. \
+​
