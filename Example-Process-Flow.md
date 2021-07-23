@@ -2,9 +2,11 @@
 
 This section further explores our Pithon platform for 3D printed sensors.
 
-How do implementations of our Pithon platform get made? How will users produce 3D printed sensors for themselves? What does the process look like? To answer these questions, we will walk through an example process flow.
+How do implementations of our Pithon platform get made? How will users produce 3D printed sensors for themselves? What does the process look like? To answer these questions, we will walk through an example process flow. \
+​
 
-We start with continuous fabrication, building our design from the ground up using conductive and structural plastics.
+We start with continuous fabrication, building our design from the ground up using conductive and structural plastics. \
+​
 
 First, we lay down electrically conductive traces on the 3D printing surface. These will make up the electrical terminals and sensing elements of our accelerometer and temperature sensor:
 
