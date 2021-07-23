@@ -21,6 +21,7 @@
      -  Large electrical contact pads
         
      -  Spaces for lower jaws of crocodile clips (optional)
+        ​
         
  -  An insulated double-ended crocodile clip jumper (or conductive paint/epoxy and lengths of thin wire stripped of their insulation on both ends) for *each* electrical contact
     
@@ -29,6 +30,7 @@
  -  Some string or more thin wire
     
  -  A laboratory weight set or similar
+    ​
 
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Calibrating-Your-Force-Sensor/Strain-Test-Rig.jpg" style="zoom:33%;" /> 
 
