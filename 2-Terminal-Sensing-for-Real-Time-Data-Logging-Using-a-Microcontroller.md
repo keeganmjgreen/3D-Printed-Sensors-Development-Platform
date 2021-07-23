@@ -13,12 +13,12 @@ $\uparrow$ The wiring diagram showing the interface between a sensor with conduc
  -  A sensor with conductive traces for 2-terminal sensing
  -  A 10-kΩ or similar through-hole resistor of known value
 
-**For Testing** and Evaluation Purposes…
+**For Testing** and Evaluation Purposes...
 
  -  3 lengths of solid core hook-up wire with stripped ends
  -  3 insulated crocodile clip jumpers (double-ended)
 
-**For Production** without a Circuit Board…
+**For Production** without a Circuit Board...
 
  -  3 lengths of solid core hook-up wire with stripped ends
  -  Soldering setup
@@ -40,7 +40,7 @@ $\uparrow$ The wiring diagram showing the interface between a sensor with conduc
 
 **Caution:** Do not connect the voltage input pin (`Vin`) or voltage output pin (`5V`) pins of your microcontroller to its electrical ground (`GND`) pin. Failure to follow this instruction will potentially result in permanent damage to the microcontroller and any connected devices.
 
-**For Testing** and Evaluation Purposes…
+**For Testing** and Evaluation Purposes...
 
  1. Connect your hook-up wires to the `GND`, `A1`, and `5V` pins of your microcontroller.
     
@@ -52,7 +52,7 @@ $\uparrow$ The wiring diagram showing the interface between a sensor with conduc
     
  5. Connect the ends of the remaining wire assemblies, in order, to terminals `T1` -- `T2` of your 2-terminal sensor.
 
-**For Production** without a Circuit Board…
+**For Production** without a Circuit Board...
 
  1. Connect your hook-up wires to the `GND`, `A1`, and `5V` pins of your microcontroller. \
     Slip on your heat shrink tubing if necessary at this point.
