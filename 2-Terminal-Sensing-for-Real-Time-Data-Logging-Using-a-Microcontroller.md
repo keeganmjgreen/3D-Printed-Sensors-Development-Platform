@@ -54,7 +54,7 @@ $\uparrow$ The wiring diagram showing the interface between a sensor with conduc
 
 **For Production** without a Circuit Board…
 
- 1. Connect your hook-up wires to the `GND`, `A1`, and `5V` pins of your microcontroller.
+ 1. Connect your hook-up wires to the `GND`, `A1`, and `5V` pins of your microcontroller. \
     Slip on your heat shrink tubing if necessary at this point.
     
  2. Solder your thin wire to the latter 2 hook-up wires.
