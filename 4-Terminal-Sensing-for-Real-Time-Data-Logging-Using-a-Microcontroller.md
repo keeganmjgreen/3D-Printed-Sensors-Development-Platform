@@ -13,12 +13,12 @@ $\uparrow$ The wiring diagram showing the interface between a sensor with conduc
  -  A sensor with conductive traces for 4-terminal sensing
  -  A 10-kΩ or similar through-hole resistor of known value
 
-**For Testing** and Evaluation Purposes…
+**For Testing** and Evaluation Purposes...
 
  -  5 lengths of solid core hook-up wire with stripped ends
  -  5 insulated crocodile clip jumpers (double-ended)
 
-**For Production** without a Circuit Board…
+**For Production** without a Circuit Board...
 
  -  5 lengths of solid core hook-up wire with stripped ends
  -  Soldering setup
@@ -44,7 +44,7 @@ $\uparrow$ The wiring diagram showing the interface between a sensor with conduc
 
 $\uparrow$ Pinout of a 4-terminal sensor.
 
-**For Testing** and Evaluation Purposes…
+**For Testing** and Evaluation Purposes...
 
  1. Connect your hook-up wires to the `GND`, `A1`, `A2`, `A3`, and `5V` pins of your microcontroller.
     
@@ -56,7 +56,7 @@ $\uparrow$ Pinout of a 4-terminal sensor.
     
  5. Connect the ends of the remaining wire assemblies, in order, to terminals `T1` -- `T4` of your 4-terminal sensor.
 
-**For Production** without a Circuit Board…
+**For Production** without a Circuit Board...
 
  1. Connect your hook-up wires to the `GND`, `A1`, `A2`, `A3`, and `5V` pins of your microcontroller.
     Slip on your heat shrink tubing if necessary at this point.
