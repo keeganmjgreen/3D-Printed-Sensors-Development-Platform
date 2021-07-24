@@ -31,7 +31,8 @@ The above symbol indicates that damage to property may occur if the provided pre
 
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ANSI_Caution_Header_-_1998.svg" alt="Caution" style="zoom:25%;" /> 
 
-The above symbol indicates that minor injuries may occur if the provided precautions are not taken.
+The above symbol indicates that minor injuries may occur if the provided precautions are not taken. \
+​
 
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ANSI_Danger_Header_-_1998.svg" alt="Danger" style="zoom:25%;" /> 
 
