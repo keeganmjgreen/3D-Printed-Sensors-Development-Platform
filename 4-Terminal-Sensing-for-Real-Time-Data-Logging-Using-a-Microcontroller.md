@@ -2,7 +2,7 @@
 
 4-terminal sensing is slightly more complicated to set up than 2-terminal sensing and less compact in implementation. However, it is more consistent between sensors and more repeatable for a given sensor. It virtually eliminates the effect of contact resistance and other input resistances on the measurement of a resistive sensing element.
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/4-Terminal-Sensing-for-Real-Time-Data-Logging-Using-a-Microcontroller.png" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/4-Terminal-Sensing-for-Real-Time-Data-Logging-Using-a-Microcontroller.png" style="zoom:50%;" /> 
 
 $\uparrow$ The wiring diagram showing the interface between a sensor with conductive traces for 4-terminal sensing and a microcontroller, of which `A0` -- `A3` are analog input pins. The microcontroller is programmed by and sends data -- namely, the resistance of the sensing element within the conductive traces -- to a computer, via USB over *serial communication*.
 
@@ -32,11 +32,11 @@ $\uparrow$ The wiring diagram showing the interface between a sensor with conduc
 
 ## Instructions -- Assembly
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ANSI_Warning_Header_-_1998.svg" alt="Warning" style="zoom:25%;" />	
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ANSI_Warning_Header_-_1998.svg" alt="Warning" style="zoom:25%;" /> 
 
 **WARNING:** Exercise extreme care when handling or using a soldering iron. Always assume that it may be plugged in and hot. Only those who are familiar with the safe use of a soldering iron should attempt to use it. Failure to follow proper practices may cause up to third degree burns.	
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ANSI_Caution_Header_-_1998.svg" alt="Caution" style="zoom:25%;" />	
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ANSI_Caution_Header_-_1998.svg" alt="Caution" style="zoom:25%;" /> 
 
 **Caution:** Do not connect the voltage input pin (`Vin`) or voltage output pin (`5V`) pins of your microcontroller to its electrical ground (`GND`) pin. Failure to follow this instruction will potentially result in permanent damage to the microcontroller and any connected devices.
 
