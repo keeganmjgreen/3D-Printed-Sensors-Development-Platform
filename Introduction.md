@@ -14,47 +14,52 @@ Monti 3D Printing Solutions offers no warranty to any sensor produced or calibra
 
 # Customer Support #
 
-Additional documentation and resources about Pithon on our online support pages at: https://3d-printed-sensors-manual-demo.readthedocs.io/en/latest/index.html
+Additional documentation and resources about Pithon on our online support pages:
+*https://3d-printed-sensors-manual-demo.readthedocs.io/en/latest/index.html*.
 
-Please address any questions to Monti's Design Team at kmgreen@sfu.ca
+Please address any questions to Monti's Design Team at kmgreen@sfu.ca.
 
 # Safety #
 
 ## Safety Messages ##
 
-This manual displays warnings and safety related notices in the following format:
+This manual displays warnings and safety related notices in the following format.
 
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ANSI_Notice_Header_-_1998.svg" alt="Notice" style="zoom:25%;" /> 
 
-This symbol indicates that damage to property may occur if the provided precautions are not taken.
+The above symbol indicates that damage to property may occur if the provided precautions are not taken.
 
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ANSI_Caution_Header_-_1998.svg" alt="Caution" style="zoom:25%;" /> 
 
-This symbol indicates that minor injuries may occur if the provided precautions are not taken.
+The above symbol indicates that minor injuries may occur if the provided precautions are not taken.
 
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ANSI_Danger_Header_-_1998.svg" alt="Danger" style="zoom:25%;" /> 
 
-This symbol indicates a high probability that major injury or death may occur if the provided precautions are not adhered to.
+The above symbol indicates a high probability that major injury or death may occur if the provided precautions are not adhered to.
 
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ISO_7010_W001.svg" alt="Warning" style="zoom:20%;" /> 
 
-These warnings provide general safety related information or measures.
+The above warning provides general safety related information or measures.
+
+As applicable, these safety messages will be listed in order of highest risks first.
 
 ## Hazards ##
 
 ### Manufacturing Hazards ###
 
+Manufacturing hazards are as follows.
+
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ISO_7010_W012.svg" alt="Electricity hazard" style="zoom:20%;" /> 
 
 Improperly installed 3D printers may present a risk of electrocution. Ensure the 3D printer is installed and operated as per the Manufacturer's specification as described in the 3D printer's User Manual.
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ISO_7010_W024.svg" alt="Crushing of hands" style="zoom:20%;" /> 
-
-3D printers have multiple moving parts, that may damage objects or body parts caught in their motion. Always operate 3D printer as specified in their User Manual.
-
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ISO_7010_W017.svg" alt="Hot surface" style="zoom:20%;" /> 
 
 3D printers have nozzles that reach temperatures above 200°C, and some models have heated print beds. Refer to your 3D printer's User Manual on how to operate the device safely.
+
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ISO_7010_W024.svg" alt="Crushing of hands" style="zoom:20%;" /> 
+
+3D printers have multiple moving parts, that may damage objects or body parts caught in their motion. Always operate 3D printer as specified in their User Manual.
 
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ISO_7010_W016.svg" alt="Toxic material" style="zoom:20%;" /> 
 
@@ -62,9 +67,11 @@ Improperly installed 3D printers may present a risk of electrocution. Ensure the
 
 ### Operating Hazards ###
 
+Operating hazards are as follows.
+
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ISO_7010_W012.svg" alt="Electricity hazard" style="zoom:20%;" /> 
 
-Laboratory grade power sources can generate power sufficient to cause electrocution. Always operate power sources and measurement equipment as per manufacturer's specifications.
+Laboratory-grade power sources can generate power sufficient to cause electrocution. Always operate power sources and measurement equipment as per manufacturer's specifications.
 
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ISO_7010_W017.svg" alt="Hot surface" style="zoom:20%;" /> 
 
