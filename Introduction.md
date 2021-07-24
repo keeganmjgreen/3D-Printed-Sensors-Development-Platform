@@ -39,7 +39,7 @@ The above symbol indicates that minor injuries may occur if the provided precaut
 The above symbol indicates a high probability that major injury or death may occur if the provided precautions are not adhered to.
 
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ISO_7010_W001.svg" alt="Warning" style="zoom:20%;" /> 
-
+​
 The above warning provides general safety related information or measures.
 
 As applicable, these safety messages will be listed in order of highest risks first.
@@ -70,11 +70,11 @@ Improperly installed 3D printers may present a risk of electrocution. Ensure the
 
 Operating hazards are as follows.
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ISO_7010_W012.svg" alt="Electricity hazard" style="zoom:20%;" /> 
-
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ISO_7010_W012.svg" alt="Electricity hazard" style="zoom:20%;" /> \
+​ \
 Laboratory-grade power sources can generate power sufficient to cause electrocution. Always operate power sources and measurement equipment as per manufacturer's specifications.
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ISO_7010_W017.svg" alt="Hot surface" style="zoom:20%;" /> 
-
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ISO_7010_W017.svg" alt="Hot surface" style="zoom:20%;" /> \
+​ \
 When applying a larger power, above Pithon's rated voltage and current limits, the sensor may self-heat to high temperatures. Do not handle or touch any part of the Pithon sensor when applying a high voltage or current. \
 ​
