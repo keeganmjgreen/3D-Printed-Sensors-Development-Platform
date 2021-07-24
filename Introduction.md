@@ -76,4 +76,5 @@ Laboratory-grade power sources can generate power sufficient to cause electrocut
 
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ISO_7010_W017.svg" alt="Hot surface" style="zoom:20%;" /> 
 
-When applying a larger power, above Pithon's rated voltage and current limits, the sensor may self-heat to high temperatures. Do not handle or touch any part of the Pithon sensor when applying a high voltage or current.
+When applying a larger power, above Pithon's rated voltage and current limits, the sensor may self-heat to high temperatures. Do not handle or touch any part of the Pithon sensor when applying a high voltage or current. \
+​
