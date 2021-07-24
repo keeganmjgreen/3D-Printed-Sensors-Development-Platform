@@ -37,7 +37,7 @@ Communicate files to the printer. Ultimaker allows for communication over LAN or
 1. Find USB intended for use and insert into USB port on the user's computer
 2. Copy `UM3E_Parallel Plate Cap C3-2 (1cmx1cm).gcode` to the USB
 3. Navigate to USB, right-click on its name, and select eject. 
-![](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/c19642ca181b20fe722775690fba786da6298c33/img/Safety/ANSI_Notice_Header_-_1998.svg)
+![](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ANSI_Notice_Header_-_1998.svg)
 NOTICE: Do not remove USB before selecting eject as this may cause corruption of files.
 4. Once it is indicated that the USB is safe to remove, remove it from the computer.
 5. Insert USB into USB port on the front of the Ultimaker 3. Turn on the printer of you haven't done so already.
