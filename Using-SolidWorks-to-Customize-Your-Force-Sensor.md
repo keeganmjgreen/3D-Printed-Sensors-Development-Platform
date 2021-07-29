@@ -138,8 +138,7 @@ Remember that this modification will change the bounding volume of the sensor.
 
 **07. To adjust the depth of the conductive traces...**
 
- 1. [In the left pane, open the context menu for the Space for Conductive Traces *Extruded Cut* feature.](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Using-SolidWorks-to-Customize-Your-Force-Sensor/07/1.png) \
-    ​
+ 1. [In the left pane, open the context menu for the Space for Conductive Traces *Extruded Cut* feature.](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Using-SolidWorks-to-Customize-Your-Force-Sensor/07/1.png)
     
     <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Using-SolidWorks-to-Customize-Your-Force-Sensor/Space-for-Conductive-Traces.png" style="zoom:50%;" /> \
     ​
