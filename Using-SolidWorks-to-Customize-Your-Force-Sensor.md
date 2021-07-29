@@ -50,7 +50,7 @@ Remember that this modification will change the bounding volume of the sensor.
 
 Do this do vary the maximum deflection of the cantilever beam under a given load/force, particularly being applied to its free end, where the maximum deflection happens. Approximate the deflection of a beam without a notch using this formula:
 
-$$ \sf \textsf{maximum deflection} = \dfrac{4 \left( \textsf{approximately vertical force} \right) \left( \textsf{beam length} \right)^3}{\left( \textsf{Young's modulus of the material} \right) \left( \textsf{beam width} \right) \left( \textsf{beam thickness} \right)^3} $$
+$$ \small \sf \textsf{maximum deflection} = \dfrac{4 \left( \textsf{approximately vertical force} \right) \left( \textsf{beam length} \right)^3}{\left( \textsf{Young's modulus of the material} \right) \left( \textsf{beam width} \right) \left( \textsf{beam thickness} \right)^3} $$
 
 Here, the *beam length* is really the distance from the start of the cantilever beam to wherever the force is applied along its length. The *Young’s modulus* is a mechanical property that is representative of elasticity and unique to the 3D printed material and its print settings. It has units of Newtons per square meter (N/m²) . Measure the maximum deflection and use the formula in reverse to approximate it. Only use the formula for small values of maximum deflection relative to the length of the cantilever beam.
 
@@ -165,7 +165,7 @@ Remember that this modification will change the bounding volume of the sensor.
 
 Do this to vary the resistance of the conductive traces, including the *sensing element*. Measure what will be the old resistance and approximate a new resistance using this formula:
 
-$$ \sf \textsf{new resistance} = \textsf{old resistance} \ \! \cdot \dfrac{\: \, \textsf{old depth}}{\textsf{new depth}} $$
+$$ \small \sf \textsf{new resistance} = \textsf{old resistance} \ \! \cdot \dfrac{\: \, \textsf{old depth}}{\textsf{new depth}} $$
 
 Only use the formula for wire-like conductive traces. Do not use It for electrical terminals / contact pads.
 
