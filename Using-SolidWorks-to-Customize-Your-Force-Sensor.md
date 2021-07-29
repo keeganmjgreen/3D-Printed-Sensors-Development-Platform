@@ -8,8 +8,7 @@ Open `mid_str_4T_sensing_and_elem.SLDPRT`. This SolidWorks part file contains th
 
 **01. To adjust the distance from the back of the cantilever base to the start of the cantilever beam...**
 
- 1. [In the left pane (the *FeatureManager Design Tree*), open the context menu for the Beam Surfaces *Extruded Boss/Base* feature.](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Using-SolidWorks-to-Customize-Your-Force-Sensor/01/1.png) \
-    ​
+ 1. [In the left pane (the *FeatureManager Design Tree*), open the context menu for the Beam Surfaces *Extruded Boss/Base* feature.](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Using-SolidWorks-to-Customize-Your-Force-Sensor/01/1.png)
     
     <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Using-SolidWorks-to-Customize-Your-Force-Sensor/Beam-Surfaces.png" style="zoom:50%;" /> \
     ​
@@ -33,8 +32,7 @@ Remember that this modification will change the bounding volume of the sensor.
 
 **02. To adjust the length of the cantilever beam...**
 
- 1. [In the left pane (the *FeatureManager Design Tree*), open the context menu for the Beam Surfaces *Extruded Boss/Base* feature.](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Using-SolidWorks-to-Customize-Your-Force-Sensor/02/1.png) \
-    ​
+ 1. [In the left pane (the *FeatureManager Design Tree*), open the context menu for the Beam Surfaces *Extruded Boss/Base* feature.](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Using-SolidWorks-to-Customize-Your-Force-Sensor/02/1.png)
     
     <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Using-SolidWorks-to-Customize-Your-Force-Sensor/Beam-Surfaces.png" style="zoom:50%;" /> \
     ​
@@ -64,8 +62,7 @@ Remember that this modification will change the bounding volume of the sensor.
 
 **03. To adjust the width of the cantilever beam...**
 
- 1. [In the left pane (the *FeatureManager Design Tree*), open the context menu for the Beam Surfaces *Extruded Boss/Base* feature.](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Using-SolidWorks-to-Customize-Your-Force-Sensor/03/1.png) \
-    ​
+ 1. [In the left pane (the *FeatureManager Design Tree*), open the context menu for the Beam Surfaces *Extruded Boss/Base* feature.](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Using-SolidWorks-to-Customize-Your-Force-Sensor/03/1.png)
     
     <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Using-SolidWorks-to-Customize-Your-Force-Sensor/Beam-Surfaces.png" style="zoom:50%;" /> \
     ​
@@ -85,8 +82,7 @@ Remember that this modification will change the bounding volume of the sensor.
 
 **04. To adjust the thickness of the cantilever beam (and consequently shift the cantilever base by the same amount)...**
 
- 1. [In the left pane, open the context menu for the Beam Surfaces *Extruded Boss/Base* feature.](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Using-SolidWorks-to-Customize-Your-Force-Sensor/04/1.png) \
-    ​
+ 1. [In the left pane, open the context menu for the Beam Surfaces *Extruded Boss/Base* feature.](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Using-SolidWorks-to-Customize-Your-Force-Sensor/04/1.png)
     
     <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Using-SolidWorks-to-Customize-Your-Force-Sensor/Beam-Surfaces.png" style="zoom:50%;" /> \
     ​
@@ -182,8 +178,7 @@ Only use the formula for wire-like conductive traces. Do not use It for electric
 
 **08. To change whether or not there is a reference set of conductive traces...**
 
- 1. [In the left pane, open the context menu for the mid_str_4T_Sensing_Elem Reference *Mirror* feature.](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Using-SolidWorks-to-Customize-Your-Force-Sensor/08/1.png) \
-    ​
+ 1. [In the left pane, open the context menu for the mid_str_4T_Sensing_Elem Reference *Mirror* feature.](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Using-SolidWorks-to-Customize-Your-Force-Sensor/08/1.png)
     
     <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Using-SolidWorks-to-Customize-Your-Force-Sensor/mid_str_4T_sensing_elem-Reference.png" style="zoom:50%;" /> \
     ​
@@ -268,7 +263,8 @@ Before you can load the components of your 3D model into your 3D printing softwa
  1. [Ensure that the Export Conductive Traces *Display State* is opened.](Using-SolidWorks-to-Customize-Your-Force-Sensor/)
     This hides everything except the black mid_str_4T_sensing_elem *Body*, with its *sensing element* and electrical terminals / contact pads. You can use this component for the reference set of conductive traces as well.
     
-    <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Using-SolidWorks-to-Customize-Your-Force-Sensor/Export-Conductive-Traces.png" style="zoom:50%;" /> 
+    <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Using-SolidWorks-to-Customize-Your-Force-Sensor/Export-Conductive-Traces.png" style="zoom:50%;" /> \
+    ​
     
  2. Select *File* > *Save **As***…
     
