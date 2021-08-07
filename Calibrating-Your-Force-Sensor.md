@@ -66,7 +66,7 @@ $\uparrow$ A test rig of a force sensor that has a 1-mm cantilever beam and no r
     
 12. Wait momentarily while recording data -- say, roughly 100 samples. Be careful not to touch your sensor or its load.
     
-13. Type "0 grams" into your serial monitor and *Send* this message to your Arduino and back (to record it conveniently in the same place) for the purpose of marking an upcoming change to the applied load. Example...
+13. Type "0 grams" into your serial monitor and *Send* this message to your Arduino and back (to record it conveniently in the same place) for the purpose of marking an upcoming change to the applied load. For example...
     
     ```
     ⁞
@@ -78,7 +78,7 @@ $\uparrow$ A test rig of a force sensor that has a 1-mm cantilever beam and no r
     
 14. Gently suspend the smallest weight -- say, 4 grams -- from the cantilever beam's free end hole and wait briefly for your cantilever beam to settle under its new load.
     
-15. Then, enter "4 grams" into your serial monitor. Example...
+15. Then, enter "4 grams" into your serial monitor. For example...
     
     ```
     ⁞
@@ -92,7 +92,7 @@ $\uparrow$ A test rig of a force sensor that has a 1-mm cantilever beam and no r
     
 16. Unplug your Arduino. Your serial monitor will 'freeze'.
     
-17. Copy the partitioned runs of resistance data and save them into a text file, Excel workbook, etc. Example...
+17. Copy the partitioned runs of resistance data and save them into a text file, Excel workbook, etc. For example...
     
     | Column 1 |
     |---------:|
@@ -106,7 +106,7 @@ $\uparrow$ A test rig of a force sensor that has a 1-mm cantilever beam and no r
     |  3877.55 |
     |        ⁞ |
     
-18. Discard the resistance values *between* framed weight increments as being subject to the impulses of suddenly loading and unloading weights. Example...
+18. Discard the resistance values *between* framed weight increments as being subject to the impulses of suddenly loading and unloading weights. For example...
     
     | Number of weights | Mass in grams | Resistance in ohms |
     |------------------:|--------------:|-------------------:|
@@ -119,7 +119,7 @@ $\uparrow$ A test rig of a force sensor that has a 1-mm cantilever beam and no r
     |                 1 |             4 |            3851.85 |
     |                 ⁞ |             ⁞ |                  ⁞ |
     
-19. Average the resistance values *within* framed weight increments as only being subject to measurement noise. Example...
+19. Average the resistance values *within* framed weight increments as only being subject to measurement noise. For example...
     
     | Number of weights | Mass in grams | Resistance in ohms | Number of samples |
     |------------------:|--------------:|-------------------:|------------------:|
@@ -135,7 +135,7 @@ $\uparrow$ A test rig of a force sensor that has a 1-mm cantilever beam and no r
     |                 9 |            36 |            3919.69 |              153  |
     |                10 |            40 |            3931.75 |              272  |
     
-20. Convert the masses (in units of grams) to force values (in units of Newtons) by multiplying them by 10 ≈ 9.81 m/s². Example...
+20. Convert the masses (in units of grams) to force values (in units of Newtons) by multiplying them by 10 ≈ 9.81 m/s². For example...
     
     | Force in Newtons | Resistance in ohms |
     |-----------------:|-------------------:|
@@ -151,5 +151,5 @@ $\uparrow$ A test rig of a force sensor that has a 1-mm cantilever beam and no r
     |             0.36 |            3919.69 |
     |             0.40 |            3931.75 |
     
-20. Plot resistance against force. Example... \
+20. Plot resistance against force. For example... \
     <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Calibrating-Your-Force-Sensor/Force-Sensor-Calibration-Curve.png" alt="Force Sensor Calibration Curve in Resistance [Ω] vs. Force [N]" style="zoom:50%;" /> 
