@@ -4,7 +4,7 @@
 
  -  An untested force sensor with the following defaults from `mid_str_4T_sensing_and_elem.SLDPRT`.
     
-    <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Calibrating-Your-Force-Sensor/mid_str_4T_sensing_1.png" style="zoom:50%;" /> 
+    <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Calibrating-Your-Force-Sensor/mid_str_4T_sensing.png" style="zoom:50%;" /> 
     
      -  A hole close to the end of the cantilever beam ("Free End Hole" in the SolidWorks part) from which to suspend known weights
         
