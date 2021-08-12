@@ -39,10 +39,10 @@ We press-fit a steel ball into the space provided at the end of the acceleromete
 
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Example-Process-Flow/Figure%20(6).png" alt="Manually Insert Metal Ball" style="zoom:50%;" /> 
 
-This will make it especially sensitive to acceleration. This weight a *proof mass*. Because it is metallic, the accelerometer can also be used as a magnetic field sensor. \
+This will make it especially sensitive to acceleration. This weight is a *proof mass*. Because it is metallic, the accelerometer can also be used as a magnetic field sensor. \
 ​
 
-We cover the cavity with the rest of the arbitrarily-shaped enclosing structure:
+We cover the cavity with the rest of the arbitrarily shaped enclosing structure:
 
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Example-Process-Flow/Figure%20(7).png" alt="Cover With Structural Plastic" style="zoom:50%;" /> 
 
