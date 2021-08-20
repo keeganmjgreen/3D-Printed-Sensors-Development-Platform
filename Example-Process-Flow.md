@@ -30,21 +30,21 @@ We have printed a cantilever beam for our accelerometer:
 
 Now, we keep going -- layer by layer -- leaving more space for a cavity:
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Example-Process-Flow/Figure%20(5).png" alt="" style="zoom:50%;" /> 
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Example-Process-Flow/Figure%20(5).png" alt="" style="zoom:50%;" />
 
 In practice, the cavity walls would slope both upward and inward to support subsequent layers, meaning that you wouldn't have to use a temporary support structure. \
 ​
 
 We press-fit a steel ball into the space provided at the end of the accelerometer's cantilever beam:
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Example-Process-Flow/Figure%20(6).png" alt="Manually Insert Metal Ball" style="zoom:50%;" /> 
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Example-Process-Flow/Figure%20(6).png" alt="Manually Insert Metal Ball" style="zoom:50%;" />
 
 This will make it especially sensitive to acceleration. This weight is a *proof mass*. Because it is metallic, the accelerometer can also be used as a magnetic field sensor. \
 ​
 
 We cover the cavity with the rest of the arbitrarily shaped enclosing structure:
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Example-Process-Flow/Figure%20(7).png" alt="Cover With Structural Plastic" style="zoom:50%;" /> 
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Example-Process-Flow/Figure%20(7).png" alt="Cover With Structural Plastic" style="zoom:50%;" />
 
 Note that especially by this point, the 3D printed part would be partially made up of a lattice -- this is the *infill pattern*. \
 ​
@@ -67,35 +67,35 @@ Our accelerometer and temperature sensor have been embedded into an arbitrary pa
 
 This is our embedded accelerometer:
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Example-Process-Flow/Figure%20(9).png" alt="Embedded Accelerometer" style="zoom:50%;" /> 
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Example-Process-Flow/Figure%20(9).png" alt="Embedded Accelerometer" style="zoom:50%;" />
 
 When the whole part speeds up or slows down, its cantilever beam bends up or down depending on the direction and amount of the acceleration it experiences. The material making up the top half of the beam gets compressed or stretched, especially at its base and on its surface. This is why we placed two strategically-sized notches in the base as shown. They 'concentrate' its mechanical stress toward its sensing element, which is at the beam surface. This makes it more sensitive to acceleration. \
 ​
 
 This is our accelerometer's primary set of conductive traces:
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Example-Process-Flow/Figure%20(10).png" alt="Electrical Terminals and Strain-Sensitive Element" style="zoom:50%;" /> 
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Example-Process-Flow/Figure%20(10).png" alt="Electrical Terminals and Strain-Sensitive Element" style="zoom:50%;" />
 
 The zig-zag pattern in the middle is what forms its sensing element, a *strain gauge*, whose electrical resistance readily changes with mechanical strain. But the conductive traces' resistance also changes with temperature and humidity. \
 ​
 
 This is where our accelerometer's secondary set of conductive traces comes into play:
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Example-Process-Flow/Figure%20(11).png" alt="Duplicate to Correct for Changes in Temperature and Humidity" style="zoom:50%;" /> 
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Example-Process-Flow/Figure%20(11).png" alt="Duplicate to Correct for Changes in Temperature and Humidity" style="zoom:50%;" />
 
 This is our accelerometer's secondary set of conductive traces. It can share an electrical terminal with the primary set and is its mirror image. But unlike the primary set, it isn't on a flexible beam. Because of this, it isn't sensitive to absent mechanical strain -- just temperature and humidity. These two "environmental conditions" are shared by both sets of conductive traces. Since the primary set responds to acceleration and environmental conditions similarly, and this secondary set responds only to the same environmental conditions, the acceleration by itself becomes known to us. \
 ​
 
 This is our embedded temperature sensor:
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Example-Process-Flow/Figure%20(12).png" alt="Embedded Temperature Sensor" style="zoom:50%;" /> 
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Example-Process-Flow/Figure%20(12).png" alt="Embedded Temperature Sensor" style="zoom:50%;" />
 
 It measures the temperature of the surrounding air. Its sensing element is so small that it can point out of the arbitrarily-shaped structure too -- without getting in the way of anything. A kind of "guard rail" stops it from being damaged. Here, the sensing element is suspended midair in a cavity. Either case provides airflow. \
 ​
 
 This is our temperature sensors' set of conductive traces:
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Example-Process-Flow/Figure%20(13).png" alt="Electrical Terminals and Temperature-Sensitive Element" style="zoom:50%;" /> 
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Example-Process-Flow/Figure%20(13).png" alt="Electrical Terminals and Temperature-Sensitive Element" style="zoom:50%;" />
 
 The sensing element's electrical resistance changes with temperature. A method called *four-terminal sensing* or *Kelvin sensing* is used to factor out temperature-dependent *contact resistances*. \
 ​
@@ -112,7 +112,7 @@ Before the conductive paint hardens, we bond wires to these contact pads:
 
 Finally, we connect our physical implementation of the Pithon platform to a microcontroller as shown and, optionally, a different power source, such as a coin cell embedded in the 3D printed part.
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Example-Process-Flow/Figure%20(16).png" alt="Use With Your Microcontroller" style="zoom:50%;" /> \
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Example-Process-Flow/Figure%20(16).png" alt="Use With Your Microcontroller" style="zoom:50%;" />
 
 The microcontroller takes care of signal processing and digitally transmits the calibrated acceleration and temperature to where the data is needed. \
 ​
