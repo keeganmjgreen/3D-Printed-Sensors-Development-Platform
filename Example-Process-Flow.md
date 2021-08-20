@@ -116,3 +116,15 @@ Finally, we connect our physical implementation of the Pithon platform to a micr
 
 The microcontroller takes care of signal processing and digitally transmits the calibrated acceleration and temperature to where the data is needed. \
 ​
+
+## Using Filler Material
+
+The following is a modified version of the Pithon implementation in the example process flow. It uses 3D printed filler material -- dissolvable PVA filament -- as a support structure (highlighted blue) for what becomes the base of the cavity.
+
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Example-Process-Flow/platform_2%20with%20Filler%20Material.png" alt="" style="zoom:100%;" />
+
+## Using Tapered Cavity Walls
+
+The following is a modified version of the Pithon implementation in the example process flow. Its cavity has tapered walls to support subsequent layers, leaving potential for printing without a support structure. The top face of the enclosing structure is hidden is transparent to better show the cavity walls.
+
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Example-Process-Flow/platform_2%20with%20Tapered%20Cavity%20Walls.png" alt="" style="zoom:100%;" />
