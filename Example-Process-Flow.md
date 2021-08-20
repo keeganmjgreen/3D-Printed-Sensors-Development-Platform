@@ -107,10 +107,12 @@ Now, we put liquid conductive paint (or conductive epoxy) on the large contact p
 
 Before the conductive paint hardens, we bond wires to these contact pads:
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Example-Process-Flow/Figure%20(15).png" alt="Add Wires to Main Electrical Terminals" style="zoom:50%;" /> \
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Example-Process-Flow/Figure%20(15-2).png" alt="Add Wires to Main Electrical Terminals" style="zoom:50%;" /> \
 ​
 
 Finally, we connect our physical implementation of the Pithon platform to a microcontroller as shown and, optionally, a different power source, such as a coin cell embedded in the 3D printed part.
+
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Example-Process-Flow/Figure%20(16).png" alt="Use With Your Microcontroller" style="zoom:50%;" /> \
 
 The microcontroller takes care of signal processing and digitally transmits the calibrated acceleration and temperature to where the data is needed. \
 ​
