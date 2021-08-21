@@ -5,7 +5,7 @@ With Pithon's customizability, there are two options on how to print:
 
 These options will be outlined below.
 ## Print original Monti provided capacitor
-### Step 1
+**Step 1**
 Since the parallel plate capacitor requires high resolution and precision, it is recommended to freshly reload filaments before printing. This can be done by:
 1. Navigate to *SYSTEM* on the Ultimaker 3, then to the extruder of your choice, and *Unload*
 2. Once the unload process is finished, lift the material clasp to release the filament. There may be a part of the filament which is tapered and not uniform as the rest. Use common scissors to remove this part before reloading.
@@ -15,9 +15,9 @@ Since the parallel plate capacitor requires high resolution and precision, it is
 
 > Perform these steps on both materials
 
-### Step 2
+**Step 2**
 Navigate to files to find `UM3E_Parallel Plate Cap C3-2 (1cmx1cm).gcode` and `UM3E_Parallel Plate Cap C3-2 (1cmx1cm).mf`.
-### Step 3
+**Step 3**
 Communicate files to the printer. Ultimaker allows for communication over LAN or USB.
 #### For LAN communication
 1. Connect Ultimaker 3 to your network via WiFi or ethernet connection.
@@ -44,31 +44,31 @@ NOTICE: Do not remove USB before selecting eject as this may cause corruption of
 6. Navigate to *PRINT* using the dial located on the right hand side of the printer. Press the dial in until it clicks to select the option.
 7. Natigate to `UM3E_Parallel Plate Cap C3-2 (1cmx1cm).gcode` on the Ultimaker screen and select.
 
-### Step 4
+**Step 4**
 Remove print from print bed. Your sensing element has now been printed and is ready to be prepared for calibration.
 ## Customize the original capacitor
 ### Step 1
 Navigate files to find `UM3E_Parallel Plate Cap C3-2 (1cmx1cm).mf`.
 
-### Step 2
+**Step 2**
 Open Ultimaker Cura and open the file from Step 1. This can be accomplished by going to *File* in the top menu, then *Open File(s)* and find the file. \
 ![](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Cura%20for%20Capacitors/Step%202%20for%20customize.JPG)
 
-### Step 3
+**Step 3**
 Now that the file is open, there should be three components. These components are the bottom plate, dielectric, and top plate from top to bottom. Select one of these three components to customize by choosing it from the *Object list* tab in the bottom left of the screen, or by clicking on the component shape in Cura.
 
-### Step 4
+**Step 4**
 Change the size of the plate. This can be done by going to the *Scale (S)* option on the left hand menu. Deselect *Uniform Scale* to change plate surface area and plate thickness individually. \
 ![](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Cura%20for%20Capacitors/Scale%20Change.JPG)
 
-### Step 5
+**Step 5**
 Change the positioning of the plate. This can be done by going to the *Move (T)* option on the left hand menu. Center all plates at x = 0mm and y = 0mm. For z, keep the bottom plate slightly above the build plate (z = 0.1mm or so). For every plate above the bottom plate, add the thicknesses of plates below it and the 0.1mm gap initially defined. \
 ![](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Cura%20for%20Capacitors/Position%20Change.JPG)
 
 >Repeat steps 4 and 5 until the desired structure is acheived.
 
-### Step 6
+**Step 6**
 Slice the design and save under a name of your choice as a `.gcode` file.
 
-### Step 7
+**Step 7**
 Follow steps 1 through 4 from the previous section (Print original Monti provided sensor) to complete the print, changing the file names there for the ones chosen by you. 
