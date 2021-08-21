@@ -47,7 +47,7 @@ NOTICE: Do not remove USB before selecting eject as this may cause corruption of
 **Step 4**
 Remove print from print bed. Your sensing element has now been printed and is ready to be prepared for calibration.
 ## Customize the original capacitor
-### Step 1
+**Step 1**
 Navigate files to find `UM3E_Parallel Plate Cap C3-2 (1cmx1cm).mf`.
 
 **Step 2**
