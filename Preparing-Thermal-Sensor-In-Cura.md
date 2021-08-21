@@ -5,7 +5,7 @@ With Pithon's customizability, there are two options on how to print:
 
 These options will be outlined below.
 ## Print original Monti provided thermal sensor
-### Step 1
+**Step 1**
 Since the thermal sensor requires high resolution and precision, it is recommended to freshly reload filaments before printing. This can be done by:
 1. Navigate to *SYSTEM* on the Ultimaker 3, then to the extruder of your choice, and *Unload*
 2. Once the unload process is finished, lift the material clasp to release the filament. There may be a part of the filament which is tapered and not uniform as the rest. Use common scissors to remove this part before reloading.
@@ -15,9 +15,9 @@ Since the thermal sensor requires high resolution and precision, it is recommend
 
 > Perform these steps on both materials
 
-### Step 2
+**Step 2**
 Navigate to files to find `temp_4T_sensing_and_elem.gcode` and `temp_4T_sensing_and_elem.3mf`.
-### Step 3
+**Step 3**
 Communicate files to the printer. Ultimaker allows for communication over LAN or USB.
 #### For LAN communication
 1. Connect Ultimaker 3 to your network via WiFi or ethernet connection.
@@ -44,31 +44,31 @@ NOTICE: Do not remove USB before selecting eject as this may cause corruption of
 6. Navigate to *PRINT* using the dial located on the right hand side of the printer. Press the dial in until it clicks to select the option.
 7. Natigate to `temp_4T_sensing_and_elem.gcode` on the Ultimaker screen and select.
 
-### Step 4
+**Step 4**
 Remove print from print bed. Your sensing element has now been printed and is ready to be prepared for calibration.
 ## Customize the original thermal sensor
 Users are free to create their own thermal sensor design, which is recommended to be created through Solidworks. This process is outlined in the manual at [Tips for Optionally Using SolidWorks to Build Upon Sensor Designs](https://github.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/blob/main/Tips-for-Optionally-Using-SolidWorks-to-Build-Upon-Sensor-Designs.md). For changing the size of the Monti provided sensor, the following steps will outline this.
 
-### Step 1
+**Step 1**
 Navigate files to find `temp_4T_sensing_and_elem.3mf`.
 
-### Step 2
+**Step 2**
 Open Ultimaker Cura and open the file from Step 1. This can be accomplished by going to *File* in the top menu, then *Open File(s)* and find the file. \
 ![](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Cura%20for%20Capacitors/Step%202%20for%20customize.JPG)
 
-### Step 3
+**Step 3**
 Now that the file is open, there should be two components. These components are the conductive sensing element and the non-conductive base. Select both components by holding *Ctrl* and selecting the components either from the *Object list* in the bottom left or by clicking on their models in the software.
 
-### Step 4
+**Step 4**
 In order to increase the size of the thermal sensor as a whole in one step, these objects must be grouped. To group, once they're selected right click. Navigate to *Group Models* and select to create a group. \
 ![](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Cura%20for%20Capacitors/Grouping%20Models.JPG)
 
-### Step 5
+**Step 5**
 Change the size of the thermal sensor. This can be done by going to the *Scale (S)* option on the left hand menu. Deselect *Uniform Scale* if you want to change the height, width, or thickness seperately. \
 ![](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Cura%20for%20Capacitors/Scale%20Change.JPG)
 
-### Step 6
+**Step 6**
 Slice the design and save under a name of your choice as a `.gcode` file.
 
-### Step 7
+**Step 7**
 Follow steps 1 through 4 from the previous section (Print original Monti provided thermal sensor) to complete the print, changing the file names there for the ones chosen by you.
