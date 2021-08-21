@@ -19,7 +19,7 @@ Since the thermal sensor requires high resolution and precision, it is recommend
 Navigate to files to find `temp_4T_sensing_and_elem.gcode` and `temp_4T_sensing_and_elem.3mf`.
 **Step 3**
 Communicate files to the printer. Ultimaker allows for communication over LAN or USB.
-#### For LAN communication
+*For LAN communication*
 1. Connect Ultimaker 3 to your network via WiFi or ethernet connection.
 - For WiFi, navigate to *SYSTEM* menu and select. Then choose *NETWORK*, followed by *Run WiFi* and follow on-screen instructions.
 - For Ethernet, connect an ethernet cable into the LAN port located on the rear of the printer.
@@ -33,7 +33,7 @@ Communicate files to the printer. Ultimaker allows for communication over LAN or
 
 8. Select *Print over network* to print.
 
-#### For USB communication
+*For USB communication*
 1. Find USB intended for use and insert into USB port on the user's computer
 2. Copy `temp_4T_sensing_and_elem.gcode` to the USB
 3. Navigate to USB, right-click on its name, and select eject. 
