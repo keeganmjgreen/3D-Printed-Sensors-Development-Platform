@@ -49,7 +49,7 @@ These **product manual elements** are those which are the most important and rel
    Test-and-Calibrate-Thermal-Sensor.md
    Preparing-Capacitor-In-Cura.md
    Test-and-Calibrate-Capacitor.md
-   Troubleshooting-Guide.md
-   Frequently-Asked-Questions.md
    calibrating_accelerometer.md
    printing_tumble_test.md
+   Troubleshooting-Guide.md
+   Frequently-Asked-Questions.md
