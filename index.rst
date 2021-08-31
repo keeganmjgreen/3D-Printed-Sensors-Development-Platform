@@ -35,10 +35,11 @@ These **product manual elements** are those which are the most important and rel
    Introduction.md
    Overview.md
    Equipment-and-Materials.md
+   Example-Process-Flow.md
    Creating-and-Modifying-Mask-Layouts-for-Sensor-Designs.md
    Tips-for-Optionally-Using-SolidWorks-to-Build-Upon-Sensor-Designs.md
    Using-SolidWorks-to-Customize-Your-Force-Sensor.md
-   Example-Process-Flow.md
+   Pithon-Accelerometer.md
    Using-Conductive-Paint.md
    Preparing-Electrical-Contacts.md
    2-Terminal-Sensing-for-Real-Time-Data-Logging-Using-a-Microcontroller.md
