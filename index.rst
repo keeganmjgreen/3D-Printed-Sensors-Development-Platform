@@ -45,6 +45,7 @@ These **product manual elements** are those which are the most important and rel
    2-Terminal-Sensing-for-Real-Time-Data-Logging-Using-a-Microcontroller.md
    4-Terminal-Sensing-for-Real-Time-Data-Logging-Using-a-Microcontroller.md
    Calibrating-Your-Force-Sensor.md
+   Pithon-Software.md
    Microcontroller-Based-Analog-Data-Logger-Interface.md
    Preparing-Thermal-Sensor-In-Cura.md
    Test-and-Calibrate-Thermal-Sensor.md
