@@ -1,3 +1,7 @@
+This page is no longer pertinent but remains searchable.
+
+----
+
 # Example Data Sheets #
 
 This document will serve as a compendium of sensor and evaluation boards Data Sheets and User Manuals. 
