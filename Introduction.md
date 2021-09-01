@@ -1,3 +1,7 @@
+[Download as PDF](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/main/pdf/Introduction.pdf)
+
+----
+
 # Copyright #
 
 &copy; Monti 3D Printing Solutions. All rights reserved. This manual may not be reproduced in whole or in part, by any means, without written permission from Monti 3D Printing Solutions.
@@ -78,3 +82,5 @@ Laboratory-grade power sources can generate power sufficient to cause electrocut
 ​ \
 When applying a larger power, above Pithon's rated voltage and current limits, the sensor may self-heat to high temperatures. Do not handle or touch any part of the Pithon sensor when applying a high voltage or current. \
 ​
+
+----
