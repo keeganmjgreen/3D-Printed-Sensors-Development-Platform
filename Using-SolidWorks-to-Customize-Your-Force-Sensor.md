@@ -1,3 +1,7 @@
+[Download as PDF](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/main/pdf/Using-SolidWorks-to-Customize-Your-Force-Sensor.pdf)
+
+----
+
 # Using SolidWorks to Customize Your Force Sensor
 
 SolidWorks is a common CAD (computer-aided design) program. We used it to develop our sensor designs. If you have SolidWorks 2019 or later, you can use it to customize them if necessary to meet the needs of your precise application.
@@ -274,3 +278,5 @@ Before you can load the components of your 3D model into your 3D printing softwa
         You can use other file types with similar purposes (e.g., STEP/STP) to your liking, given that they can also be imported into your 3D printing software.
     
  3. Confirm the generated triangular stereolithography mesh as previewed to save the export file.
+
+----
