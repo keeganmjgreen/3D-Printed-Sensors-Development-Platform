@@ -32,3 +32,5 @@ Seal the bag so that no air can enter or exit the bag. This can be assisted by t
 Measure the reading from the sensor once again. This new measurement should be at 75% RH where as the original was at around 40% RH (depending on your room's climate). Using these two points, the values can be cross-referenced with the calibration curve and create its own personal calibration curve to use.
 
 At this point, the calibration settings can be input into the software to have your measurements return data with respect to the sensor.
+
+----
