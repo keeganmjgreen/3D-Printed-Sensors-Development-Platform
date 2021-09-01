@@ -28,12 +28,12 @@
    Calibrating-Your-Force-Sensor.md
    Pithon-Software.md
    Microcontroller-Based-Analog-Data-Logger-Interface.md
+   calibrating_accelerometer.md
+   printing_tumble_test.md
    Preparing-Thermal-Sensor-In-Cura.md
    Test-and-Calibrate-Thermal-Sensor.md
    Preparing-Capacitor-In-Cura.md
    Test-and-Calibrate-Capacitor.md
-   calibrating_accelerometer.md
-   printing_tumble_test.md
    Troubleshooting-Guide.md
    Frequently-Asked-Questions.md
 
