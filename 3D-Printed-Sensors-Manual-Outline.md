@@ -62,5 +62,3 @@
  -  Plenty of whitespace
  -  Subtle aesthetics
  -  Back cover page
-
-----
