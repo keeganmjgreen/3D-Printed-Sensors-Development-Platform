@@ -1,3 +1,7 @@
+[Download as PDF](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/main/pdf/Frequently-Asked-Questions.pdf)
+
+----
+
 # Frequently Asked Questions #
 
 1. **What 3D printer do you recommend using?**
@@ -25,3 +29,5 @@
 6. **What are typical capacitance values of Pithon sensors?**
 
     The capacitance values of Pithon capacitors depend on both the conductive filament and structural filament used. Using [Proto-pasta Electrically Conductive Composite PLA](https://www.proto-pasta.com/products/conductive-pla) and [Ultimaker Silver Metallic PLA](https://www.voxelfactory.com/products/ultimaker-silver-metallic-pla-2-85mm-750g), we produce 1 cm × 1 cm capacitors with an average capacitance of 12 pF. Doubling the area of the capacitor should lead to a four-fold increase in capacitance.
+
+----
