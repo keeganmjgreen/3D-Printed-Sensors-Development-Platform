@@ -1,3 +1,7 @@
+[Download as PDF](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/main/pdf/Overview.pdf)
+
+----
+
 # About This Manual #
 
 This manual describes every aspect of the Pithon platform including how to customize, print, calibrate and use Pithon sensors. The manual starts with an overview of Pithon sensors. Next, the process of 3D printing sensors will be described, emphasizing strategies for improving reliability and consistency of printed sensors. Tools and resources for customizing sensors to your unique application will then be presented. Finally, calibration methods are provided to ensure that printed sensors are delivering reliable results. 
@@ -24,3 +28,5 @@ Our force sensor is a comprehensive design, automatically correcting force measu
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/Accelerometer-Design.png" alt="Notice" style="zoom:25%;" />
 
 Pithon's accelerometer is similar in design to our force sensor. Users have the option of installing a metal ball in the accelerometer to improve its sensitivity. The ball is installed in a single-step process by pressing the ball into its corresponding hole. Monti 3D Printing Solutions is actively characterizing the performance of our accelerometers and will update this description with performance characteristics shortly.   
+
+----
