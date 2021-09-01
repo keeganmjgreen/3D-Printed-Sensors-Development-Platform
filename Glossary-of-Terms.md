@@ -1,3 +1,7 @@
+[Download as PDF](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/main/pdf/Glossary-of-Terms.pdf)
+
+----
+
 # Glossary of Terms #
 
 An **Analog Signal** is a continuously-valued signal. In other words, an analog signal is any signal that can take any value between the signal's minimum and maximum value.
@@ -27,3 +31,5 @@ A **Proof Mass** is a weight of known mass used in measurement equipment. Accele
 A **Sensing Element** is any electrically conductive element that can be used to measure a specific mechanical or environmental property, such as force or temperature.
 
 **Sensitivity**, when used to describe a sensor, is the ratio of an output signal of a sensor and the measured property. In other words, a more sensitive force sensor has a larger change in resistance for a given applied force. More sensitive sensors can readily detect smaller changes in the measured property (for example, force) than a less sensitive one. 
+
+----
