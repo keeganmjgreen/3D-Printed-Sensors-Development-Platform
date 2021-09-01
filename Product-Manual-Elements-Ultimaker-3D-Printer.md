@@ -1,3 +1,7 @@
+This page is no longer pertinent but remains searchable.
+
+----
+
 # Product Manual Elements: [Ultimaker](https://ultimaker.com/) 3D Printer
 
 [*Ultimaker 3* PDF manual](https://support.ultimaker.com/hc/en-us/article_attachments/360010836740/Ultimaker_3_manual__En_.pdf)
