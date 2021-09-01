@@ -1,3 +1,7 @@
+This page is no longer pertinent but remains searchable.
+
+----
+
 # Markdown Tutorial #
 
 This page is a compilation of resources for learning the Markdown language.
