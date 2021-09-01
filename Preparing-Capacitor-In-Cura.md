@@ -72,3 +72,5 @@ Slice the design and save under a name of your choice as a `.gcode` file.
 
 **Step 7**
 Follow steps 1 through 4 from the previous section (Print original Monti provided sensor) to complete the print, changing the file names there for the ones chosen by you. 
+
+----
