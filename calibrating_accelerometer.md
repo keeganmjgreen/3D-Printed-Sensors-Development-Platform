@@ -56,3 +56,5 @@ Record the resistance output by the accelerometer the accelerometer output as E0
 Record the resistance output by the accelerometer the accelerometer output as E180.
 6. Plot the resistance against the angle to generate the characteristics of your accelerometer as it is rotated
 7. Plot the normalized resistance against the angle.
+
+----
