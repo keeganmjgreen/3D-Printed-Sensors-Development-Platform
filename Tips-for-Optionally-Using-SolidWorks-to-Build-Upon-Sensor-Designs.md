@@ -1,3 +1,7 @@
+[Download as PDF](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/main/pdf/Tips-for-Optionally-Using-SolidWorks-to-Build-Upon-Sensor-Designs.pdf)
+
+----
+
 # Tips for Optionally Using *SolidWorks* to Build Upon Sensor Designs
 
 Use our sensor designs in SolidWorks at least as a starting point.
@@ -56,3 +60,5 @@ Use our sensor designs in SolidWorks at least as a starting point.
 ## Resources
 
  -  [SolidWorks Help](https://help.solidworks.com/2021/English/SolidWorks/sldworks/r_welcome_sw_online_help.htm)
+
+----
