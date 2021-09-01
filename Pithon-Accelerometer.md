@@ -25,3 +25,5 @@ A Pithon accelerometer configuration for calibrated use is illustrated below, wh
 14.	Terminals for two-terminal sensing, which may also be used as current-forcing terminals for four-terminal sensing. They have large contact pads (black) for probe tips or applied conductive paint/epoxy (silver).
 15.	A shared terminal for two-terminal sensing, which may also be used as a shared current-forcing terminal for four-terminal sensing. It has a large contact pad (black) for probe tips or applied conductive paint/epoxy (silver).
 16.	Wire leads embedded in conductive paint/epoxy.
+
+----
