@@ -1,3 +1,7 @@
+[Download as PDF](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/main/pdf/4-Terminal-Sensing-for-Real-Time-Data-Logging-Using-a-Microcontroller.pdf)
+
+----
+
 # 4-Terminal Sensing for Real-Time Data Logging Using a Microcontroller
 
 4-terminal sensing is slightly more complicated to set up than 2-terminal sensing and less compact in implementation. However, it is more consistent between sensors and more repeatable for a given sensor. It virtually eliminates the effect of contact resistance and other input resistances on the measurement of a resistive sensing element.
@@ -154,3 +158,5 @@ If you are using the Arduino *Serial Monitor*, append the following code.
 In either case, set the *baud rate* to "9600 baud" to match the Arduino code and the *line ending* to "Both NL & CR" beforehand.
 
 The Arduino serial plotter and monitor cannot be used simultaneously.
+
+----
