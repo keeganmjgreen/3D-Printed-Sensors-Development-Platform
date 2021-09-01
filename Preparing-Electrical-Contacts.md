@@ -46,3 +46,5 @@
    ​
    
 6. Let the conductive paint dry at room temperature for 12 hours or as per instructions provided by the conductive paint manufacturer.
+
+----
