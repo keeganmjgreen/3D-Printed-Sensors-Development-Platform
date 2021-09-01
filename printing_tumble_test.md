@@ -9,3 +9,5 @@ The *4-point tumbling test* is performed using a dividing head to rotate the acc
 
 - The rods should be printed on their side and are otherwise prone to following over during the print.
 - The print requires two threaded bolts, scaled to the size of the inner diameter of the largest bevel gear, and the dial.
+
+----
