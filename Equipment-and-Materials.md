@@ -1,3 +1,7 @@
+[Download as PDF](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/main/pdf/Equipment-and-Materials.pdf)
+
+----
+
 # Equipment and Materials
     
  -  A [3D printer](https://www.digikey.com/en/products/filter/3d-printers/943?s=N4IgTCBcDaIMwBMAEAHATgSwHYBcQF0BfIA).
@@ -63,3 +67,5 @@
  -  Optional: [*ScotchBlue*](https://www.scotchblue.com/3M/en_US/scotchblue/) or similar tape, to form a layer on the *print bed* for making prints stick to it better during fabrication, while making it easier to remove afterward.
 
 \* We do not endorse or represent Ultimaker or any of the other brands named in this documentation.
+
+----
