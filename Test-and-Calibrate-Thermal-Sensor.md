@@ -45,3 +45,5 @@ NOTICE: Increasing the temperature higher than 50 degrees Celsius may cause perm
 Export both data and correspond temperature and resistances with respect to time. Input these values into the software. If you measured temperature by hand, only enter values in at every 60 second mark. If you measured resistance by hand, do the same for that. The software will then create the calibration curve.
 
 At this point, the custom sensor you have designed has been calibrated and is ready for use.
+
+----
