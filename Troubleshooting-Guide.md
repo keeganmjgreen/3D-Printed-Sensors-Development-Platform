@@ -1,3 +1,7 @@
+[Download as PDF](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/main/pdf/Troubleshooting-Guide.pdf)
+
+----
+
 # Troubleshooting Guide #
 
 **Conductive filament is not extruding.**
@@ -24,3 +28,5 @@ The most common cause of poor print quality when working with conductive filamen
 **My capacitor has no measurable capacitance.**
 
 The most likely issue is that the capacitor is shorted. Using a standard multimeter, measure the resistance across the capacitor. The measured resistance should be 'OL' for overload or in the megaohm (MΩ) range. If the resistance is lower, the capacitor is shorted. Try improving the print quality of your 3D printer by following the suggestion provided above in Troubleshooting Guide: 'The print quality of my sensor is poor'. Attempt to print the capacitor again. A properly functioning 3D printer should not produce shorted capacitors.
+
+----
