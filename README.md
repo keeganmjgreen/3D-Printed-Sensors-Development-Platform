@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/repository-open-graph-template.png)
+![](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/repository-open-graph-template.jpg)
 
 ----
 
