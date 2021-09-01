@@ -1,3 +1,7 @@
+This page is no longer pertinent but remains searchable.
+
+----
+
 # Product Manual Elements: [Arduino Language Reference](https://www.arduino.cc/reference/en/)
 
 **Note:** Title case italics indicate the names of chapters, sections, pages, and headings (all unnumbered).
