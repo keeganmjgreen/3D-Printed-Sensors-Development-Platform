@@ -1,3 +1,7 @@
+[Download as PDF](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/main/pdf/Example-Process-Flow.pdf)
+
+----
+
 # Example Process Flow
 
 This section further explores the Pithon platform for 3D printed sensors. \
@@ -129,3 +133,5 @@ The following is a modified version of the Pithon implementation in the example 
 The following is a modified version of the Pithon implementation in the example process flow. Its cavity has tapered walls to support subsequent layers, leaving potential for printing without a support structure. The top face of the enclosing structure is hidden is transparent to better show the cavity walls.
 
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Example-Process-Flow/platform_2%20with%20Tapered%20Cavity%20Walls.png" alt="" style="zoom:100%;" />
+
+----
