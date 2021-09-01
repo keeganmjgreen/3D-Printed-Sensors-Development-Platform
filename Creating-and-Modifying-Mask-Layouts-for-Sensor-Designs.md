@@ -1,3 +1,7 @@
+[Download as PDF](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/main/pdf/Creating-and-Modifying-Mask-Layouts-for-Sensor-Designs.pdf)
+
+----
+
 # Creating and Modifying 'Mask Layouts' for Sensor Designs
 
 Please refer to the 'mask layouts' of our sensor designs as a starting point. They have been provided as image templates.
@@ -37,3 +41,5 @@ Tip: Use named image layers (as analogous to *SolidWorks* features). For example
 
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Creating-and-Modifying-Mask-Layouts-for-Sensor-Designs/Figure%20(6).png" style="zoom:50%;" /> \
     ​
+
+----
