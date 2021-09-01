@@ -1,3 +1,7 @@
+This page is no longer pertinent but remains searchable.
+
+----
+
 # 3D Printed Sensors Manual Outline
 
 ----
