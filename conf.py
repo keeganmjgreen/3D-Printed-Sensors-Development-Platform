@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = '3D Printed Sensors Manual Demo'
+project = '3D Printed Sensors Development Platform'
 copyright = '2021, Monti 3D Printing Solutions'
 author = 'Monti 3D Printing Solutions'
 
