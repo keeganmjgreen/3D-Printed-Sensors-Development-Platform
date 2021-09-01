@@ -1,3 +1,7 @@
+[Download as PDF](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/main/pdf/Using-Conductive-Paint.pdf)
+
+----
+
 # Using Conductive Paint
 
 [Conductive paint](https://www.digikey.com/en/products/filter/coating-grease-repair/642?s=N4IgjCBcoKxaBjKAzAhgGwM4FMA0IB7KAbRAGYyAmAdgE4AWEAXXwAcAXKEAZXYCcAlgDsA5iAC%2B%2BMAA4y8EEkhoseQiXKyyANmnM2nSD37CxkkNWoRoClBhz4ikUvQAMtaWDn5X7yoxYgHFy8gqIS%2BAC0lPKK-ACuqo6kcExmEXLWsXwJDupgLsziRUA) comes in 5--10-gram syringes.
@@ -43,3 +47,5 @@ Do all of the following over a lab sink. Do not wait long between steps to preve
     <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ANSI_Caution_Header_-_1998.svg" alt="Caution" style="zoom:25%;" />
     
     **Caution:** Be extremely careful not to spray up water contaminated with conductive paint, especially toward yourself. Failure to do so may result in conductive paint in your eyes or on your skin.
+
+----
