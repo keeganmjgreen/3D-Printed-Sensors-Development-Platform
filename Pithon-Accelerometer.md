@@ -16,6 +16,11 @@ The uniaxial Pithon accelerometer operates on a piezoresistive sensing mechanism
 10.	The current-forcing and voltage-sensing terminals for four-terminal sensing, either type of which may also be used for ordinary two-terminal sensing. They have large electrical contact pads (black) for probe tips or crocodile clips.
 11.	Slots for crocodile clips.
 
+ -  [SolidWorks part (SLDPRT) file](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/main/Development-Kit/Pithon%20Force%20Sensor,%20Accelerometer/mid_str_4T_sensing_and_elem.SLDPRT)
+ -  [Stereolithography (STL) file -- accelerometer body](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/main/Development-Kit/Pithon%20Force%20Sensor,%20Accelerometer/mid_str_4T_sensing.SLDPRT) \
+    [Stereolithography (STL) file -- conductive traces](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/main/Development-Kit/Pithon%20Force%20Sensor,%20Accelerometer/mid_str_4T_sensing_elem.SLDPRT)
+ -  [Cura project file / 3D Manufacturing Format (3MF)](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/main/Development-Kit/Pithon%20Force%20Sensor,%20Accelerometer/mid_str_4T_sensing_and_elem.3mf)
+
 A Pithon accelerometer configuration for calibrated use is illustrated below, where continued numbering corresponds to the design features thereafter that stand out from above.
 
 ![](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Pithon-Accelerometer/mid_str_4T_sensing_1_and_elem-Render.svg)
@@ -25,5 +30,10 @@ A Pithon accelerometer configuration for calibrated use is illustrated below, wh
 14.	Terminals for two-terminal sensing, which may also be used as current-forcing terminals for four-terminal sensing. They have large contact pads (black) for probe tips or applied conductive paint/epoxy (silver).
 15.	A shared terminal for two-terminal sensing, which may also be used as a shared current-forcing terminal for four-terminal sensing. It has a large contact pad (black) for probe tips or applied conductive paint/epoxy (silver).
 16.	Wire leads embedded in conductive paint/epoxy.
+
+ -  [SolidWorks part (SLDPRT) file](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/main/Development-Kit/Pithon%20Force%20Sensor,%20Accelerometer/mid_str_4T_sensing_1_and_elem.SLDPRT)
+ -  [Stereolithography (STL) file -- accelerometer body](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/main/Development-Kit/Pithon%20Force%20Sensor,%20Accelerometer/mid_str_4T_sensing_1.SLDPRT) \
+    [Stereolithography (STL) file -- conductive traces](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/main/Development-Kit/Pithon%20Force%20Sensor,%20Accelerometer/mid_str_4T_sensing_1_elem.SLDPRT)
+ -  [Cura project file / 3D Manufacturing Format (3MF)](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/main/Development-Kit/Pithon%20Force%20Sensor,%20Accelerometer/mid_str_4T_sensing_1_and_elem.3mf)
 
 ----
