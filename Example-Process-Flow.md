@@ -73,7 +73,9 @@ This is your embedded accelerometer:
 
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Example-Process-Flow/Figure%20(9).png" alt="Embedded Accelerometer" style="zoom:50%;" />
 
-When the whole part speeds up or slows down, its cantilever beam bends up or down depending on the direction and amount of the acceleration it experiences. The material making up the top half of the beam gets compressed or stretched, especially at its base and on its surface. This is why two strategically sized notches are placed in the base as shown. They 'concentrate' its mechanical stress toward its sensing element, which is at the beam surface. This makes it more sensitive to acceleration. \
+When the whole part speeds up or slows down, its cantilever beam bends up or down depending on the direction and amount of the acceleration it experiences. The material making up the top half of the beam gets compressed or stretched, especially at its base and on its surface. This is why two strategically sized notches are placed in the base as shown. They 'concentrate' its mechanical stress toward its sensing element, which is at the beam surface. This makes it more sensitive to acceleration.
+
+The accelerometer may also be calibrated as a force sensor or magnetic field sensor under certain conditions (see end of section [**Pithon Accelerometer**](https://3d-printed-sensors-development-platform.readthedocs.io/en/latest/Pithon-Accelerometer.html)). \
 ​
 
 This is your accelerometer's primary set of conductive traces:
