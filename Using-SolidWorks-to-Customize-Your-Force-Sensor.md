@@ -4,9 +4,9 @@
 
 # Using SolidWorks to Customize Your Force Sensor
 
-SolidWorks is a common CAD (computer-aided design) program. We used it to develop our sensor designs. If you have SolidWorks 2019 or later, you can use it to customize them if necessary to meet the needs of your precise application.
+SolidWorks is a common CAD (computer-aided design) program with which Pithon sensors were developed. If you have SolidWorks 2019 or later, you can use it to customize them if necessary to meet the needs of your precise application.
 
-Open `mid_str_4T_sensing_and_elem.SLDPRT`. This SolidWorks part file contains the base and cantilever beam of the force sensor as one component, and the conductive traces of the force sensor (including its sensing element and electrical terminals / contact pads) as another.
+Open [`mid_str_4T_sensing_and_elem.SLDPRT`](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/main/Development-Kit/Pithon%20Force%20Sensor,%20Accelerometer/mid_str_4T_sensing_and_elem.SLDPRT). This SolidWorks part file contains the base and cantilever beam of the force sensor as one component, and the conductive traces of the force sensor (including its sensing element and electrical terminals / contact pads) as another.
 
 ## Customize
 
@@ -83,6 +83,8 @@ Remember that this modification will change the bounding volume of the sensor.
     
     <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Using-SolidWorks-to-Customize-Your-Force-Sensor/Exit-Sketch.png" style="zoom:50%;" /> \
     ​
+
+Do this to vary the width of the force-sensitive area toward the free end.
 
 **04. To adjust the thickness of the cantilever beam (and consequently shift the cantilever base by the same amount)...**
 
