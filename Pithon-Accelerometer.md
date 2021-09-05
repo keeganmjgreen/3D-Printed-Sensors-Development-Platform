@@ -40,4 +40,6 @@ A Pithon accelerometer configuration for calibrated use is illustrated below, wh
     [Stereolithography (STL) file -- conductive traces](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/main/Development-Kit/Pithon%20Force%20Sensor,%20Accelerometer/mid_str_4T_sensing_1_elem.SLDPRT)
  -  [Cura project file / 3D Manufacturing Format (3MF)](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/main/Development-Kit/Pithon%20Force%20Sensor,%20Accelerometer/mid_str_4T_sensing_1_and_elem.3mf)
 
+The accelerometer may also be calibrated as a force sensor without its proof mass or when stationary along its vertical axis (and not in the presence of a magnetic field on the metallic mass), or as a single-axis magnetic field sensor when moving freely and stationary along its vertical axis.
+
 ----
