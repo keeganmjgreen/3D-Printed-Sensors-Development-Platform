@@ -4,6 +4,8 @@
 
 # Example Process Flow
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nedxR-Wya6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 This section further explores the Pithon platform for 3D printed sensors. \
 ​ \
 How do implementations of the Pithon platform get made? How will you produce 3D printed sensors for yourself? What does the process look like? To answer these questions, we will walk through an example process flow. \
