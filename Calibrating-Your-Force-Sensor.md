@@ -48,6 +48,10 @@ $\uparrow$ A test rig of a force sensor that has a 1-mm cantilever beam and no r
 
 ## Instructions
 
+| Note |
+|:-|
+| Many of the following tasks are no longer necessary or now semi-automated using the [Pithon software](https://3d-printed-sensors-development-platform.readthedocs.io/en/latest/Pithon-Software.html) for calibration data collection, preparation, and processing. |
+
  1. Mount your clamp/vice on a table as shown above.
     
  2. Clamp onto your force sensor's cantilever base without the conductive traces being touched as shown above. Leave room for your crocodile clips if you are using them, room for the cantilever beam to bend downward, and room to suspend your weights from the cantilever beam's free end.
