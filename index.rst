@@ -17,6 +17,7 @@
    Overview.md
    Equipment-and-Materials.md
    Example-Process-Flow.md
+   Development-Kit.md
    Creating-and-Modifying-Mask-Layouts-for-Sensor-Designs.md
    Tips-for-Optionally-Using-SolidWorks-to-Build-Upon-Sensor-Designs.md
    Using-SolidWorks-to-Customize-Your-Force-Sensor.md
