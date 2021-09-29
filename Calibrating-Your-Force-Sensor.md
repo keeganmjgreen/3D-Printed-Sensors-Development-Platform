@@ -8,6 +8,8 @@
 
 # Calibrating Your Force Sensor
 
+The Pithon strain gauge / force sensor is calibrated for use by applying known weights to it and measuring its response in order to work backward from it. The weights are applied in an incremental, random, and/or cyclic loading profile over calibration time. A cyclic loading profile characterizes sensor behavior in terms of loading/unloading hysteresis, and a random loading profile minimizes the resulting effects.
+
 ## Materials and Preparation
 
  -  An untested force sensor with the following defaults from `mid_str_4T_sensing_and_elem.SLDPRT`.
