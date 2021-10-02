@@ -2,7 +2,7 @@
 
 The uniaxial Pithon accelerometer operates on a piezoresistive sensing mechanism. The device comes in multiple combinations of design features. As printed, one such configuration for standalone testing and evaluation purposes is illustrated below, where numbering corresponds to the design features detailed thereafter.
 
-![](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Pithon-Accelerometer/mid_str_4T_sensing_and_elem-Render.svg)
+![](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/main/img/Pithon-Accelerometer/mid_str_4T_sensing_and_elem-Render.svg)
 
  1. A relatively large cantilever base, which may be easily clamped in a vice for calibration.
  2. Cantilever beam.
@@ -25,7 +25,7 @@ The uniaxial Pithon accelerometer operates on a piezoresistive sensing mechanism
 
 A Pithon accelerometer configuration for calibrated use is illustrated below, where continued numbering corresponds to the design features thereafter that stand out from above.
 
-![](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Pithon-Accelerometer/mid_str_4T_sensing_1_and_elem-Render.svg)
+![](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/main/img/Pithon-Accelerometer/mid_str_4T_sensing_1_and_elem-Render.svg)
 
 12.	A more compact cantilever base for a shorter print time, reduced material consumption, and more convenient implementation within designs.
 13.	Voltage-sensing terminals for four-terminal sensing, which may also be used for two-terminal sensing. They have compact contact pads (black) made for probe tips.

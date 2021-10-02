@@ -14,7 +14,7 @@ The Pithon strain gauge / force sensor is calibrated for use by applying known w
 
  -  An untested force sensor with the following defaults from `mid_str_4T_sensing_and_elem.SLDPRT`.
     
-    <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Calibrating-Your-Force-Sensor/mid_str_4T_sensing.png" style="zoom:50%;" /> 
+    <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/main/img/Calibrating-Your-Force-Sensor/mid_str_4T_sensing.png" style="zoom:50%;" /> 
     
      -  A hole close to the end of the cantilever beam ("Free End Hole" in the SolidWorks part) from which to suspend known weights
         
@@ -42,7 +42,7 @@ The Pithon strain gauge / force sensor is calibrated for use by applying known w
  -  A laboratory weight set or similar \
     ​
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Calibrating-Your-Force-Sensor/Strain-Test-Rig.jpg" style="zoom:33%;" /> 
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/main/img/Calibrating-Your-Force-Sensor/Strain-Test-Rig.jpg" style="zoom:33%;" /> 
 
 $\uparrow$ A test rig of a force sensor that has a 1-mm cantilever beam and no reference set of conductive traces. Also shown are its crocodile clips, table clamp, and known weights in a pouch suspended by a wire from the cantilever beam's free end hole.
 
@@ -166,6 +166,6 @@ $\uparrow$ A test rig of a force sensor that has a 1-mm cantilever beam and no r
     |             0.40 |            3931.75 |
     
 20. Plot resistance against force. For example... \
-    <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Calibrating-Your-Force-Sensor/Force-Sensor-Calibration-Curve.png" alt="Force Sensor Calibration Curve in Resistance [Ω] vs. Force [N]" style="zoom:50%;" /> 
+    <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/main/img/Calibrating-Your-Force-Sensor/Force-Sensor-Calibration-Curve.png" alt="Force Sensor Calibration Curve in Resistance [Ω] vs. Force [N]" style="zoom:50%;" /> 
 
 ----

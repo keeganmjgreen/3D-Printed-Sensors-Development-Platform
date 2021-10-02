@@ -5,8 +5,8 @@ In order to calibrate a thermal sensor with the Pithon package, it depends on ho
 With Monti's initial design, the characteristic curve from sensor to sensor is nearly identical. To save the user the time and challenge of taking the data points for a calibration curve, with Monti's sensor only a baseline value must be input. To accomplish this, follow the steps below.
 
 **Step 1**
-Connect your 4-point temperature sensor to the Arduino microcontroller as described in [4-Terminal Sensing For Real Time Data Logging](https://github.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/blob/main/4-Terminal-Sensing-for-Real-Time-Data-Logging-Using-a-Microcontroller.md). If you are using a source/measurement unit (SMU) rather than an Arduino, apply force and sense connections as shown.
-![](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Cura%20for%20Capacitors/4-point%20pinout.JPG)
+Connect your 4-point temperature sensor to the Arduino microcontroller as described in [4-Terminal Sensing For Real Time Data Logging](https://github.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/blob/main/4-Terminal-Sensing-for-Real-Time-Data-Logging-Using-a-Microcontroller.md). If you are using a source/measurement unit (SMU) rather than an Arduino, apply force and sense connections as shown.
+![](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/main/img/Cura%20for%20Capacitors/4-point%20pinout.JPG)
 
 **Step 2**
 Open the Monti signal processing and calibration software.
@@ -23,7 +23,7 @@ At this point, the original Monti thermal sensor is calibrated and ready for use
 When creating a brand new thermal sensor design, the sensor's distinct calibration curve. In order to do this, an oven or environmental chamber will be required to calibrate the best curve.
 
 **Step 1**
-Follow the same step as you would when calibrating the original Monti sensor. With a 2-pont sensor, follow the setup described at [2-Terminal Sensing for Real-Time Data Logging Using a Microcontroller](https://github.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/blob/main/2-Terminal-Sensing-for-Real-Time-Data-Logging-Using-a-Microcontroller.md).
+Follow the same step as you would when calibrating the original Monti sensor. With a 2-pont sensor, follow the setup described at [2-Terminal Sensing for Real-Time Data Logging Using a Microcontroller](https://github.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/blob/main/2-Terminal-Sensing-for-Real-Time-Data-Logging-Using-a-Microcontroller.md).
 
 **Step 2**
 Place the sensor in the oven or environmental chamber. At this point, make sure that there is some way to monitor temperatuer in the chamber.
@@ -31,13 +31,13 @@ Place the sensor in the oven or environmental chamber. At this point, make sure 
 **Step 3**
 Begin logging data and increase the temperature of the chamber.
 
-![](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/c19642ca181b20fe722775690fba786da6298c33/img/Safety/ANSI_Caution_Header_-_1998.svg)
+![](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/c19642ca181b20fe722775690fba786da6298c33/img/Safety/ANSI_Caution_Header_-_1998.svg)
 
 *Caution*: Your heating chamber can become very hot. Exercise caution when dealing with hot devices.
 
 If your heating chamber does not log temperature over time, make sure to make note of the temperature at every minute with the help of a timing device. If your measurement device doesn't log resistance over time, also take note of the resistances every minute. Continue the test until the temperature stabilizes at 50 degrees Celsius. 
 
-![](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/c19642ca181b20fe722775690fba786da6298c33/img/Safety/ANSI_Notice_Header_-_1998.svg)
+![](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/c19642ca181b20fe722775690fba786da6298c33/img/Safety/ANSI_Notice_Header_-_1998.svg)
 
 NOTICE: Increasing the temperature higher than 50 degrees Celsius may cause permanent damage to the sensor
 

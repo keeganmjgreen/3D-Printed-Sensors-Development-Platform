@@ -29,7 +29,7 @@ Communicate files to the printer. Ultimaker allows for communication over LAN or
 5. Select the printer you hope to use and select *Connect*.
 6. Load `UM3E_Parallel Plate Cap C3-2 (1cmx1cm).mf` as an Ultimaker project.
 7. Slice print by selecting *Slice* in a blue bar in the bottom right of the screen. \
-![](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Cura%20for%20Capacitors/Slice.JPG)
+![](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/main/img/Cura%20for%20Capacitors/Slice.JPG)
 
 8. Select *Print over network* to print.
 
@@ -37,7 +37,7 @@ Communicate files to the printer. Ultimaker allows for communication over LAN or
 1. Find USB intended for use and insert into USB port on the user's computer
 2. Copy `UM3E_Parallel Plate Cap C3-2 (1cmx1cm).gcode` to the USB
 3. Navigate to USB, right-click on its name, and select eject. 
-![](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Safety/ANSI_Notice_Header_-_1998.svg)
+![](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/main/img/Safety/ANSI_Notice_Header_-_1998.svg)
 NOTICE: Do not remove USB before selecting eject as this may cause corruption of files.
 4. Once it is indicated that the USB is safe to remove, remove it from the computer.
 5. Insert USB into USB port on the front of the Ultimaker 3. Turn on the printer of you haven't done so already.
@@ -52,18 +52,18 @@ Navigate files to find `UM3E_Parallel Plate Cap C3-2 (1cmx1cm).mf`.
 
 **Step 2**
 Open Ultimaker Cura and open the file from Step 1. This can be accomplished by going to *File* in the top menu, then *Open File(s)* and find the file. \
-![](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Cura%20for%20Capacitors/Step%202%20for%20customize.JPG)
+![](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/main/img/Cura%20for%20Capacitors/Step%202%20for%20customize.JPG)
 
 **Step 3**
 Now that the file is open, there should be three components. These components are the bottom plate, dielectric, and top plate from top to bottom. Select one of these three components to customize by choosing it from the *Object list* tab in the bottom left of the screen, or by clicking on the component shape in Cura.
 
 **Step 4**
 Change the size of the plate. This can be done by going to the *Scale (S)* option on the left hand menu. Deselect *Uniform Scale* to change plate surface area and plate thickness individually. \
-![](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Cura%20for%20Capacitors/Scale%20Change.JPG)
+![](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/main/img/Cura%20for%20Capacitors/Scale%20Change.JPG)
 
 **Step 5**
 Change the positioning of the plate. This can be done by going to the *Move (T)* option on the left hand menu. Center all plates at x = 0mm and y = 0mm. For z, keep the bottom plate slightly above the build plate (z = 0.1mm or so). For every plate above the bottom plate, add the thicknesses of plates below it and the 0.1mm gap initially defined. \
-![](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Cura%20for%20Capacitors/Position%20Change.JPG)
+![](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/main/img/Cura%20for%20Capacitors/Position%20Change.JPG)
 
 >Repeat steps 4 and 5 until the desired structure is acheived.
 

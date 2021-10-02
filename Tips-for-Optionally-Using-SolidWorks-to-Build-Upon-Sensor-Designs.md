@@ -19,7 +19,7 @@ Use our sensor designs in SolidWorks at least as a starting point.
     
      -  [Units and Dimension Standard --- SolidWorks Help](http://help.solidworks.com/2021/English/SolidWorks/sldworks/HIDD_UNITS_DIM_STD.htm)
     
-    <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Tips-for-Optionally-Using-SolidWorks-to-Build-Upon-Sensor-Designs/Figure%20(1).png" style="zoom:50%;" /> \
+    <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/main/img/Tips-for-Optionally-Using-SolidWorks-to-Build-Upon-Sensor-Designs/Figure%20(1).png" style="zoom:50%;" /> \
     ​
     
  -  Under *Tools* > *Options* > *Document Properties* > *Grid/Snap* > *Grid*, enable the *Display grid* and *Dash* options. Set the *Major grid spacing* to 1 mm, *Minor-lines per major* to 2 if deemed necessary (1 otherwise), and *Snap points per minor* to 1. Creating and modifying SolidWorks sketches will be easier and faster.
@@ -27,7 +27,7 @@ Use our sensor designs in SolidWorks at least as a starting point.
      -  [Document Properties - Grid/Snap --- SolidWorks Help](https://help.solidworks.com/2021/English/SolidWorks/sldworks/HIDD_OPTIONS_GRID.htm)
      -  [Grid and Snap --- SolidWorks Help](http://help.solidworks.com/2021/English/SolidWorks/acadhelp/c_Grid_and_Snap.htm)
     
-    <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Tips-for-Optionally-Using-SolidWorks-to-Build-Upon-Sensor-Designs/Figure%20(2).png" style="zoom:50%;" /> \
+    <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/main/img/Tips-for-Optionally-Using-SolidWorks-to-Build-Upon-Sensor-Designs/Figure%20(2).png" style="zoom:50%;" /> \
     ​
     
  -  Optionally, insert a 'mask layout' raster image to trace in a SolidWorks sketch using *Tools* > *Sketch Tools* > [*Sketch Picture*](http://help.solidworks.com/2021/English/SolidWorks/sldworks/c_Sketch_Picture.htm). Ensure that the pixel grid lines up with the sketch grid.
@@ -36,18 +36,18 @@ Use our sensor designs in SolidWorks at least as a starting point.
     
  -  As odd as it sounds, do not dimension or constrain sketches where snapping to the grid will suffice. Creating and modifying them will be easier and faster, and they will be simpler and less 'busy'. There are many other ways to set and measure lengths. To delete all constraints in a sketch, whether they are automatically-created or not, select *Sketch* > *Display/Delete Relations* > *Relations* > *Delete All*.
     
-    <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Tips-for-Optionally-Using-SolidWorks-to-Build-Upon-Sensor-Designs/Figure%20(3).png" style="zoom:50%;" /> \
+    <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/main/img/Tips-for-Optionally-Using-SolidWorks-to-Build-Upon-Sensor-Designs/Figure%20(3).png" style="zoom:50%;" /> \
     ​
     
  -  Use *linear sketch patterns*, as under *Sketch*.
     
-    <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Tips-for-Optionally-Using-SolidWorks-to-Build-Upon-Sensor-Designs/Figure%20(4).png" style="zoom:50%;" />
+    <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/main/img/Tips-for-Optionally-Using-SolidWorks-to-Build-Upon-Sensor-Designs/Figure%20(4).png" style="zoom:50%;" />
     
      -  [Creating Linear Sketch Patterns --- SolidWorks Help](http://help.solidworks.com/2021/English/SolidWorks/sldworks/t_Creating_Linear_Sketch_Patterns.htm)
     
  -  Properly name each SolidWorks sketch and feature (e.g., each [extruded boss/base or extruded cut](https://help.solidworks.com/2021/english/solidworks/sldworks/t_creating_an_extrude_feature.htm), [fillet](https://help.solidworks.com/2021/english/SolidWorks/sldworks/t_create_fillets.htm), [chamfer](https://help.solidworks.com/2021/English/SolidWorks/sldworks/t_creating_chamfer_feature.htm), [pattern](http://help.solidworks.com/2021/English/SolidWorks/sldworks/c_Types_of_Patterns_Folder.htm), etc.). For example:
     
-    <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Tips-for-Optionally-Using-SolidWorks-to-Build-Upon-Sensor-Designs/Figure%20(5).png" style="zoom:50%;" /> \
+    <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/main/img/Tips-for-Optionally-Using-SolidWorks-to-Build-Upon-Sensor-Designs/Figure%20(5).png" style="zoom:50%;" /> \
     ​
 
  -  Create parts right-side-up even if they are designed to be printed upside-down against the *build plate*. \

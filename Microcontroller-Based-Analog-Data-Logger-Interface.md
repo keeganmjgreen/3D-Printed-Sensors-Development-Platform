@@ -4,7 +4,7 @@
 
 # Microcontroller-Based Analog Data Logger Interface
 
-We developed a Windows 10 interface in Python for a microcontroller-based analog data logger with a wired connection to a computer. The program may be run directly by launching [`Microcontroller_Based_Analog_Data_Logger_Interface.pyw`](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/Microcontroller_Based_Analog_Data_Logger_Interface.pyw) or, naturally, by executing the following command.
+We developed a Windows 10 interface in Python for a microcontroller-based analog data logger with a wired connection to a computer. The program may be run directly by launching [`Microcontroller_Based_Analog_Data_Logger_Interface.pyw`](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/main/Microcontroller_Based_Analog_Data_Logger_Interface.pyw) or, naturally, by executing the following command.
 
 ```bash
 $ python Microcontroller_Based_Analog_Data_Logger_Interface.pyw
@@ -107,7 +107,7 @@ whichever happens first (that is, whichever the program encounters first):
 ¹ This `break` will not be reached unless the previous line, `ser = Serial(port)`, succeeds.  
 At least in this context, `break` and `pass` specifically mean 'stop trying' and 'skip error handling', respectively.
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Microcontroller-Based-Analog-Data-Logger-Interface/connect.png" style="zoom:50%;" /> 
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/main/img/Microcontroller-Based-Analog-Data-Logger-Interface/connect.png" style="zoom:50%;" /> 
 
 $\uparrow$ The first possible notification.
 
@@ -174,7 +174,7 @@ while True:
 │   │       disconnected_tick = time()
 ```
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Microcontroller-Based-Analog-Data-Logger-Interface/connected.png" style="zoom:50%;" /> 
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/main/img/Microcontroller-Based-Analog-Data-Logger-Interface/connected.png" style="zoom:50%;" /> 
 
 $\uparrow$ The second possible notification.
 
@@ -223,7 +223,7 @@ while True:
 │   │   break
 ```
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Microcontroller-Based-Analog-Data-Logger-Interface/disconnected.png" style="zoom:50%;" /> 
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/main/img/Microcontroller-Based-Analog-Data-Logger-Interface/disconnected.png" style="zoom:50%;" /> 
 
 $\uparrow$ The third possible notification.
 
@@ -286,7 +286,7 @@ fig.update_layout(title = 'Logged Data')
 fig.show()
 ```
 
-<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Microcontroller_Based_Analog_Data_Logger_Interface_Example.png" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/main/img/Microcontroller_Based_Analog_Data_Logger_Interface_Example.png" style="zoom:50%;" />
 
 This marks the end of the program.
 

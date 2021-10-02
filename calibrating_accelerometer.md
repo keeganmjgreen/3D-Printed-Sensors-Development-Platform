@@ -4,7 +4,7 @@ From the force gauge, an accelerometer can be constructed by adding a proof mass
 ## Materials and Preparation
 -  An accelerometer of the following design characteristics. An untested accelerometer with these defaults can be found from `mid_str_4T_sensing_and_elem.SLDPRT`.
     
-    <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/Calibrating-Your-Force-Sensor/mid_str_4T_sensing.png" style="zoom:50%;" /> 
+    <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/main/img/Calibrating-Your-Force-Sensor/mid_str_4T_sensing.png" style="zoom:50%;" /> 
     
     - A known proof mass at to the end of the cantilever beam. A metal ball can be mounted in the proof mass slot to increase the sensitivity of the sensor.
     - A relatively thick cantilever base to avoid unwanted deflection, emulating being embedded into your comparably large parent 3D printed structure. If you would prefer to lessen your print time, the cantilever can be glued to a piece of wood to act as the base.

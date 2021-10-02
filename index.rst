@@ -1,11 +1,11 @@
-.. image:: https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo/main/img/repository-open-graph-template.jpg
+.. image:: https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/main/img/repository-open-graph-template.jpg
 
 ----
 
 3D Printed Sensors Development Platform
 =======================================
 
-`GitHub repository <https://github.com/keeganmjgreen/3D-Printed-Sensors-Manual-Demo>`_
+`GitHub repository <https://github.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform>`_
 
 ----
 
