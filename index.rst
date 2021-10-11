@@ -15,6 +15,7 @@
    Glossary-of-Terms.md
    Introduction.md
    Overview.md
+   Sample-Images.md
    Equipment-and-Materials.md
    Example-Process-Flow.md
    Development-Kit.md
