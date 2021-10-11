@@ -29,7 +29,7 @@ The technical documentation of the microcontroller-based analog data logger inte
 
 Furthermore, Windows interfaces for collecting, preparing, and processing your force sensor calibration data has been developed to assist you in the calibration process. An older version of the calibration process before it was automated can be found [here](https://3d-printed-sensors-development-platform.readthedocs.io/en/latest/Calibrating-Your-Force-Sensor.html).
 
-[**Pithon Data Collection Software**](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/main/Force-Sensor-Calibration-Software/Force-Sensor-Calibration-Data-Collection/Force_Sensor_Calibration_Data_Collection.py)
+[**Pithon Data Collection Software**](https://github.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/tree/main/Force-Sensor-Calibration-Software/Force-Sensor-Calibration-Data-Collection)
 
 Like the above interface, Pithon data collection software also establishes a communication link between your computer and microcontroller. Its main purpose is to assist you thereafter during the hands-on calibration step of collecting your raw sensor data, while recording how it was done for future reference.
 
@@ -38,7 +38,7 @@ $\uparrow$ The command-line interface of Pithon force sensor calibration data co
 
 What this interface does is tedious to do using the Arduino Serial Monitor or similar. Moreover, a technical limitation observed of serial communication with the Arduino limits the stable data transfer speed in this context to a fraction of what it otherwise would be, meaning that so would be the sample rate of the sensor response. The highest possible/stable sample rate is desired to compensate for measurement noise.
 
-[**Pithon Data Preparation Software**](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/main/Force-Sensor-Calibration-Software/Force-Sensor-Calibration-Data-Preparation/Force_Sensor_Calibration_Data_Preparation.py)
+[**Pithon Data Preparation Software**](https://github.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/tree/main/Force-Sensor-Calibration-Software/Force-Sensor-Calibration-Data-Preparation)
 
 Pithon data preparation software organizes your collected data, summarizes the calibration process with statistics, and allows you to assess and verify the behavior of your sensors visually. This software tool does what would take hours to do in Excel as a painstaking manual data preparation process.
 
@@ -47,7 +47,7 @@ $\uparrow$ The command-line interface of Pithon force sensor calibration data pr
 
 The sensor response samples are aggregated to eliminate the effect of measurement noise. To this end, the number of samples, the mean, and the statistical variance are all reported for each calibration segment. In the most recent version, a measure of sensor drift over time and the variance after accounting for sensor drift are also reported. In addition, a 'partitioned' timeseries plot of the sensor response over the course of the calibration process is generated, which you can conveniently save for future reference.
 
-[**Pithon Data Processing Software**](https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/main/Force-Sensor-Calibration-Software/Force-Sensor-Calibration-Data-Processing/Force_Sensor_Calibration_Data_Processing.py)
+[**Pithon Data Processing Software**](https://github.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/tree/main/Force-Sensor-Calibration-Software/Force-Sensor-Calibration-Data-Processing)
 
 Pithon data processing software generates a calibration curve to model the behavior of your sensors, along with its microcontroller code.
 
