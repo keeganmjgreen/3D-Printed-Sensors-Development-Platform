@@ -136,7 +136,7 @@ The following is a modified version of the Pithon implementation in the example 
 
 ## Using Tapered Cavity Walls
 
-The following is a modified version of the Pithon implementation in the example process flow. Its cavity has tapered walls to support subsequent layers, leaving potential for printing without a support structure. The top face of the enclosing structure is hidden is transparent to better show the cavity walls.
+The following is a modified version of the Pithon implementation in the example process flow. Its cavity has tapered walls to support subsequent layers, leaving potential for printing without a support structure. The top face of the enclosing structure is hidden to better show the cavity walls.
 
 <img src="https://raw.githubusercontent.com/keeganmjgreen/3D-Printed-Sensors-Development-Platform/main/img/Example-Process-Flow/platform_2%20with%20Tapered%20Cavity%20Walls.png" alt="" style="zoom:100%;" />
 
